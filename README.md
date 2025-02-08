@@ -18,7 +18,7 @@ We plan to create a dataset using letterboxd's api and webscraping.
 We plan on testing a series of different methods for modeling the data to see what is most accurate.
 
 # How do you plan on visualizing the data:
-
+We can compare the ratings of movie based on individual factors, such as budget or release time to see if any there are any trends we can use to predict rating.
 
 # What is your test plan? 
 Our test plan is to train on data from before a specific cutoff date and then predict the ratings of movies after that.

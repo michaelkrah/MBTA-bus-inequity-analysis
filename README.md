@@ -21,5 +21,5 @@ We plan to create a dataset using letterboxd's api and webscraping.
 # What is your test plan? 
 Our test plan is to train on data from before a specific cutoff date and then predict the ratings of movies after that.
 
-#resources
+# Resources:
 https://www.learndatasci.com/tutorials/ultimate-guide-web-scraping-w-python-requests-and-beautifulsoup/ 

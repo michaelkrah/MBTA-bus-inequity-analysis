@@ -23,10 +23,10 @@ Primary Datasets:
 - MBTA 2023 System-Wide Passenger Survey Data.
 Supplementary Data:
 
-- Rider Census interactive tool data.
-- Demographic data from the 2020 Census for Boston and ACS transportation surveys.
-- PATI Bus Stop Coordinates for geospatial mapping.
-- Technical Documentation: Detailed data dictionaries and technical documentation are available to 
+      - Rider Census interactive tool data.
+      - Demographic data from the 2020 Census for Boston and ACS transportation surveys.
+      - PATI Bus Stop Coordinates for geospatial mapping.
+      - Technical Documentation: Detailed data dictionaries and technical documentation are available to 
       ensure proper data understanding and integration.
     
 # Data Modelling: 

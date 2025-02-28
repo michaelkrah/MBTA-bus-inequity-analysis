@@ -3,26 +3,28 @@ Final project for 506
 
 
 Proposal (Due 02/10)
-The project proposal should include the following:
-
 # Overview:
-Spark Project - Public transport plays an important role in the quality of life for residents in Massachusetts and Boston in terms of economic development, the environment, and equity. The goal of this project is to better understand the impact of bus performance on Boston residents by using MBTA bus data to examine service performance trends by geography.
+Spark Project - Public transport plays an important role in the quality of life for residents in Massachusetts and Boston in terms of economic development, the environment, and equity. The goal of this project is to better understand the impact of bus performance on Boston residents by using MBTA bus data to examine service performance trends by geography. More information on this specific project from Spark can be found [here](https://docs.google.com/document/d/1BDWIXxLIoyoAc7ZoDu54bQZFiHViBrydTfgQigjtaNY/edit?tab=t.0).  
 
 # Goals:
-- Ridership Analysis: Determine ridership per bus route and assess changes over time, especially comparing pre- and post-pandemic periods.
-- Travel & Wait Times: Evaluate end-to-end travel times and individual wait times (on time vs. delayed) to identify system performance.
+This project includes a list of key questions that can be investigated. To better understand the impact of bus performance we plan to investigate as many as possible over the semester. These include: 
+- Ridership Analysis: Determine ridership per bus route and assess changes over time, comparing pre- and post-pandemic periods.
+- Travel Times: Evaluate end-to-end travel time and wait times for each bus route.
 - Delay Metrics: Compute average delay times both citywide and for target routes identified in the Livable Streets report.
 - Equity Assessment: Analyze if service disparities correlate with demographic characteristics such as race, ethnicity, income, or age.
 - Trend Visualization: Create time series and geospatial visualizations to reveal performance trends and pinpoint areas for improvement.
 
-# Data Collection :
+
+
+# Data Collection:
+This project includes several main datasets that we will use for the bulk of our analysis.  
 Primary Datasets:
-- MBTA Bus Arrival/Departure Times (2018–2024) for reliability analysis.
-- Bus Ridership by Trip, Season, Route/Line, and Stop.
-- MBTA 2023 System-Wide Passenger Survey Data.
+- MBTA Bus Arrival/Departure Times (2018–2024) for reliability analysis. Available [here](https://mbta-massdot.opendata.arcgis.com/search?collection=dataset&q=mbta%20bus%20arrival%20departure%20time).
+- Bus Ridership by Trip, Season, Route/Line, and Stop. Available [here](https://mbta-massdot.opendata.arcgis.com/datasets/eec03d901d2e470ebd5758c60d793e8e_0/explore).
+- MBTA 2023 System-Wide Passenger Survey Data. Available [here](https://mbta-massdot.opendata.arcgis.com/datasets/faaf1295847e4673a03b40cef2c53df1_0/explore).
       
 Supplementary Data:
-- Rider Census interactive tool data.
+- Rider Census interactive tool data. 
 - Demographic data from the 2020 Census for Boston and ACS transportation surveys.
 - PATI Bus Stop Coordinates for geospatial mapping.
 - Technical Documentation: Detailed data dictionaries and technical documentation are available to 

@@ -1,7 +1,9 @@
 import pandas as pd
 from datetime import datetime, timedelta
+import sys
 
 ## Computes the duration of each full trip in seconds
+# Takes two file paths as arguments - one for the dataset to be used, one for the resulting csv.
 
 def compute_end_to_end_times(input_csv, output_csv):
     # Read CSV
@@ -9,11 +11,9 @@ def compute_end_to_end_times(input_csv, output_csv):
     
     # Strip whitespace from column names.
     df.columns = df.columns.str.strip()
-
-    print(df.columns)
     
     # Check that the required columns exist
-    required = ['service_date', 'route_id', 'direction_id', 'half_trip_id', 'time_point_order', 'actual', 'point_type']
+    required = ['service_date', 'route_id', 'direction_id', 'half_trip_id', 'time_point_order', 'actual']
     missing = [col for col in required if col not in df.columns]
     if missing:
         print("Error: Missing expected columns:", missing)
@@ -43,6 +43,6 @@ def compute_end_to_end_times(input_csv, output_csv):
         print("No valid trips found in the input CSV.")
 
 if __name__ == "__main__":
-    input_csv = "./MBTA_Bus_Ridership_by_Trip_Season_Route_Line_and_Stop/MBTA-Bus-Arrival-Departure-Times_2024-07.csv"
-    output_csv = "end_to_end_times.csv"
+    input_csv = sys.argv[1]
+    output_csv = sys.argv[2]
     compute_end_to_end_times(input_csv, output_csv)

@@ -1,5 +1,6 @@
 import pandas as pd
 from datetime import datetime, timedelta, timedelta
+import sys
 
 ## Computes the difference between actual and scheuled arrival times per STOP, not trip.
 
@@ -49,6 +50,6 @@ def compute_trip_delays(input_csv, output_csv):
         print("No valid trips found.")
 
 if __name__ == "__main__":
-    input_csv = "./MBTA_Bus_Ridership_by_Trip_Season_Route_Line_and_Stop/MBTA-Bus-Arrival-Departure-Times_2024-07.csv"  # Update as needed.
-    output_csv = "trip_delays.csv"
+    input_csv = sys.argv[1]
+    output_csv = sys.argv[2]
     compute_trip_delays(input_csv, output_csv)

@@ -10,6 +10,8 @@ def compute_trip_delays(input_csv, output_csv):
     # Clean up column names by stripping whitespace
     df.columns = df.columns.str.strip()
     
+    print(df.columns)
+
     # Required columns:
     required_cols = ['service_date', 'route_id', 'direction_id', 'half_trip_id',
                      'time_point_order', 'scheduled', 'actual']

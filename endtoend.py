@@ -9,9 +9,11 @@ def compute_end_to_end_times(input_csv, output_csv):
     
     # Strip whitespace from column names.
     df.columns = df.columns.str.strip()
+
+    print(df.columns)
     
     # Check that the required columns exist
-    required = ['service_date', 'route_id', 'direction_id', 'half_trip_id', 'time_point_order', 'actual']
+    required = ['service_date', 'route_id', 'direction_id', 'half_trip_id', 'time_point_order', 'actual', 'point_type']
     missing = [col for col in required if col not in df.columns]
     if missing:
         print("Error: Missing expected columns:", missing)

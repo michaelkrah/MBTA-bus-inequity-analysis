@@ -1,5 +1,17 @@
-# 506-data-analysis
-Final project for 506
+# Boston Bus Equity 
+
+
+# Midterm Report:
+
+## Video Link: 
+
+## Preliminary visualizations of data
+
+## Detailed description of data processing done so far
+
+## Detailed description of data modeling methods used so far
+
+## Preliminary results.
 
 
 Proposal (Due 02/10)

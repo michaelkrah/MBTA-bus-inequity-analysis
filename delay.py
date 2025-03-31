@@ -1,6 +1,8 @@
 import pandas as pd
 from datetime import datetime, timedelta, timedelta
 
+## Computes the difference between actual and scheuled arrival times per STOP, not trip.
+
 def compute_trip_delays(input_csv, output_csv):
     # Read the CSV file
     df = (pd.read_csv(input_csv, low_memory=False))
@@ -33,10 +35,6 @@ def compute_trip_delays(input_csv, output_csv):
     results = df[['trip_id', 'scheduled_dt', 'actual_dt']]
     # Get the delay (currently NOT in seconds)
     results['delay_seconds'] = (results['actual_dt'] - results['scheduled_dt'])
-
-    # Adjust for a likely day rollover only if scheduled time is late and actual time is very early
-    # If sched.hour >= 23 and act.hour < 3, assume arrival is next day
-    results.loc[(results['scheduled_dt'].dt.hour >= 23) & (results['actual_dt'].dt.hour < 3)]['delay_seconds'] += timedelta(days=1)
 
     # Convert to seconds
     results['delay_seconds'] = results['delay_seconds'].dt.total_seconds()

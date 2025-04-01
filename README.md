@@ -19,17 +19,21 @@ We have used the following datasets from the MBTA site:
 - [2023 Passenger Wide Survey Data](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-2023-system-wide-passenger-survey-data/about) 
 
 
+### Ridership Data Processing and Modeling:
+
+Pre and post covid ridership was calculated using available monthly ridership data for the entire MBTA bus system and for available bus routes. Pre-covid data was considered as all data from 2019, and post-covid data as averages from 2022 and 2023, and 2024. Data from 2020 and 2021 was considered to be during covid and was not used.  
+
+
 ### End to End Data Processing and Modeling:
 
 
 
 ### Delay Data Processing and Modeling:
 
+Delays for individual bus trips was calculated by subtracting the actual arrival time from the scheduled arrival time in the arrival and departure dataset. This was then grouped by route and stop to find average and maximum delay times for all routes. This was associated with available geospatial data for bus stop and route locations to cluster stops and analyze spatial disparities in ArcGIS.
+
 ### Visualizations and Preliminary Results:
 
-
-
-## Preliminary results:
 
 
 

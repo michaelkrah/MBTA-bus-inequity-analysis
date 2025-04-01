@@ -6,17 +6,32 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 [Youtube Presentation Link](https://youtu.be/62y40h25OEA)
 
-### Ridership Data Processing:
+### Datasets:
 
+We have used the following datasets from the MBTA site:
+
+- [Ridership data from 2018-2024](https://mbta-massdot.opendata.arcgis.com/datasets/8daf4a33925a4df59183f860826d29ee/about)
+
+- [Bus Stop Location and IDs](https://mbta-massdot.opendata.arcgis.com/datasets/24a97982b39f4febb504c9e6cb55879b_0/explore)
+
+- [Arrival and Departure Times 2019-2024](https://mbta-massdot.opendata.arcgis.com/search?collection=dataset&q=mbta%20bus%20arrival%20departure%20time)
+
+- [2023 Passenger Wide Survey Data](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-2023-system-wide-passenger-survey-data/about) 
 
 
 ### End to End Data Processing and Modeling:
+
+
 
 ### Delay Data Processing and Modeling:
 
 ### Visualizations and Preliminary Results:
 
-## Preliminary results.
+
+
+## Preliminary results:
+
+
 
 
 

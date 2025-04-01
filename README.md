@@ -23,6 +23,8 @@ We have used the following datasets from the MBTA site:
 
 Pre and post covid ridership was calculated using available monthly ridership data for the entire MBTA bus system and for available bus routes. Pre-covid data was considered as all data from 2019, and post-covid data as averages from 2022 and 2023, and 2024. Data from 2020 and 2021 was considered to be during covid and was not used.  
 
+![Comparison of Ridership for all MBTA Routes](assets/bus_covid_ridership.png)
+
 
 ### End to End Data Processing and Modeling:
 

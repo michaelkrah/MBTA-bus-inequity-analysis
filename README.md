@@ -33,9 +33,9 @@ Delays for individual bus trips was calculated by subtracting the actual arrival
 
 ### Visualizations and Preliminary Results:
 
-<img src="assets/bus_covid_ridership.png" alt="Comparison of Ridership for all MBTA Routes" width="300">*All Boston Bus Stops*
+<img src="assets/boston_all_stations.png" alt="all_boston_stations" width="500">*All Boston Bus Stops*
 
-<img src="assets/bus_covid_ridership.png" alt="Comparison of Ridership for all MBTA Routes" width="300">*10% of Bus Stops with Highest Recorded Absolute Average Delay*
+<img src="assets/boston_stops_with_highest_average_delay.png" alt="boston_stops_with_highest_average_delay" width="500">*10% of Bus Stops with Highest Recorded Absolute Average Delay*
 
 ![average_route_delay](assets/average_route_delay.png)
 *Average Absolute Route Delay, Stops Identified By the Livable Streets Report Are Highlighted*

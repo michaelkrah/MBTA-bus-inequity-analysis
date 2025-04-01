@@ -20,6 +20,8 @@ We have used the following datasets from the MBTA site:
 Pre and post covid ridership was calculated using available monthly ridership data for the entire MBTA bus system and for available bus routes. Pre-covid data was considered as all data from 2019, and post-covid data as averages from 2022 and 2023, and 2024. Data from 2020 and 2021 was considered to be during covid and was not used.
 
 ![Comparison of Ridership for all MBTA Routes](assets/bus_covid_ridership.png)
+*Comparison of Ridership for all MBTA Routes*
+
 
 ### End to End Data Processing and Modeling:
 
@@ -27,9 +29,20 @@ The data, grouped by routes, will have an additional aggregate feature that cont
 
 ### Delay Data Processing and Modeling:
 
-Delays for individual bus trips was calculated by subtracting the actual arrival time from the scheduled arrival time in the arrival and departure dataset. This was then grouped by route and stop to find average and maximum delay times for all routes. This was associated with available geospatial data for bus stop and route locations to cluster stops and analyze spatial disparities in ArcGIS.
+Delays for individual bus trips was calculated by subtracting the actual arrival time from the scheduled arrival time in the arrival and departure dataset. This was then grouped by route and stop to find average and maximum delay times for all routes and stops. We associated these results with available geospatial data for bus stop and route locations to cluster stops and visually analyze locational disparities in ArcGIS.
 
 ### Visualizations and Preliminary Results:
+
+![all_boston_stations](assets/boston_all_stations.png)
+*All Boston Bus Stops*
+
+![boston_stops_with_highest_average_delay.png](assets/boston_stops_with_highest_average_delay.png)
+*10% of Bus Stops with Highest Recorded Absolute Average Delay*
+
+![average_route_delay](assets/average_route_delay.png)
+*Average Absolute Route Delay, Stops Identified By the Livable Streets Report Are Highlighted*
+
+Initial results show higher than average levels of delays among the bus routes first identified as underserved by the livable street reports in 2019 [here](https://d3n8a8pro7vhmx.cloudfront.net/livablestreetsalliance/pages/6582/attachments/original/1569205099/lsa-better-buses-2019-v9-20sep19.pdf?1569205099). We hope to further analyze this trend to understand how these disparities have changed over time, especially in the context of lower bus usage post-covid. We plan to analyze locational clusters of stops or routes that may be underserved to identify if there are any correlations between these disparities and groups impacted. 
 
 # Initial Proposal:
 

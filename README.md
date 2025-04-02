@@ -2,7 +2,7 @@
 
 Spark Project - Public transport plays an important role in the quality of life for residents in Massachusetts and Boston in terms of economic development, the environment, and equity. The goal of this project is to better understand the impact of bus performance on Boston residents by using MBTA bus data to examine service performance trends by geography. More information on this specific project from Spark can be found [here](https://docs.google.com/document/d/1BDWIXxLIoyoAc7ZoDu54bQZFiHViBrydTfgQigjtaNY/edit?tab=t.0).
 
-### Video Link:
+### Midterm Check-in Video Link:
 
 [Youtube Presentation Link](https://youtu.be/62y40h25OEA)
 

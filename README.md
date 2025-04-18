@@ -33,7 +33,7 @@ Supplementary Data:
 # Data Modelling: 
 - Standardization: Normalize datasets to consistent formats (date/time, route identifiers, etc.) and handle missing values.
 - Integration: Merge disparate datasets (e.g., reliability and ridership data) using common identifiers.
-- Validation: Verify the accuracy of data entries with reference to MBTA’s technical documentation and external reports.
+- Validation: Verify the accuracy of data entries with reference to MBTA's technical documentation and external reports.
 Feature Extraction
 - Performance Metrics: Compute key metrics such as average travel times, wait times, and delay durations.
 - Temporal Features: Extract time-based features (e.g., time-of-day, day-of-week, seasonality) for trend analysis.
@@ -52,3 +52,9 @@ Feature Extraction
 - Statistical Metrics: Monitor summary statistics (mean, median, variance) for key performance indicators.
 - Visual Quality: Ensure visualizations are clear, informative, and accurately represent underlying data trends.
 - Stakeholder Feedback: Gather input from the City of Boston Analytics Team and community partners to refine analyses and recommendations.
+
+# Analysis Results:
+- Bus Delay Analysis: We've analyzed bus delays across different routes and time periods, identifying patterns in service disruptions.
+- Ridership Trends: Our analysis shows significant changes in ridership patterns pre and post-pandemic, with some routes showing stronger recovery than others.
+- Route Performance: We've identified key routes that consistently perform well and those that need improvement in terms of reliability and on-time performance.
+- Equity Impact: Preliminary analysis suggests correlations between service quality and demographic characteristics in certain neighborhoods.

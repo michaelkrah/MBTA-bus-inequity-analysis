@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 
+
 def preprocess_routes(routes_df: pd.DataFrame) -> pd.DataFrame:
   # Clean up data: Some bus lines are used as temporary shuttles, are the silver line, or aren't on the mbta page
   routes_df = routes_df[~routes_df['route_id'].str.startswith(('600', '700', 'rad', '743', "171", "194"))]

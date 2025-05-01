@@ -1,6 +1,5 @@
 # Python file to standarize preprocessing of routes across different jupyter notebooks
 import pandas as pd
-import numpy as np
 
 def preprocess_routes(routes_df: pd.DataFrame) -> pd.DataFrame:
   # Clean up data: Some bus lines are used as temporary shuttles, are the silver line, or aren't on the mbta page

@@ -1,0 +1,703 @@
+X,Y,FID,Brf_Status,FID_,Field1,Stop_ID,Stop_Name,Longitude,Latitude,Municip,PATI_Prgrm,Brf_Stat_1,Routes,Bus_Ctgry,Trash17,BikeRks17,Trees17,Hydrants17,UtPoles17,LtPoles17,NewsBxs17,MailBxs17,Planters17,BlkdPath17,SeatNum17,SeatType17,SeatCond17,Stop_ID_1,Program,PATI_Prior
+-7900666.53152446,5195587.59625812,2997,Other,2506,2505,3799,Quincy Ave @ Hayward St,-70.972895,42.230617,Braintree, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3799,Unprogrammed,Medium
+-7915815.66706805,5222222.60042177,4591,Other,2213,3411,5294,Main St @ Wellesley St,-71.108982,42.407532,Medford, , ,101,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,5294,Unprogrammed,Medium
+-7896808.08665408,5233551.19736242,246,Compliant,4735,4319,6849,Eastern Ave @ Glenwood St,-70.938234,42.482628,Lynn,PATI Future,In progress,"424, 456",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6849,PATI Phase 2,Compliant
+-7911146.81630469,5226874.37724227,1468,In progress,5883,5482,9220,Main St opp Fairlawn St,-71.067041,42.438379,Malden,PATI Future,In progress,"131, 137",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,9220,PATI Phase 2,Medium
+-7915069.0472433,5209479.22149648,1836,Other,1534,733,1155,Centre St @ Bickford St,-71.102275,42.32295,Boston, , ,41,Local Bus,0,0,0,0,0,0,0,2,0,No,0, , ,1155,Unprogrammed,Medium
+-7900432.7605938,5215176.68265884,6092,Other,6108,6907,109848,Shirley St @ Bay View Ave,-70.970795,42.36078,Winthrop, , ,"712, 713",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,109848,Unprogrammed,Medium
+-7922470.90282513,5213623.2838162,1719,Other,1389,588,912,Tremont St @ Washington St,-71.168767,42.350468,Boston, , ,"57, 501",Key Bus,0,0,2,0,0,0,0,0,0,No,0, , ,912,Unprogrammed,Medium
+-7897700.75765075,5233166.29459497,3540,Other,3774,2973,4480,Western Ave opp Tracey Ave,-70.946253,42.480078,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4480,Unprogrammed,Medium
+-7904372.69133145,5185075.99648195,3403,Other,2585,2584,3902,N Franklin St @ Belcher St,-71.006188,42.16066,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3902,Unprogrammed,Medium
+-7917494.03103074,5192170.65467031,3928,Other,6215,7012,121014,Royall St @ JW Foster Blvd,-71.124059,42.207885,Canton, , ,716,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,121014,Unprogrammed,Medium
+-7895756.67406354,5193484.85615482,102,In progress,2450,2449,3688,Broad St opp Hillcrest Rd,-70.928789,42.216629,Weymouth,PATI Future,In progress,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3688,PATI Phase 2,High
+-7919056.51140352,5209412.52291455,1411,In progress,6938,6322,41835,Lee St @ Warren St,-71.138095,42.322507,Brookline,PATI Future,In progress,51,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,41835,PATI Phase 2,High
+-7907045.69494438,5222551.72506899,1413,In progress,3260,3658,5590,Washington Ave @ Annese Rd,-71.0302,42.409715,Chelsea,PATI Future,In progress,111,Key Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5590,PATI Phase 2,High
+-7902418.70030956,5230211.36758671,5266,Other,4206,4603,7443,Boston St opp Hamilton St,-70.988635,42.460498,Lynn, , ,426,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7443,Unprogrammed,Medium
+-7905630.7128969,5227005.15530249,5622,Other,4174,4571,7408,Salem St @ Waitt Ct,-71.017489,42.439246,Revere, , ,"426, 428, 429",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7408,Unprogrammed,Medium
+-7923994.42137612,5218758.96779269,1075,Other,544,1343,2103,Trapelo Rd @ Walnut St,-71.182453,42.384554,Belmont, , ,73,Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2103,Unprogrammed,Low
+-7910098.85461836,5215224.2888987,1262,Compliant,6766,6150,30203,Congress St @ Sudbury St,-71.057627,42.361096,Boston,PATI Complete,Compliant,"4, 92, 93",Local Bus,0,0,0,1,0,0,1,0,0,No,0, , ,30203,PATI Phase 1,Compliant
+-7917020.5892364,5219475.46700682,3827,Other,689,1488,2316,Massachusetts Ave @ Davenport St,-71.119806,42.389308,Cambridge, , ,"77, 83, 96",Key Bus,0,1,2,0,2,2,0,0,0,No,0,Metal Bench,Excellent,2316,Unprogrammed,Medium
+-7932771.18398874,5234040.57482676,1047,Other,4863,4857,7893,Great Rd opp Shawsheen Ave,-71.261296,42.48587,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7893,Unprogrammed,Medium
+-7935919.85578582,5229739.08750277,3535,Other,6589,6771,86180,Hanscom Field Dr @ Old Bedford Rd,-71.289581,42.457368,Lincoln, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,86180,Unprogrammed,Critical
+-7898316.46575433,5201570.95865064,5459,Other,2962,2161,3267,Sea St @ Winthrop St,-70.951784,42.270403,Quincy, , ,216,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3267,Unprogrammed,Medium
+-7929598.13322317,5207438.27689029,1534,In progress,6549,6731,82135,Central Ave @ Gould St,-71.232792,42.309393,Needham,PATI Future,In progress,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,82135,Unprogrammed,Medium
+-7920323.21588925,5204971.42389143,2132,Other,427,1226,1847,Weld St @ Church St,-71.149474,42.293003,Boston, , ,51,Local Bus,0,0,1,0,1,0,0,0,0,No,0, , ,1847,Unprogrammed,Medium
+-7917372.58146629,5224932.67921745,4681,Other,5842,5441,9175,Winthrop St @ Woodside Rd,-71.122968,42.425505,Medford, , ,"94, 95, 101, 134",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9175,Unprogrammed,Medium
+-7908886.36272464,5224783.68236081,5506,Other,2286,3484,5383,Bowdoin St @ Newland St,-71.046735,42.424517,Malden, , ,105,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5383,Unprogrammed,Medium
+-7887616.54761878,5236594.44382121,4520,Other,3986,3185,4839,Pleasant St @ Spring St,-70.855665,42.502786,Marblehead, , ,"441, 442",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,4839,Unprogrammed,Medium
+-7902934.66614938,5231842.19793417,234,In progress,4686,4270,6738,Garfield Ave @ Sherman St,-70.99327,42.471305,Lynn,PATI Future,In progress,429,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6738,PATI Phase 2,Medium
+-7919165.15922653,5234256.44031276,6190,Other,6257,6440,49831,Salem St @ Hilltop Terr,-71.139071,42.4873,Woburn, , ,354,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,49831,Unprogrammed,Medium
+-7918201.46639473,5204914.23784362,2143,Other,438,1237,1871,Walter St @ Mendum St,-71.130414,42.292623,Boston, , ,51,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,1871,Unprogrammed,Medium
+-7925176.0777709,5211777.22177567,1563,In progress,5136,5129,8525,Centre St @ Ward St,-71.193068,42.338211,Newton,PATI Future,In progress,52,Local Bus,0,0,1,0,1,0,0,0,0,No,0, , ,8525,Unprogrammed,High
+-7920980.00088493,5226563.65462143,6048,Other,4994,4988,8268,Cambridge St @ Arlington St,-71.155374,42.436319,Winchester, , ,350,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,8268,Unprogrammed,Elimination Planned
+-7921581.01481573,5238365.92059737,6178,Other,5812,5411,9142,Main St opp Mountain St,-71.160773,42.514517,Woburn, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9142,Unprogrammed,Medium
+-7907958.06949092,5219829.36589757,3948,Other,3275,3673,5607,Third St @ Chestnut St,-71.038396,42.391656,Chelsea, , ,"111, 112, 114",Key Bus,3,0,0,0,0,0,0,0,0,No,1, , ,5607,Unprogrammed,Medium
+-7915591.58093308,5216807.18204873,3801,Other,628,1427,2220,Broadway @ Crawford St,-71.106969,42.371602,Cambridge, , ,68,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,2220,Unprogrammed,Low
+-7897495.15055126,5196186.87530639,6788,Other,2463,2462,3701,North St opp Saning Rd,-70.944406,42.234603,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3701,Unprogrammed,Medium
+-7900298.84324638,5230949.71088051,240,Compliant,4702,4286,6759,Boston St opp Kirtland St,-70.969592,42.465391,Lynn,PATI Future,In progress,429,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,6759,PATI Phase 2,Stop Eliminated
+-7923950.67281624,5223996.66201313,133,In progress,4429,4013,6203,Park Ave @ Florence Ave,-71.18206,42.419298,Arlington,PATI Future,In progress,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6203,PATI Phase 2,High
+-7904136.13741351,5219598.60664377,1371,Other,4463,4047,6292,Orient Ave @ Selma St,-71.004063,42.390125,Boston, , ,120,Local Bus,1,0,0,0,1,0,0,0,0,No,0, , ,6292,PATI Phase 2,High
+-7898225.74036934,5201814.81867913,5453,Other,2960,2159,3265,Sea St @ Fensmere Ave,-70.950969,42.272024,Quincy, , ,"216, 214216",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3265,Unprogrammed,Medium
+-7902120.03011575,5218296.15080468,6098,Other,6119,6917,109868,Main St @ Hermon St,-70.985952,42.381483,Winthrop, , ,"712, 713",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,109868,Unprogrammed,Medium
+-7931605.89155911,5220656.28688826,6482,Other,6033,6832,89609,Totten Pond Rd @ Winter St,-71.250828,42.397142,Waltham, , ,61,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,89609,Unprogrammed,Medium
+-7908101.67163404,5211383.11449368,438,Other,833,32,43,E Broadway @ I St,-71.039686,42.335594,Boston, , ,"9, 10",Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,43,Unprogrammed,Low
+-7934631.77795785,5234122.24083943,1040,Other,4856,4850,7886,South Rd @ Railroad Ave,-71.27801,42.486411,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7886,Unprogrammed,Medium
+-7893792.77560697,5237554.21044738,5708,Other,3760,2959,4462,Highland Ave @ Cherry Hill Ave,-70.911147,42.509142,Salem, , ,"450, 456",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4462,Unprogrammed,Medium
+-7898540.66320879,5233023.50720444,5065,Other,4065,4464,7255,Chestnut St opp Allerton St,-70.953798,42.479132,Lynn, , ,"435, 436",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7255,Unprogrammed,Medium
+-7917240.77918918,5216947.76588474,3905,Compliant,6809,6193,32549,Eliot St @ Bennett St,-71.121784,42.372535,Cambridge, ,Compliant,"66, 71, 74, 75, 77, 78, 86, 96",Key Bus,2,3,0,0,0,0,0,0,0,No,0,Wood Bench,Good,32549,Unprogrammed,Compliant
+-7907417.27940464,5198117.42459884,5720,Other,3078,2276,3402,Willard St @ California Ave,-71.033538,42.247442,Quincy, , ,215,Local Bus,0,0,1,0,0,0,0,0,0,Yes,0, , ,3402,Unprogrammed,Medium
+-7907448.67150105,5226299.24676544,5762,Other,5705,5304,9018,Salem St opp Wescott St,-71.03382,42.434566,Malden, , ,108,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,9018,Unprogrammed,Medium
+-7897872.18966657,5197387.95287734,6768,Other,2424,2423,3660,Sea St @ Pearl St,-70.947793,42.242591,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3660,Unprogrammed,Medium
+-7926698.03784902,5213412.55820366,4326,Other,6522,6704,81651,Walnut St @ Washington Pk,-71.20674,42.349069,Newton, , ,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,81651,Unprogrammed,Medium
+-7895573.88745965,5198198.02932709,3387,Other,3197,2395,3608,Lincoln St opp Beal St,-70.927147,42.247978,Hingham, , ,220,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3608,Unprogrammed,Medium
+-7909358.91396306,5210943.24568012,536,Other,967,166,258,E 8th St @ Dorchester St,-71.05098,42.332673,Boston, , ,11,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,258,Unprogrammed,Medium
+-7915335.54610426,5216670.81922981,3802,Other,629,1428,2221,Broadway @ Lee St,-71.104669,42.370697,Cambridge, , ,68,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2221,Unprogrammed,Low
+-7919142.89532837,5198321.19347156,2551,Other,4573,4157,6517,Turtle Pond Pkwy @ Bajko Rink,-71.138871,42.248797,Boston, , ,33,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6517,Unprogrammed,Medium
+-7916627.52011441,5221250.21933464,801,In progress,1820,1819,2738,Broadway @ Warner St - Powder House Sq,-71.116275,42.401082,Somerville,PATI Future,In progress,"80, 89, 8993",Local Bus,0,0,0,0,1,0,0,1,0,No,0, , ,2738,PATI Phase 2,High
+-7919602.53350586,5210062.5153376,3615,Other,6533,6715,81917,Chestnut Hill Ave @ Channing Rd,-71.143,42.326824,Brookline, , ,51,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,81917,PATI Phase 2,Medium
+-7891822.30930043,5236600.18159479,5833,Other,3551,3948,6115,Loring Ave opp Rainbow Terr,-70.893446,42.502824,Salem, , ,455,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6115,Unprogrammed,Medium
+-7922637.88206132,5198589.33290853,3255,Other,6403,6586,70618,272 Washington St,-71.170267,42.25058,Dedham, , ,"34E, 34",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,70618,Unprogrammed,Medium
+-7924946.87093935,5207423.37450806,4340,Other,6568,6750,84921,Wheeler Rd @ Meadowbrook Rd,-71.191009,42.309294,Newton, , ,52,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,84921,Unprogrammed,Medium
+-7910264.16406219,5189702.05890448,5225,Compliant,6952,6336,42951,Opp 1048 N Main St,-71.059112,42.191457,Randolph, ,Compliant,240,Local Bus,1,0,1,0,0,0,0,1,0,No,0, , ,42951,Unprogrammed,Medium
+-7894123.95109207,5233490.66847599,6996,Other,3564,3961,6129,Opp 399 Essex St,-70.914122,42.482227,Swampscott, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6129,Unprogrammed,Medium
+-7898646.63936402,5201273.40074441,38,Compliant,6814,6198,32681,Sea St @ Parkhurst St,-70.95475,42.268425,Quincy, ,Compliant,216,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,32681,PATI Phase 2,Compliant
+-7919130.87282337,5202520.85966613,1607,Other,1260,459,630,Washington St @ Blue Ledge Dr,-71.138763,42.276717,Boston, , ,"40, 34E, 34",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,630,Unprogrammed,Medium
+-7929510.97006187,5217596.76893029,6464,Other,6615,6797,86945,Main St @ Appleton St,-71.232009,42.376842,Waltham, , ,70,Local Bus,1,0,0,0,1,1,0,0,0,No,0, , ,86945,Unprogrammed,Medium
+-7919528.2834055,5207731.21130368,3608,Other,6323,6506,51917,Clyde St @ Whitney St,-71.142333,42.311339,Brookline, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,51917,Unprogrammed,Medium
+-7916314.82366477,5198888.31055037,1374,In progress,4515,4099,6399,Milton Ave @ Highland St,-71.113466,42.252568,Boston,PATI Future,In progress,24,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6399,Unprogrammed,High
+-7898392.49696654,5201386.97710428,5461,Other,2963,2162,3268,Sea St opp Macy St,-70.952467,42.26918,Quincy, , ,216,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3268,Unprogrammed,Medium
+-7927005.50228259,5186677.74676682,4387,Other,6361,6544,61848,Washington St @ Morse St,-71.209502,42.171325,Norwood, , ,34E,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,61848,Unprogrammed,Medium
+-7907361.0630618,5223080.79093685,3930,Other,3257,3655,5587,60 Woodlawn Ave,-71.033033,42.413224,Chelsea, , ,111,Key Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5587,Unprogrammed,Medium
+-7925841.32304788,5214152.00131748,4152,Other,4323,4720,7643,Washington St @ Craft St,-71.199044,42.353978,Newton, , ,"553, 554, 556",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,7643,Unprogrammed,Medium
+-7904643.53165255,5205600.34269056,5188,Other,2865,2064,3145,Huckins Ave @ Bellevue Rd,-71.008621,42.297182,Quincy, , ,211,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3145,Unprogrammed,Medium
+-7930344.30776996,5214726.9962875,1546,In progress,4339,4736,7658,River St @ Lexington St,-71.239495,42.357795,Newton,PATI Future,In progress,"553, 554",Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,7658,Unprogrammed,Medium
+-7905202.13285735,5188187.37888433,3040,Other,2595,2594,3915,Washington St @ Park Ave,-71.013639,42.181375,Braintree, , ,230,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3915,Unprogrammed,Medium
+-7916459.87296127,5206686.11217244,2182,Other,483,1282,2007,South St @ St Rose St,-71.114769,42.304396,Boston, , ,"38, 39",Key Bus,0,0,0,1,0,1,0,0,0,No,0, , ,2007,Unprogrammed,Low
+-7920482.18012211,5232711.67670862,6132,Other,4749,4333,6941,Main St @ Myrtle St,-71.150902,42.477066,Woburn, , ,134,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,6941,Unprogrammed,Medium
+-7917991.96311306,5221684.53719956,6732,Other,1742,1741,2635,Broadway @ Dickson St,-71.128532,42.403963,Somerville, , ,"87, 88, 89, 8993",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2635,Unprogrammed,Low
+-7894968.64338821,5232539.31402791,7013,Other,5509,5898,16132,Essex St opp Burrill St,-70.92171,42.475924,Swampscott, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,16132,Unprogrammed,Medium
+-7892723.66321738,5239287.65492046,5704,Other,3754,2953,4455,Essex St @ Beckford St,-70.901543,42.52062,Salem, , ,"450, 456",Local Bus,0,0,1,1,1,0,0,0,0,No,0, , ,4455,Unprogrammed,Medium
+-7921006.27228476,5204849.97919631,2154,Other,449,1248,1884,Weld St @ Willow St,-71.15561,42.292196,Boston, , ,51,Local Bus,0,0,1,1,0,0,0,0,0,No,0, , ,1884,Unprogrammed,Medium
+-7906559.67404757,5196618.09097111,5953,Other,2731,2730,4094,West St @ Trask Ave,-71.025834,42.237471,Quincy, , ,238,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4094,Unprogrammed,Medium
+-7910715.45327787,5222901.81891924,3275,Other,2300,3498,5398,Main St @ Everett St,-71.063166,42.412037,Everett, , ,"99, 105, 106",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5398,Unprogrammed,Medium
+-7915193.72507299,5207629.90254018,2851,Other,6786,6170,31187,Washington St @ Ophir St,-71.103395,42.310666,Boston, , ,42,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,31187,Unprogrammed,Medium
+-7902516.77278094,5237706.27808637,264,In progress,4123,4520,7340,Lynnfield St opp Lookout Terr,-70.989516,42.510149,Lynn,PATI Future,In progress,436,Local Bus,0,0,0,0,1,0,0,0,0,Yes,0, , ,7340,PATI Phase 2,High
+-7892252.55913235,5233415.04564927,7010,Compliant,5433,5822,14868,Salem St @ Tedesco Golf Course,-70.897311,42.481726,Swampscott, ,Compliant,441,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,14868,Unprogrammed,Compliant
+-7910628.95803352,5222477.39587207,3277,Other,2302,3500,5400,Main St @ Baldwin Ave,-71.062389,42.409222,Everett, , ,"99, 105, 106",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5400,Unprogrammed,Medium
+-7892451.04178443,5199496.37111399,1434,In progress,3187,2385,3595,Otis St @ Downer Ave,-70.899094,42.256611,Hingham,PATI Future,In progress,220,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3595,Unprogrammed,High
+-7904329.27673004,5197943.13425373,4413,Other,6667,6051,23407,Opp 125 Granite St,-71.005798,42.246283,Quincy, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,23407,Unprogrammed,Medium
+-7904644.64484746,5184204.87182884,3408,Other,2626,2625,3966,N Franklin St @ Union St,-71.008631,42.154859,Holbrook, , ,230,Local Bus,1,0,1,0,0,0,0,0,0,No,0, , ,3966,Unprogrammed,Medium
+-7910942.21108061,5218113.50181167,2261,Other,1915,1914,2864,Bunker Hill St @ Sackville St,-71.065203,42.380271,Boston, , ,"93, 8993",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2864,Unprogrammed,Medium
+-7920907.64321592,5216991.16196012,6582,Other,515,1314,2061,Mt Auburn St opp Keenan St,-71.154724,42.372823,Watertown, , ,71,Key Bus,1,0,0,0,1,0,1,0,0,No,0, , ,2061,Unprogrammed,Low
+-7908137.73914905,5181626.9548261,51,In progress,3625,2824,4235,S Main St @ Acorn Dr,-71.04001,42.137689,Randolph,PATI Future,In progress,"238, 240",Local Bus,0,0,0,0,0,0,0,0,0,Yes,0, , ,4235,Unprogrammed,High
+-7914183.27805506,5201125.07657966,2482,Other,4497,4081,6368,River St @ Cummings Hwy,-71.094318,42.267439,Boston, , ,"24, 33",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,6368,Unprogrammed,Low
+-7912384.13244486,5212107.94119196,1887,Compliant,1588,787,1232,Tremont St @ W Concord St,-71.078156,42.340407,Boston, ,Compliant,43,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,1232,Unprogrammed,Compliant
+-7898448.15671194,5229612.64719252,3574,Other,3887,3086,4703,Lynnway @ Shepard St,-70.952967,42.45653,Lynn, , ,"439, 441, 442, 441442",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,4703,Unprogrammed,Medium
+-7918003.98561807,5224322.98325103,4627,Other,4482,4066,6317,High St @ Allston St,-71.12864,42.421462,Medford, , ,"94, 95",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,6317,Unprogrammed,Low
+-7920368.96819997,5233050.67588623,6212,Other,6308,6491,50916,Montvale Ave opp Prospect St,-71.149885,42.479312,Woburn, , ,354,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,50916,Unprogrammed,Medium
+-7909662.03693649,5188525.23886605,5190,Compliant,3660,2859,4290,N Main St @ Francis Dr,-71.053703,42.183624,Randolph, ,Compliant,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4290,Unprogrammed,Medium
+-7913279.92038727,5210462.8919145,2707,Other,5239,5628,11259,Malcolm X Blvd @ Shawmut Ave,-71.086203,42.329483,Boston, , ,"15, 19, 23, 28, 44, 45, 66",Key Bus,1,0,1,1,0,2,0,0,0,Yes,0, , ,11259,Unprogrammed,Medium
+-7909898.9248129,5217402.68116277,2747,Other,5331,5720,12838,Chelsea St @ Fifth St,-71.055831,42.375554,Boston, , ,"93, 8993",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,12838,Unprogrammed,Medium
+-7915011.0497886,5216292.62986921,3850,Other,1610,1609,2447,Prospect St @ Harvard St,-71.101754,42.368187,Cambridge, , ,"64, 83, 91",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2447,Unprogrammed,Low
+-7909143.62206787,5223530.87454414,3266,Other,2261,3459,5353,Ferry St @ Walnut St - Glendale Towers,-71.049046,42.416209,Everett, , ,104,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5353,Unprogrammed,Medium
+-7906498.78228611,5196860.77116589,5954,Other,2733,2732,4096,West St @ Doble St,-71.025287,42.239085,Quincy, , ,238,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,4096,Unprogrammed,Medium
+-7910768.10739701,5204265.65181715,586,Other,1022,221,332,Dorchester Ave @ Banton St,-71.063639,42.288313,Boston, , ,"15, 18, 215",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,332,Unprogrammed,Low
+-7911241.21523289,5201591.41798019,4833,Other,3112,2310,3474,Adams St @ Eliot St,-71.067889,42.270539,Milton, , ,217,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3474,Unprogrammed,Medium
+-7911735.25113303,5218633.27705857,2742,Other,5326,5715,12821,Main St opp Schraffts Bldg,-71.072327,42.38372,Boston, , ,"92, 93, 8993",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,12821,Unprogrammed,Medium
+-7924327.82325105,5215060.37981398,6486,Other,1377,576,902,Galen St @ Boyd St,-71.185448,42.360008,Watertown, , ,"52, 57, 504",Key Bus,0,0,1,0,0,0,0,0,0,No,0, , ,902,Unprogrammed,Medium
+-7930195.58493025,5215952.72435866,6466,Other,6617,6799,86964,Moody St @ Ash St,-71.238159,42.365931,Waltham, , ,"505, 553, 554",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,86964,Unprogrammed,Medium
+-7908915.19447276,5204243.98288772,2304,Other,2815,2014,3073,Neponset Ave @ Tolman St,-71.046994,42.288169,Boston, , ,"201, 210",Local Bus,1,0,1,0,0,1,0,0,0,No,0, , ,3073,Unprogrammed,Medium
+-7900735.1043308,5199750.25507875,5526,In progress,2985,2184,3297,Palmer St @ Chesley Rd,-70.973511,42.258299,Quincy,PATI Future,In progress,"216, 214216",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3297,Unprogrammed,Critical
+-7904904.46453897,5228434.93245326,6513,Other,4278,4675,7566,Essex St opp Staaf Rd,-71.010965,42.448724,Saugus, , ,"429, 430",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7566,Unprogrammed,Medium
+-7923622.2803184,5214161.19011629,1540,In progress,1385,584,906,Tremont St @ Waverley Ave,-71.17911,42.354039,Newton,PATI Future,In progress,"57, 501",Key Bus,0,0,3,0,1,0,0,0,0,No,0, , ,906,Unprogrammed,High
+-7925168.50804552,5224013.55082118,971,Other,1644,1643,2489,Appleton St @ Ortona St,-71.193,42.41941,Arlington, , ,78,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2489,Unprogrammed,Medium
+-7922393.98105699,5203080.70494663,2958,Other,6578,6760,85567,Baker St @ Cutter Rd,-71.168076,42.280438,Boston, , ,52,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,85567,Unprogrammed,Medium
+-7913800.00504826,5222755.86952007,4702,Other,6223,6406,49164,400 Riverside Ave opp Linden St,-71.090875,42.411069,Medford, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,49164,Unprogrammed,Medium
+-7917110.31274598,5211459.01313071,3150,Other,94,893,1369,Harvard St @ Aspinwall Ave,-71.120612,42.336098,Brookline, , ,66,Key Bus,0,1,2,1,0,1,0,0,0,No,1, , ,1369,Unprogrammed,Low
+-7926046.5961889,5190071.37578515,4383,Other,6349,6532,59618,Washington St @ Cottage St,-71.200888,42.193915,Norwood, , ,34E,Local Bus,1,0,0,1,0,0,0,0,0,No,0,Wood Bench,Worn,59618,Unprogrammed,Medium
+-7901527.81042473,5196520.96048873,5858,Other,2483,2482,3724,Quincy Ave @ E Howard St,-70.980632,42.236825,Quincy, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3724,Unprogrammed,Medium
+-7911603.89413389,5195689.67849943,4004,Other,2764,2763,4161,Randolph Ave @ Hillside St,-71.071147,42.231296,Milton, , ,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4161,Unprogrammed,Medium
+-7920999.37047633,5226277.07485121,995,Other,4995,4989,8269,Mystic St @ Old Mystic St - Arlington Line,-71.155548,42.434419,Arlington, , ,350,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8269,Unprogrammed,Medium
+-7898916.36649022,5232731.75067541,5304,Other,5564,5953,17255,Boston St opp Ford St,-70.957173,42.477199,Lynn, , ,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,17255,Unprogrammed,Medium
+-7912171.51221744,5207148.06097567,2277,Other,1954,1953,2916,Columbia Rd @ Devon St,-71.076246,42.307465,Boston, , ,16,Local Bus,1,0,1,0,0,0,0,0,0,No,0, , ,2916,Unprogrammed,Medium
+-7894385.32925646,5233088.86310999,6998,Other,3566,3963,6131,262 Essex St,-70.91647,42.479565,Swampscott, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6131,Unprogrammed,Medium
+-7900510.90687634,5230841.8153011,4895,Other,4701,4285,6758,Boston St opp Childs St,-70.971497,42.464676,Lynn, , ,429,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,6758,Unprogrammed,Medium
+-7921207.87188258,5204749.15268864,2128,Other,423,1222,1843,Weld St @ Maple St,-71.157421,42.291526,Boston, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1843,Unprogrammed,Medium
+-7912228.61911622,5202756.46910395,707,Other,1151,350,508,Gallivan Blvd opp Arbella Rd,-71.076759,42.278283,Boston, , ,"21, 26",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,508,Unprogrammed,Medium
+-7915133.83518694,5218867.78054403,6631,Other,1669,1668,2532,117 Summer St,-71.102857,42.385276,Somerville, , ,85,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2532,Unprogrammed,Medium
+-7910065.68141011,5216240.04617073,1336,In progress,951,150,231,Commercial St opp Hull St,-71.057329,42.367838,Boston,PATI Future,In progress,4,Commuter Bus,0,0,2,0,0,0,0,0,0,No,0, , ,231,Unprogrammed,High
+-7914237.04536911,5239121.36455381,5248,Other,5933,5532,9301,Walkers Brook Dr @ New Crossing Rd,-71.094801,42.519519,Reading, , ,137,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9301,Unprogrammed,Medium
+-7911439.58656548,5206369.42909918,734,Other,1187,386,553,Geneva Ave @ Holiday St,-71.069671,42.302292,Boston, , ,"15, 17, 19",Key Bus,0,0,0,1,0,0,0,0,0,No,0, , ,553,Unprogrammed,Medium
+-7915343.89506607,5209940.55366575,2092,Other,373,1172,1750,Heath St @ Walden St,-71.104744,42.326014,Boston, , ,14,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1750,Unprogrammed,Medium
+-7907629.23171512,5200965.92402164,5251,Compliant,2886,2085,3177,Harvard St @ Hamilton Ave,-71.035442,42.266381,Quincy, ,Compliant,"211, 217",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3177,Unprogrammed,Compliant
+-7904345.19541722,5197122.40360775,5595,Other,3015,2214,3331,Water St @ Pleasant St,-71.005941,42.240825,Quincy, , ,215,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3331,Unprogrammed,Medium
+-7911484.78227874,5207707.27644608,2289,Other,1966,1965,2931,Columbia Rd @ Quincy St,-71.070077,42.31118,Boston, , ,16,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2931,Unprogrammed,Medium
+-7904439.14906745,5185882.92046951,3406,Other,2588,2587,3906,N Franklin St opp Rose Way,-71.006785,42.166033,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3906,Unprogrammed,Medium
+-7912615.56566622,5224370.03234366,5788,Other,5717,5316,9032,Highland Ave @ Emerald St,-71.080235,42.421774,Malden, , ,108,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,9032,Unprogrammed,Low
+-7921528.47201607,5202745.33544827,1666,Other,1320,519,812,Spring St @ Temple St,-71.160301,42.278209,Boston, , ,"24, 36",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,812,Unprogrammed,Medium
+-7914821.25005679,5239324.96115446,5246,In progress,5932,5531,9300,Washington St @ Eliot St,-71.100049,42.520867,Reading,PATI Future,In progress,137,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9300,Unprogrammed,High
+-7908497.74638228,5183162.81070252,5038,Compliant,3615,2814,4223,S Main St @ Selwyn Rd,-71.043244,42.147919,Randolph, ,Compliant,"238, 240",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4223,Unprogrammed,Medium
+-7909111.45073503,5205486.41484519,2589,Other,5049,5043,8341,Puritan Mall Service Rd,-71.048757,42.296425,Boston, , ,"201, 202",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8341,Unprogrammed,Medium
+-7925905.1091161,5234246.17526881,178,In progress,5595,5984,18251,S Bedford St @ Kimball Ave,-71.199617,42.487232,Burlington,PATI Future,In progress,350,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,18251,PATI Phase 2,Critical
+-7907261.43211753,5219510.43428056,3983,Other,3325,3723,5676,Central Ave @ Lynn St,-71.032138,42.38954,Chelsea, , ,112,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,5676,Unprogrammed,Medium
+-7912289.51087768,5199180.8304922,4013,Other,2797,2796,4201,Reedsdale Rd @ Academy Lane,-71.077306,42.254513,Milton, , ,"240, 245",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4201,Unprogrammed,Medium
+-7909238.35495453,5221758.8601655,1426,Compliant,3302,3700,5639,137 Chelsea St opp Mead St,-71.049897,42.404456,Everett,PATI Future,In progress,"110, 112",Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5639,PATI Phase 2,Stop Eliminated
+-7921698.67951749,5237199.94916337,6176,Other,5809,5408,9137,73 Elm St opp Traverse St,-71.16183,42.506796,Woburn, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9137,Unprogrammed,Medium
+-7933243.06731021,5217555.47973957,6451,Other,6601,6783,86930,Main St @ Stow St,-71.265535,42.376568,Waltham, , ,70,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,86930,Unprogrammed,Low
+-7912250.5490559,5211537.773669,2678,Other,5996,5595,10590,Massachusetts Ave @ Washington St,-71.076956,42.336621,Boston, , ,1,Key Bus,1,0,0,0,0,1,0,0,0,No,0, , ,10590,Unprogrammed,Medium
+-7930908.14099082,5215406.58082825,6327,Other,4828,4822,7842,48 Woerd Ave,-71.24456,42.362306,Waltham, , ,558,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7842,Unprogrammed,Medium
+-7931667.11727905,5216295.64327052,6378,In progress,6428,6611,76031,South St opp Shakespeare Rd,-71.251378,42.368207,Waltham,PATI Future,In progress,553,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,76031,Unprogrammed,High
+-7894732.75738722,5231960.9711687,80,In progress,2022,3220,4882,Paradise Rd @ Berkshire St,-70.919591,42.472092,Swampscott,PATI Future,In progress,441,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4882,Unprogrammed,High
+-7928652.91942684,5207637.57968938,4324,Other,6516,6698,81451,Chestnut St @ Pennsylvania Ave,-71.224301,42.310717,Newton, , ,59,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,81451,Unprogrammed,Medium
+-7916596.01669851,5203121.63016596,2877,Other,6855,6239,36500,American Legion Hwy @ Stella Rd,-71.115992,42.28071,Boston, , ,14,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,36500,Unprogrammed,Medium
+-7900266.22663558,5215869.40718449,6089,Other,6105,6904,109844,Shirley St @ Pontos St,-70.969299,42.365378,Winthrop, , ,"712, 713",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,109844,Unprogrammed,Medium
+-7916179.45916396,5219894.47991227,6753,Other,1763,1762,2677,Highland Ave @ Cedar St,-71.11225,42.392088,Somerville, , ,"88, 90",Local Bus,1,1,0,0,0,0,0,1,0,No,0, , ,2677,Unprogrammed,Low
+-7912625.91837886,5222425.3808586,4648,Other,5725,5324,9040,Riverside Ave @ Middlesex Ave,-71.080328,42.408877,Medford, , ,"108, 134",Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,9040,Unprogrammed,Medium
+-7901301.94317792,5231361.38533482,231,Compliant,4661,4245,6696,Holyoke St opp Farrell Rd,-70.978603,42.468119,Lynn,PATI Future,In progress,"426, 429",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6696,PATI Phase 2,Stop Eliminated
+-7921919.76002621,5219916.03395568,1104,Other,577,1376,2143,Concord Ave @ Edgemoor Rd,-71.163816,42.392231,Belmont, , ,"74, 75",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2143,Unprogrammed,Medium
+-7909527.45167212,5212034.14578563,497,Other,925,124,162,W Broadway @ C St,-71.052494,42.339917,Boston, , ,9,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,162,Unprogrammed,Low
+-7910544.91181797,5232462.18953877,6223,Other,5900,5499,9238,Main St @ Flint St,-71.061634,42.475413,Wakefield, , ,137,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9238,Unprogrammed,Medium
+-7927815.12893913,5227409.26641793,3498,Other,5170,5163,8597,Massachusetts Ave @ Percy Rd,-71.216775,42.441925,Lexington, , ,627,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,8597,Unprogrammed,Medium
+-7914565.54918644,5208292.41825017,2664,Other,5982,5581,10413,Columbus Ave @ Weld Ave,-71.097752,42.315067,Boston, , ,"22, 29, 44",Key Bus,1,0,0,1,0,1,0,0,0,No,0, , ,10413,Unprogrammed,Medium
+-7910621.05434967,5230232.3415948,4768,Other,5863,5462,9199,Main St @ Lebanon St,-71.062318,42.460637,Melrose, , ,137,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,9199,Unprogrammed,Low
+-7918670.34408996,5218306.69994662,3758,Other,533,1332,2090,Huron Ave @ Appleton St,-71.134626,42.381553,Cambridge, , ,75,Local Bus,0,0,1,1,0,0,0,0,0,No,0, , ,2090,Unprogrammed,Medium
+-7911522.18562765,5207720.97500498,2274,Other,1951,1950,2913,Columbia Rd @ Quincy St,-71.070413,42.311271,Boston, , ,16,Local Bus,1,0,1,0,0,1,0,0,0,No,0, , ,2913,Unprogrammed,Medium
+-7909234.68141133,5199191.50876872,4057,Other,3723,2922,4373,Edge Hill Rd opp Westvale Rd,-71.049864,42.254584,Milton, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4373,Unprogrammed,Medium
+-7907316.98054344,5199385.52461847,5666,Other,3035,2234,3354,Robertson St @ Adams St,-71.032637,42.255874,Quincy, , ,"215, 217",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3354,Unprogrammed,Medium
+-7908964.39768769,5221967.20879399,3324,Other,3230,3628,5557,Ferry St @ Orange St,-71.047436,42.405838,Everett, , ,110,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5557,Unprogrammed,Medium
+-7905845.78215312,5219013.06711031,2334,Other,3902,3101,4722,McClellan Highway opp Addison St,-71.019421,42.38624,Boston, , ,450,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,4722,Unprogrammed,Medium
+-7909343.55187333,5224555.66742608,5511,Other,2288,3486,5385,Newland St @ Bryant St,-71.050842,42.423005,Malden, , ,105,Local Bus,0,0,0,0,2,0,0,0,0,No,0, , ,5385,Unprogrammed,Medium
+-7915481.93123465,5214941.36672402,3732,Other,413,1212,1813,Brookline St @ Erie St,-71.105984,42.359218,Cambridge, , ,47,Local Bus,0,0,1,0,0,0,0,0,0,Yes,0, , ,1813,Unprogrammed,Medium
+-7911757.84898966,5205664.60642542,677,Other,1119,318,461,Washington St opp Algonquin St,-71.07253,42.297609,Boston, , ,23,Key Bus,0,0,0,0,0,1,0,0,0,No,0, , ,461,Unprogrammed,Medium
+-7904956.00546321,5198423.00435625,5964,Other,3683,2882,4317,198 Whitwell St,-71.011428,42.249474,Quincy, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4317,Unprogrammed,Medium
+-7897454.07365916,5197247.8093015,6769,Other,2425,2424,3661,Sea St @ North St,-70.944037,42.241659,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3661,Unprogrammed,Medium
+-7930073.02217089,5203027.89361953,4104,Other,6410,6593,71852,Chestnut St @ Great Plain Ave,-71.237058,42.280087,Needham, , ,59,Local Bus,0,0,0,0,0,0,0,1,0,No,0, , ,71852,Unprogrammed,Medium
+-7912874.4948018,5217187.50155185,6711,Other,1719,1718,2605,McGrath Hwy opp Twin City Plaza,-71.082561,42.374126,Somerville, , ,"80, 87, 88",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2605,Unprogrammed,Medium
+-7919292.84268247,5218212.21019432,3760,Other,535,1334,2093,Huron Ave @ Lakeview Ave,-71.140218,42.380926,Cambridge, , ,75,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,2093,Unprogrammed,Medium
+-7906849.4386821,5190076.33416482,3083,Other,2688,2687,4039,Pond St @ Rocsam Park Rd,-71.028437,42.193948,Braintree, , ,238,Local Bus,0,0,0,0,1,0,0,0,0,Yes,0, , ,4039,Unprogrammed,Medium
+-7914839.72909226,5216647.76582032,3842,Other,1602,1601,2440,Prospect St @ St Mary Rd,-71.100215,42.370544,Cambridge, , ,"83, 91",Local Bus,0,0,2,0,1,1,0,0,0,No,0, , ,2440,Unprogrammed,Medium
+-7894241.39315486,5233244.48141693,7005,Other,3586,3983,6152,Essex St @ Stetson Ave,-70.915177,42.480596,Swampscott, , ,455,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,6152,Unprogrammed,Medium
+-7910402.31155027,5209565.64428532,2269,Other,1946,1945,2908,Boston St opp Harvest St,-71.060353,42.323524,Boston, , ,"16, 17",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2908,Unprogrammed,Medium
+-7909776.69601201,5222288.78627225,3297,Other,2380,3578,5495,Broadway @ Church St,-71.054733,42.407971,Everett, , ,"97, 104, 109",Local Bus,1,0,1,1,0,0,0,0,0,No,0, , ,5495,Unprogrammed,Medium
+-7921392.6622373,5209714.1006028,3169,Compliant,223,1022,1541,Boylston St @ Randolph Rd,-71.159081,42.32451,Brookline, ,Compliant,60,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,1541,Unprogrammed,Compliant
+-7915321.29720944,5207456.94253343,2888,Other,6932,6316,41187,Washington St @ Green St,-71.104541,42.309517,Boston, , ,42,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,41187,Unprogrammed,Low
+-7913313.31623451,5208573.48583169,1942,Other,70,869,1332,Humboldt Ave @ Townsend St,-71.086503,42.316934,Boston, , ,"32, 34, 36, 44",Key Bus,1,0,3,0,0,1,0,0,0,No,0,Wood Bench,Good,1332,Unprogrammed,Low
+-7897433.92483132,5233522.81968158,218,In progress,3815,3014,4536,Western Ave @ Lloyd Terr,-70.943856,42.48244,Lynn,PATI Future,In progress,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4536,PATI Phase 2,Medium
+-7914058.15494741,5202949.05332535,2064,Other,344,1143,1714,Blue Hill Ave @ Wellington Hill St,-71.093194,42.279563,Boston, , ,"28, 29, 31",Key Bus,1,0,1,0,0,1,0,0,0,No,0, , ,1714,Unprogrammed,Low
+-7900790.31879823,5229439.1340078,3552,Other,3786,2985,4492,Western Ave @ MBTA Lynn Garage,-70.974007,42.45538,Lynn, , ,"117, 424, 436, 442, 450, 455",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4492,Unprogrammed,Medium
+-7916833.34985288,5217056.85917511,3686,Other,887,86,110,Massachusetts Ave @ Holyoke St,-71.118124,42.373259,Cambridge, , ,"1, 68, 69",Key Bus,0,0,0,0,0,1,0,0,0,No,0, , ,110,Unprogrammed,Low
+-7929870.64333663,5214328.24704634,4166,Other,4337,4734,7656,River St @ Sheridan St,-71.23524,42.355148,Newton, , ,"553, 554",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,7656,Unprogrammed,Medium
+-7925307.43477003,5223463.77529415,958,Other,1623,1622,2464,Wadsworth Rd @ Dow Ave,-71.194248,42.415764,Arlington, , ,78,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2464,Unprogrammed,Medium
+-7916991.5348493,5219312.84073801,3883,Other,5294,5683,12301,Massachusetts Ave @ Upland Rd,-71.119545,42.388229,Cambridge, , ,"77, 96",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,12301,Unprogrammed,Low
+-7923545.69250874,5197282.24352906,3245,Other,6654,6038,22628,Washington St opp Dedham Plaza,-71.178422,42.241888,Dedham, , ,34E,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,22628,Unprogrammed,Medium
+-7895243.268572,5236641.40307072,5721,Other,3763,2962,4465,Highland Ave @ Marlborough Rd,-70.924177,42.503097,Salem, , ,"450, 456",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,4465,Unprogrammed,Medium
+-7897743.39301573,5230724.86693891,5339,Other,6390,6573,66721,Oxford St @ Washington St,-70.946636,42.463901,Lynn, , ,"429, 436",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,66721,Unprogrammed,Medium
+-7903021.16139373,5197575.16506838,5935,Other,2536,2535,3845,Scammell St @ Dysart St,-70.994047,42.243836,Quincy, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3845,Unprogrammed,Medium
+-7901244.72495965,5199987.75102957,5575,Other,3009,2208,3322,Palmer St opp Utica St,-70.978089,42.259878,Quincy, , ,"216, 214216",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3322,Unprogrammed,Medium
+-7923713.33966187,5218421.53565263,1076,Other,545,1344,2104,Trapelo Rd @ Bartlett Ave,-71.179928,42.382315,Belmont, , ,73,Key Bus,1,0,3,0,1,0,0,0,0,No,0, , ,2104,Unprogrammed,Low
+-7904002.33138558,5222993.64154476,5679,Other,6966,6350,45261,133 - 135 American Legion Hwy,-71.002861,42.412646,Revere, , ,"117, 426, 450",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,45261,Unprogrammed,Medium
+-7911210.15709495,5206186.25745661,735,Other,1188,387,554,Geneva Ave @ Westville St,-71.06761,42.301075,Boston, , ,"15, 17, 19",Key Bus,0,0,2,0,0,0,0,0,0,No,0, , ,554,Unprogrammed,Medium
+-7915911.95842759,5203907.51892286,2667,Other,5985,5584,10419,American Legion Hwy @ Canterbury St,-71.109847,42.285933,Boston, , ,14,Local Bus,0,0,2,0,0,1,0,0,0,No,0, , ,10419,Unprogrammed,Medium
+-7907234.71543974,5211833.69626809,436,Other,828,27,33,City Point Bus Terminal,-71.031898,42.338586,Boston, , ,"7, 9, 10, 11",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,33,Unprogrammed,Medium
+-7920259.7637795,5209997.92062691,3170,Other,224,1023,1543,850 Boylston St,-71.148904,42.326395,Brookline, , ,60,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1543,Unprogrammed,Medium
+-7906140.89012321,5222996.05397388,5331,Other,3217,3615,5541,Park Ave @ Genesee St,-71.022072,42.412662,Revere, , ,110,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,5541,Unprogrammed,Medium
+-7911166.0745766,5224612.97224947,5474,Other,2273,3471,5365,Eastern Ave @ Main St,-71.067214,42.423385,Malden, , ,"104, 105",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5365,Unprogrammed,Medium
+-7917813.85192779,5198268.107875,2944,Other,6424,6607,75467,Hyde Park Ave @ Glenwood Ave,-71.126932,42.248444,Boston, , ,32,Key Bus,1,0,0,1,0,0,0,0,0,No,0, , ,75467,Unprogrammed,Medium
+-7918012.66853835,5218238.88423934,3788,Other,604,1403,2175,Concord Ave opp Buckingham St,-71.128718,42.381103,Cambridge, , ,"74, 75, 78",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,2175,Unprogrammed,Medium
+-7911446.48837391,5218434.49620042,2246,Other,1900,1899,2845,Bunker Hill St @ Baldwin St,-71.069733,42.382401,Boston, , ,"93, 8993",Local Bus,0,0,0,0,0,1,0,1,0,No,0, , ,2845,Unprogrammed,Medium
+-7900244.63065436,5194620.1997797,3002,Other,2511,2510,3804,Quincy Ave @ Allen St,-70.969105,42.224182,Braintree, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3804,Unprogrammed,Medium
+-7918819.17824914,5197744.33588827,2586,Other,5043,5037,8335,Neponset Valley Parkway @ River St,-71.135963,42.244961,Boston, , ,33,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,8335,Unprogrammed,Medium
+-7915591.3582941,5209405.14544788,1821,Other,1517,716,1136,Centre St @ Wyman St,-71.106967,42.322458,Boston, , ,41,Local Bus,1,0,1,0,0,0,0,0,0,No,0, , ,1136,Unprogrammed,Medium
+-7918393.26987737,5196891.29457902,2891,Other,6946,6330,42818,Hyde Park Ave @ Milton St,-71.132137,42.239288,Boston, , ,32,Key Bus,0,0,0,1,0,1,0,0,0,No,0, , ,42818,Unprogrammed,Low
+-7907396.57397936,5210757.42569156,544,Other,975,174,266,E 8th St @ M St,-71.033352,42.331439,Boston, , ,11,Local Bus,0,0,1,0,0,0,0,0,1,No,0, , ,266,Unprogrammed,Medium
+-7923295.00101547,5225886.58619144,983,Other,4884,4878,7961,Forest St @ Heard Rd,-71.17617,42.43183,Arlington, , ,67,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7961,Unprogrammed,Medium
+-7915025.29868342,5220218.85084795,6604,Other,766,1565,2402,Medford St @ Bartlett St,-71.101882,42.39424,Somerville, , ,80,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2402,Unprogrammed,Low
+-7913328.12172678,5240164.1638356,5231,Other,5927,5526,9293,Salem St @ Governor Dr,-71.086636,42.526423,Reading, , ,137,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,9293,Unprogrammed,Low
+-7912371.44202291,5206934.61946625,2285,Other,1962,1961,2926,Columbia Rd @ Geneva Ave,-71.078042,42.306047,Boston, , ,16,Local Bus,1,0,1,1,0,0,0,0,0,No,0, , ,2926,Unprogrammed,Medium
+-7894843.63160005,5232597.27100562,7003,Other,3584,3981,6150,Essex St @ Elm Pl,-70.920587,42.476308,Swampscott, , ,455,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,6150,Unprogrammed,Medium
+-7890847.26188058,5248957.62368778,409,Other,5554,5943,17102,Enon St @ Lakeview Ave,-70.884687,42.584611,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,17102,Unprogrammed,Medium
+-7906335.69923209,5219246.37427253,3980,Other,3322,3720,5673,Central Ave @ Chelsea Garage,-71.023822,42.387788,Chelsea, , ,112,Local Bus,0,0,0,0,0,0,0,0,1,No,0, , ,5673,Unprogrammed,Medium
+-7911270.15830049,5228001.66209303,4790,Other,5944,5543,9343,Main St @ Ledgewood Ave,-71.068149,42.445852,Melrose, , ,"131, 137",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9343,Unprogrammed,Medium
+-7909384.07216798,5199718.97043161,1508,Compliant,3749,2948,4409,Brook Rd @ Pleasant St,-71.051206,42.258091,Milton,PATI Future,In progress,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4409,PATI Phase 2,Stop Eliminated
+-7891268.38351425,5248042.20043986,1150,Other,4775,4359,7104,Dodge St @ King Terr,-70.88847,42.578556,Beverly, , ,451,Commuter Bus,0,0,0,0,1,0,0,0,0,No,0, , ,7104,Unprogrammed,Medium
+-7893172.28076528,5231296.94683676,6957,Other,3970,3169,4817,509 Humphrey St,-70.905573,42.467692,Swampscott, , ,442,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4817,Unprogrammed,Medium
+-7912567.14168772,5223909.20259691,1466,Compliant,5736,5335,9053,Highland Ave @ Oakland St,-71.0798,42.418718,Malden,PATI Future,In progress,108,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9053,PATI Phase 2,Compliant
+-7914061.38321264,5211554.03787705,2108,Other,395,1194,1785,Ruggles St @ Annunciation Rd,-71.093223,42.336729,Boston, , ,"8, 9, 19, 22, 28, 47",Key Bus,0,0,0,0,1,0,0,0,0,No,0, , ,1785,Unprogrammed,Medium
+-7897493.81471737,5196509.83415018,6771,Other,2429,2428,3665,North St opp Moreland Rd,-70.944394,42.236751,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3665,Unprogrammed,Medium
+-7914658.83491973,5219101.68698268,6740,Other,1750,1749,2664,Highland Ave @ School St,-71.09859,42.386828,Somerville, , ,"88, 90",Local Bus,1,0,1,0,0,0,0,0,0,No,0, , ,2664,Unprogrammed,Low
+-7916288.44094545,5208638.37192674,1841,Other,1539,738,1161,Centre St @ Lochstead Ave,-71.113229,42.317365,Boston, , ,"35, 39, 41",Key Bus,0,0,0,0,0,0,0,0,0,No,0, , ,1161,Unprogrammed,Medium
+-7897458.52643878,5197263.59790561,6791,Other,2468,2467,3706,Sea St @ North St,-70.944077,42.241764,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3706,Unprogrammed,Medium
+-7909499.39916044,5198981.55500224,1500,In progress,3695,2894,4336,80 Edge Hill Rd,-71.052242,42.253188,Milton,PATI Future,In progress,245,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,4336,PATI Phase 2,High
+-7919707.95306364,5217379.02322105,186,In progress,490,1289,2028,Mt Auburn St @ Brattle St,-71.143947,42.375397,Cambridge,PATI Future,In progress,"71, 73",Key Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2028,PATI Phase 2,High
+-7891504.93743218,5239579.61412403,5919,Other,5557,5946,17144,Hawthorne Blvd @ Essex St,-70.890595,42.522553,Salem, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,17144,Unprogrammed,Medium
+-7902838.9313873,5223903.62331678,5376,Other,3338,3736,5700,Revere St @ Ford St,-70.99241,42.418681,Revere, , ,"116, 424, 455",Key Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5700,Unprogrammed,Medium
+-7914836.38950754,5220715.97993574,4598,Other,2220,3418,5301,Main St opp Henry St,-71.100185,42.397538,Medford, , ,101,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5301,Unprogrammed,Medium
+-7929608.37461632,5217607.1666016,6471,Other,6007,6806,88332,Main St @ Liberty St,-71.232884,42.376911,Waltham, , ,70,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,88332,Unprogrammed,Medium
+-7901033.44056612,5229874.88446984,5287,Other,4214,4611,7451,Summer St @ Margin St,-70.976191,42.458268,Lynn, , ,426,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,7451,Unprogrammed,Medium
+-7920278.57677345,5213449.00933226,2806,Other,6620,6004,19201,Cambridge St opp Elko St,-71.149073,42.349311,Boston, , ,"51, 57, 501",Key Bus,1,0,1,1,0,1,0,0,0,No,0, , ,19201,Unprogrammed,Low
+-7888395.22745687,5235587.36758481,4507,Other,3954,3153,4796,Pleasant St @ Bubier Rd,-70.86266,42.496116,Marblehead, , ,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4796,Unprogrammed,Medium
+-7915267.08461742,5218477.89909435,6719,Other,1728,1727,2617,Somerville Ave @ Loring St,-71.104054,42.382689,Somerville, , ,87,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,2617,Unprogrammed,Low
+-7919436.66746458,5214172.63846827,1808,Other,1502,701,1109,N Beacon St @ Saunders St,-71.14151,42.354115,Boston, , ,64,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1109,Unprogrammed,Medium
+-7926665.86651618,5210417.56825583,1579,In progress,6520,6702,81562,Walnut St @ Beacon St,-71.206451,42.329182,Newton,PATI Future,In progress,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,81562,Unprogrammed,High
+-7910342.53298371,5206272.49970348,577,Other,1013,212,320,Dorchester Ave @ Adams St,-71.059816,42.301648,Boston, , ,18,Local Bus,0,1,2,0,0,1,0,0,0,No,0, , ,320,Unprogrammed,Low
+-7914682.2120128,5199448.09181626,1512,Compliant,6176,6973,111720,Blue Hill Ave @ Hudson St,-71.0988,42.25629,Milton,PATI Complete,Compliant,716,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,111720,PATI Phase 2,Compliant
+-7917589.09787588,5220010.088538,3830,Other,691,1490,2319,Massachusetts Ave opp Rindge Ave,-71.124913,42.392855,Cambridge, , ,77,Key Bus,1,0,3,0,0,1,0,0,0,No,0, , ,2319,Unprogrammed,Low
+-7902873.44042944,5223887.48866031,5452,Other,3392,3790,5774,Revere St @ Sagamore St,-70.99272,42.418574,Revere, , ,"116, 424, 455",Key Bus,0,0,0,0,1,0,0,0,0,No,0, , ,5774,Unprogrammed,Medium
+-7924156.94783268,5204872.10097654,4247,Other,5090,5083,8476,Sawmill Brook Pkwy @ McCarthy Rd,-71.183913,42.292343,Newton, , ,52,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,8476,Unprogrammed,Medium
+-7911725.9002958,5225941.33507762,5685,Other,3519,3916,5962,Washington St @ Clifton St,-71.072243,42.432193,Malden, , ,132,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5962,Unprogrammed,Medium
+-7892016.67313136,5235924.96018241,5837,Other,3553,3950,6118,Loring Ave @ Sumner Rd,-70.895192,42.498352,Salem, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6118,Unprogrammed,Medium
+-7917578.41120476,5221412.57741025,6821,Other,1776,1775,2691,Broadway opp Packard Ave,-71.124817,42.402159,Somerville, , ,"89, 8993",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2691,Unprogrammed,Medium
+-7916219.08890269,5210843.25781019,1967,Other,92,891,1366,Huntington Ave @ Riverway,-71.112606,42.332009,Boston, , ,66,Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1366,Unprogrammed,Medium
+-7906065.74946693,5229587.90250877,6508,Other,4272,4669,7559,Essex St opp Vine St,-71.021397,42.456366,Saugus, , ,"429, 430",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7559,Unprogrammed,Low
+-7899145.79596074,5197390.8099031,6765,Other,2408,2407,3622,Bridge St opp Evans St,-70.959234,42.24261,Weymouth, , ,"220, 222",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3622,Unprogrammed,Medium
+-7914296.26733822,5210763.44897276,1935,Other,60,859,1323,Tremont St @ Columbus Ave,-71.095333,42.331479,Boston, , ,66,Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1323,Unprogrammed,Medium
+-7905517.72361375,5201187.80568469,5019,Other,1982,1981,3026,Hancock St @ Beale St,-71.016474,42.267856,Quincy, , ,210,Local Bus,2,0,1,0,0,1,0,0,0,No,0, , ,3026,Unprogrammed,Medium
+-7911876.40424735,5231564.51284476,1489,In progress,5750,5349,9073,Franklin St @ Warren St,-71.073595,42.469465,Melrose,PATI Future,In progress,131,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9073,Unprogrammed,High
+-7914898.17182494,5213471.15120202,1742,Other,1412,611,951,Commonwealth Ave @ Silber Way,-71.10074,42.349458,Boston, , ,57,Key Bus,0,0,2,0,0,0,0,0,0,No,0, , ,951,Unprogrammed,Low
+-7911194.90632471,5228863.54569392,4773,Other,5868,5467,9204,Main St @ W Wyoming Ave,-71.067473,42.451565,Melrose, , ,"131, 137",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9204,Unprogrammed,Medium
+-7911632.39192353,5203532.69768265,713,Other,1158,357,516,Washington St @ Burt St,-71.071403,42.283442,Boston, , ,26,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,516,Unprogrammed,Medium
+-7909360.58375542,5223827.02164128,3264,Other,2259,3457,5351,Ferry St @ Central Ave,-71.050995,42.418173,Everett, , ,104,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5351,Unprogrammed,Medium
+-7905936.73017709,5216466.95671292,2800,Compliant,5550,5939,17095,Terminal E - Arrivals Level,-71.020238,42.369344,Boston, ,Compliant,"171, 741",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,17095,Unprogrammed,Compliant
+-7924309.23289609,5215960.86025222,6656,Other,5627,5226,8815,Main St @ Merchants Row,-71.185281,42.365985,Watertown, , ,70,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8815,Unprogrammed,Medium
+-7904687.05757345,5229609.02601524,6516,Other,4281,4678,7570,Central St @ Assembly Dr,-71.009012,42.456506,Saugus, , ,430,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7570,Unprogrammed,Medium
+-7914440.98267624,5218999.65363052,6739,Other,1749,1748,2662,75 Highland Ave opp Putnam St,-71.096633,42.386151,Somerville, , ,"88, 90",Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,2662,Unprogrammed,Low
+-7908561.19849203,5200502.17050381,4818,Other,3063,2261,3386,Granite Ave @ Squantum St,-71.043814,42.263298,Milton, , ,215,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,3386,Unprogrammed,Medium
+-7911556.6946698,5195767.70675574,4026,Other,3674,2873,4307,Randolph Ave @ Hilltop St,-71.070723,42.231815,Milton, , ,240,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,4307,Unprogrammed,Medium
+-7910802.17116119,5209558.86895109,473,Compliant,896,95,125,Massachusetts Ave @ Clapp St,-71.063945,42.323479,Boston, ,Compliant,"8, 16",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,125,Unprogrammed,Compliant
+-7914820.58213985,5233893.09474109,6930,Other,5495,5884,15987,Main St @ William St,-71.100043,42.484893,Stoneham, , ,132,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,15987,Unprogrammed,Medium
+-7911906.79446833,5231597.86480731,1484,In progress,3515,3912,5933,Franklin St @ Woodland Ave,-71.073868,42.469686,Melrose,PATI Future,In progress,131,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5933,Unprogrammed,High
+-7927238.04869886,5208124.86559251,4332,Other,6539,6721,82039,Needham St opp Columbia Ave,-71.211591,42.313954,Newton, , ,59,Local Bus,0,1,0,0,0,0,0,0,0,No,0, , ,82039,Unprogrammed,Medium
+-7900822.93540903,5238623.71924518,322,Compliant,3856,3055,4593,259 Lynnfield St,-70.9743,42.516224,Peabody,PATI Future,In progress,436,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4593,PATI Phase 2,Stop Eliminated
+-7920438.43156222,5219596.94869431,3796,Other,613,1412,2185,Concord Ave @ Smith Pl,-71.150509,42.390114,Cambridge, , ,"74, 78",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2185,Unprogrammed,Medium
+-7922102.65794958,5230186.31955174,6144,Compliant,4986,4980,8254,Cambridge Rd @ NE Rehab Hospital,-71.165459,42.460332,Woburn,PATI Complete,Compliant,350,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8254,Unprogrammed,Compliant
+-7911653.87658525,5218589.42133204,2264,Other,1918,1917,2867,Bunker Hill St @ Medford St,-71.071596,42.383429,Boston, , ,"93, 8993",Local Bus,0,0,1,0,0,0,0,1,0,No,0, , ,2867,Unprogrammed,Medium
+-7916308.58977329,5200182.68565223,2489,Other,4504,4088,6375,River St @ Huntington Ave,-71.11341,42.261174,Boston, , ,"24, 33",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,6375,Unprogrammed,Medium
+-7931286.40462054,5220386.91915971,853,Other,6032,6831,89608,Totten Pond Rd opp Craig Ln,-71.247958,42.395355,Waltham,PATI Future, ,61,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,89608,PATI Phase 2,Compliant
+-7915323.18964078,5212845.47504149,2642,Other,5947,5546,9434,Park Dr @ Fenway Sta,-71.104558,42.345304,Boston, , ,"47, 747",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9434,Unprogrammed,Medium
+-7912540.31369044,5200352.95590032,4018,Other,3486,2801,4206,Central Ave opp Hinckley Rd,-71.079559,42.262306,Milton, , ,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4206,Unprogrammed,Medium
+-7915127.15601749,5216575.14041377,3804,Other,631,1430,2223,Broadway @ Inman St,-71.102797,42.370062,Cambridge, , ,68,Local Bus,0,1,0,0,0,1,0,0,0,No,0, , ,2223,Unprogrammed,Low
+-7916947.56365043,5221199.71855161,394,In progress,1778,1777,2693,Broadway @ Billingham St,-71.11915,42.400747,Somerville,PATI Future,In progress,"89, 8993",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2693,PATI Phase 2,Medium
+-7904074.24377663,5197184.80551436,5936,Other,2537,2536,3846,Franklin St opp Pearl St,-71.003507,42.24124,Quincy, , ,"230, 236, 238",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,3846,Unprogrammed,Medium
+-7921318.41213694,5214902.49948205,170,In progress,1572,771,1204,Birmingham Pkwy @ Soldiers Field Rd,-71.158414,42.35896,Boston,PATI Future,In progress,64,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1204,PATI Phase 2,Medium
+-7908066.82863342,5218477.59768467,2400,Other,3359,3757,5730,Meridian St @ Condor St,-71.039373,42.382687,Boston, , ,"114, 116, 117, 116117",Key Bus,1,0,0,0,0,0,0,1,0,No,0, , ,5730,Unprogrammed,Medium
+-7912788.44483542,5208757.60693056,626,Other,1065,264,392,Warren St @ Maywood St,-71.081788,42.318157,Boston, , ,"10, 14, 19, 23, 28",Key Bus,0,0,1,1,1,0,0,0,0,No,0, , ,392,Unprogrammed,Low
+-7909299.246716,5187686.84541234,4950,Compliant,2780,2779,4180,Opp 641 N Main St,-71.050444,42.178043,Randolph, ,Compliant,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0,Wood Bench,Worn,4180,Unprogrammed,Medium
+-7924250.67884393,5195742.59932773,3251,Other,6384,6567,65618,Washington St @ Ariadne Rd,-71.184755,42.231648,Dedham, , ,34E,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,65618,Unprogrammed,Medium
+-7908571.66252417,5210727.91166908,539,Other,970,169,261,E 8th St @ G St,-71.043908,42.331243,Boston, , ,11,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,261,Unprogrammed,Medium
+-7891351.2052154,5233481.46087389,1481,In progress,5432,5821,14860,Humphrey St @ Winthrop Ave,-70.889214,42.482166,Marblehead,PATI Future,In progress,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,14860,PATI Phase 2,High
+-7904413.54558457,5219658.89591215,2458,Other,3478,3876,5893,Orient Ave @ Drumlin Rd,-71.006555,42.390525,Boston, , ,120,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5893,Unprogrammed,Medium
+-7904848.80479357,5222535.14041052,5466,Other,3397,3795,5790,49 Central Ave,-71.010465,42.409605,Revere, , ,"110, 117, 411",Key Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5790,Unprogrammed,Medium
+-7924773.54649219,5224921.21783742,1003,Other,5061,5054,8429,Massachusetts Ave @ Drake Rd,-71.189452,42.425429,Arlington, , ,627,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,8429,Unprogrammed,Medium
+-7904220.18362906,5219895.83645901,2454,Other,3474,3872,5889,Crestway Rd @ Faywood Ave,-71.004818,42.392097,Boston, , ,120,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5889,Unprogrammed,Medium
+-7899003.19569304,5192258.42275044,6803,Other,2522,2521,3820,Federal St @ Washington St,-70.957953,42.208469,Weymouth, , ,225,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3820,Unprogrammed,Medium
+-7891999.86388825,5236444.50797398,5835,Other,3552,3949,6116,Loring Ave opp Raymond Rd,-70.895041,42.501793,Salem, , ,455,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,6116,Unprogrammed,Medium
+-7914274.671357,5208869.3158336,1845,Other,1543,742,1167,Washington St opp Dimock St,-71.095139,42.318899,Boston, , ,42,Local Bus,0,0,2,0,0,1,0,0,0,No,0, , ,1167,Unprogrammed,Medium
+-7926889.50737318,5186957.2734818,1600,Compliant,6227,6410,49618,Washington St @ Short St,-71.20846,42.173186,Norwood,PATI Complete,Compliant,34E,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,49618,PATI Phase 2,Compliant
+-7891419.33274376,5207339.98181172,3464,Other,6199,6996,111895,Nantasket Ave from Y St to Spring St (FLAG),-70.889826,42.30874,Hull, , ,714,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,111895,Unprogrammed,Medium
+-7915495.06693457,5216071.14749936,180,In progress,859,58,71,Massachusetts Ave opp Inman St,-71.106102,42.366717,Cambridge,PATI Future,In progress,1,Key Bus,0,0,1,0,0,1,0,4,0,No,0,Wood Bench,Good,71,PATI Phase 2,Medium
+-7930090.05405298,5228319.5224951,3474,Other,4367,4764,7762,Worthen Rd @ Hayden Rec Ctr,-71.237211,42.447959,Lexington, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7762,Unprogrammed,Medium
+-7913232.60960368,5219385.48715952,6841,Other,1802,1801,2721,Broadway @ Cross St,-71.085778,42.388711,Somerville, , ,"89, 101, 8993",Local Bus,0,1,0,0,0,0,1,0,0,No,0,Metal Bench,Good,2721,Unprogrammed,Medium
+-7909504.29721804,5217860.02942999,2754,Other,5338,5727,12862,Thirteenth St @ Fifth Ave,-71.052286,42.378589,Boston, , ,93,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,12862,Unprogrammed,Medium
+-7897770.3323325,5233771.88202457,5348,Other,6394,6577,66854,Euclid Ave @ Chase St,-70.946878,42.48409,Lynn, , ,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,66854,Unprogrammed,Medium
+-7912281.38455486,5211072.29784978,2113,Compliant,400,1199,1791,Harrison Ave @ E Lenox St,-71.077233,42.33353,Boston, ,Compliant,"8, 47",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1791,Unprogrammed,Compliant
+-7898740.0364168,5189049.1033392,6865,Other,5367,5756,13825,561 Main St,-70.955589,42.187111,Weymouth, , ,226,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,13825,Unprogrammed,Medium
+-7911428.12065792,5201879.65852068,753,Other,1206,405,572,River St @ Wichita Ter,-71.069568,42.272455,Boston, , ,"15, 24, 240",Key Bus,0,0,0,1,0,1,0,0,0,No,0, , ,572,Unprogrammed,Medium
+-7904595.99822998,5199621.80819508,5041,Other,1989,1988,3034,Hancock St opp Butler Rd,-71.008194,42.257445,Quincy, , ,"210, 217, 245",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,3034,Unprogrammed,Medium
+-7924779.89170317,5218167.60291983,6665,Other,5583,5972,17711,Belmont St @ Lexington St,-71.189509,42.38063,Watertown, , ,554,Local Bus,0,0,0,0,0,0,0,0,1,No,0, , ,17711,Unprogrammed,Medium
+-7895703.01806898,5190628.08276641,6014,Other,5396,5785,13857,100 Mutton Lane,-70.928307,42.19762,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,13857,Unprogrammed,Medium
+-7908582.2378758,5184500.09320011,5083,Compliant,3637,2836,4247,S Main St @ Darrell Dr,-71.044003,42.156825,Randolph, ,Compliant,"238, 240",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4247,Unprogrammed,Medium
+-7916625.1824051,5203127.94951704,2670,Other,5988,5587,10423,American Legion Hwy @ Stella Rd,-71.116254,42.280752,Boston, , ,14,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,10423,Unprogrammed,Medium
+-7921272.21454827,5214802.62044105,169,In progress,1499,698,1102,N Beacon St @ Parsons St,-71.157999,42.358297,Boston,PATI Future,In progress,64,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,1102,PATI Phase 2,Medium
+-7899722.20828407,5239412.2613391,320,Compliant,3852,3051,4589,Centennial Dr opp Technology Dr,-70.964412,42.521445,Peabody,PATI Future,In progress,436,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4589,PATI Phase 2,Stop Eliminated
+-7907624.77893548,5221392.82897176,3940,Other,3268,3666,5598,296 Washington Ave opp Jefferson Ave,-71.035402,42.402028,Chelsea, , ,111,Key Bus,1,2,2,0,0,0,0,0,0,No,0, , ,5598,Unprogrammed,Medium
+-7929921.51634392,5205843.25286769,1536,In progress,6552,6734,82138,Hillside Ave @ Avery St,-71.235697,42.298796,Needham,PATI Future,In progress,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,82138,Unprogrammed,High
+-7913232.60960368,5219385.48715952,6840,Other,1803,1802,2721,Broadway @ Cross St,-71.085778,42.388711,Somerville, , ,"89, 101, 8993",Local Bus,0,1,0,0,0,0,1,0,0,No,0,Metal Bench,Good,2721,Unprogrammed,Medium
+-7914127.28435119,5200453.13399407,1510,Compliant,6954,6338,43551,Blue Hills Pkwy @ Austin St,-71.093815,42.262972,Milton,PATI Complete,Compliant,245,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,43551,PATI Phase 2,High
+-7910829.77839491,5223376.32080661,3258,Other,2099,3297,5047,Belmont St @ Main St,-71.064193,42.415184,Everett, , ,97,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5047,Unprogrammed,Medium
+-7904899.56648137,5205582.43320274,5185,Other,2864,2063,3144,Huckins Ave @ Standish Rd,-71.010921,42.297063,Quincy, , ,211,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3144,Unprogrammed,Medium
+-7908641.3485254,5219929.44873477,3214,Other,5446,5835,15052,Commandants Way @ Williams St,-71.044534,42.39232,Chelsea, , ,112,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,15052,Unprogrammed,Medium
+-7918483.32734542,5203980.04726514,1653,Other,1307,506,798,Belgrade Ave opp Pinehurst St,-71.132946,42.286415,Boston, , ,"24, 35, 36, 37",Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,798,Unprogrammed,Low
+-7918856.80423703,5197990.80437512,2550,Other,4572,4156,6516,Turtle Pond Pkwy @ Fairview Ave,-71.136301,42.2466,Boston, , ,33,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6516,Unprogrammed,Medium
+-7921385.53778989,5236427.29494753,6152,Other,5663,5262,8863,Elm St @ Monument,-71.159017,42.501679,Woburn, , ,134,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,8863,Unprogrammed,Medium
+-7916437.7203826,5217271.73444422,3781,Other,596,1395,2166,Quincy St @ Broadway opp Fogg Museum,-71.11457,42.374685,Cambridge, , ,"68, 69",Local Bus,0,0,0,1,0,0,0,1,0,No,0, , ,2166,Unprogrammed,Medium
+-7910709.21938638,5229933.42865329,4782,Other,5892,5491,9229,Main St @ E Emerson St,-71.06311,42.458656,Melrose, , ,"131, 137",Local Bus,0,0,0,1,0,0,0,1,0,No,0, , ,9229,Unprogrammed,Medium
+-7907247.51718118,5201749.67840311,5134,Other,2849,2048,3123,W Squantum @ Small St,-71.032013,42.271591,Quincy, , ,"211, 215, 217",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,3123,Unprogrammed,Medium
+-7921413.70162106,5222424.4762522,1026,Other,6669,6053,23531,Pleasant St @ Gould Rd,-71.15927,42.408871,Arlington, , ,67,Local Bus,0,0,2,0,1,0,0,0,0,No,0, , ,23531,Unprogrammed,Medium
+-7917074.35655045,5217742.63875459,3823,Other,684,1483,2307,Massachusetts Ave @ Waterhouse St,-71.120289,42.37781,Cambridge, , ,"77, 96",Key Bus,0,0,0,0,1,0,0,0,0,No,0, , ,2307,Unprogrammed,Low
+-7904713.77425124,5231060.47489701,382,In progress,4283,4680,7573,Central St opp Parker St,-71.009252,42.466125,Saugus,PATI Future,In progress,430,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,7573,PATI Phase 2,High
+-7916934.20531154,5203479.88383762,2949,Other,6438,6621,76495,515 Hyde Park Ave,-71.11903,42.283091,Boston, , ,"32, 3233",Key Bus,0,0,2,0,0,1,0,0,0,No,0, , ,76495,Unprogrammed,Medium
+-7908173.4727056,5225630.1906686,5660,Other,2369,3567,5478,Broadway @ Eastern Ave,-71.040331,42.43013,Malden, , ,109,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5478,Unprogrammed,Medium
+-7927724.40355413,5185241.94119309,6258,Other,6955,6339,43618,Washington St @ Chestnut St,-71.21596,42.161765,Walpole, , ,34E,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,43618,Unprogrammed,Medium
+-7919924.91475119,5205077.21898946,2150,Other,445,1244,1880,Weld St @ Parklawn Rd,-71.145896,42.293706,Boston, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1880,Unprogrammed,Medium
+-7919650.62352588,5199199.3294859,2624,Other,5682,5281,8948,Alwin St @ Dedham Pkwy,-71.143432,42.254636,Boston, , ,33,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8948,Unprogrammed,Medium
+-7898228.6346761,5197448.10096967,6759,Other,2402,2401,3616,Bridge St @ Newton St,-70.950995,42.242991,Weymouth, , ,"220, 222",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3616,Unprogrammed,Medium
+-7907224.3627271,5217705.86970262,2424,In progress,3443,3841,5851,Bennington St @ Putnam St,-71.031805,42.377566,Boston,PATI Future,In progress,120,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5851,Unprogrammed,Critical
+-7914775.60906557,5209827.32645756,2095,Other,376,1175,1753,34 Heath St opp Bromley St,-71.099639,42.325262,Boston, , ,14,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1753,Unprogrammed,Medium
+-7907168.03506475,5210763.14780861,545,In progress,976,175,267,E 8th St @ N St,-71.031299,42.331477,Boston,PATI Future,in progress,11,Local Bus,0,0,0,0,0,1,0,2,0,No,0, , ,267,Unprogrammed,Medium
+-7909534.910078,5224715.06617704,5556,Other,2323,3521,5421,Bryant St @ Harvard St,-71.052561,42.424062,Malden, , ,105,Local Bus,0,0,0,1,1,0,0,0,0,No,0, , ,5421,Unprogrammed,Medium
+-7915533.13820042,5204175.36493799,2930,Other,6389,6572,66500,American Legion Hwy @ Walk Hill St,-71.106444,42.287713,Boston, , ,14,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,66500,Unprogrammed,Medium
+-7895338.22409764,5224882.15876509,4082,Other,4619,4203,6627,Emerald Rd @ Pond St,-70.92503,42.42517,Nahant, , ,439,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6627,Unprogrammed,Medium
+-7904622.04699083,5183425.56750506,1439,In progress,2659,2658,4006,S Franklin St @ Holbrook HS,-71.008428,42.149669,Holbrook,PATI Future,In progress,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4006,PATI Phase 2,High
+-7911534.31945215,5228710.41342341,4728,Other,3527,3924,5982,Pleasant St @ Everett St,-71.070522,42.45055,Melrose, , ,132,Local Bus,0,0,0,0,0,0,0,0,0,Yes,0, , ,5982,Unprogrammed,Medium
+-7910906.81148254,5205945.14455385,737,Other,1190,389,556,Geneva Ave @ Tonawanda St,-71.064885,42.299473,Boston, , ,"15, 17, 19",Key Bus,0,0,0,1,0,0,0,0,0,No,0, , ,556,Unprogrammed,Medium
+-7911390.60598953,5235627.37681044,6229,Other,5908,5507,9248,Main St @ Franklin St,-71.069231,42.496381,Wakefield, , ,137,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,9248,Unprogrammed,Medium
+-7890621.72859223,5197839.3736189,3393,Other,6166,6963,111258,Summer St from Water St to Cushing Way (FLAG),-70.882661,42.245593,Hingham, , ,714,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,111258,Unprogrammed,Medium
+-7904718.33835036,5199873.89060741,5056,Other,1996,1995,3045,Hancock St opp Gilmore St,-71.009293,42.259121,Quincy, , ,"210, 211, 217",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3045,Unprogrammed,Low
+-7909241.24926129,5211084.64599087,535,Other,966,165,256,W 7th St @ Dorchester St,-71.049923,42.333612,Boston, , ,11,Local Bus,0,0,1,0,1,1,0,0,0,No,0, , ,256,Unprogrammed,Medium
+-7901756.6832978,5216941.58798742,6113,Other,6134,6932,109887,Pleasant St @ Vine Ave,-70.982688,42.372494,Winthrop, , ,713,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,109887,Unprogrammed,Medium
+-7924194.35118159,5214480.39343399,1570,In progress,5716,5315,9031,400 Centre St - East,-71.184249,42.356158,Newton,PATI Future,In progress,"57, 501, 504",Key Bus,0,0,3,0,0,1,3,0,0,No,0, , ,9031,Unprogrammed,High
+-7906429.43024335,5197652.15621416,5628,Other,3023,2222,3341,Copeland St @ Furnace Brook Pwky,-71.024664,42.244348,Quincy, , ,215,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,3341,Unprogrammed,Medium
+-7906209.35161005,5225643.91519396,5574,Other,4449,4033,6262,Washington Ave opp Brookdale St,-71.022687,42.430221,Revere, , ,"119, 411",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6262,Unprogrammed,Medium
+-7894855.87674404,5231321.39417772,81,Compliant,2042,3240,4915,58 Humphrey St,-70.920697,42.467854,Swampscott,PATI Future,In progress,442,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4915,PATI Phase 2,Compliant
+-7915670.0611741,5200464.56579576,2487,Other,4502,4086,6373,River St @ George St,-71.107674,42.263048,Boston, , ,"24, 33",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,6373,Unprogrammed,Medium
+-7900700.15001069,5229536.30099869,3551,Other,3785,2984,4491,Western Ave @ Ida St,-70.973197,42.456024,Lynn, , ,"424, 436, 442, 450, 455",Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,4491,Unprogrammed,Medium
+-7908762.90940935,5186343.10657819,4997,Compliant,2786,2785,4186,N Main St @ West St,-71.045626,42.169097,Randolph, ,Compliant,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4186,Unprogrammed,Medium
+-7906218.25716931,5197491.40783227,5625,Other,3022,2221,3339,165 Copeland St,-71.022767,42.243279,Quincy, , ,215,Local Bus,0,0,0,1,1,0,0,0,0,No,0, , ,3339,Unprogrammed,Medium
+-7896663.9279135,5193633.21123203,96,In progress,2439,2438,3675,Middle St @ Broad St,-70.936939,42.217616,Weymouth,PATI Future,In progress,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3675,PATI Phase 2,High
+-7918076.89988454,5223581.84013534,6608,Other,777,1576,2414,Boston Ave @ Mystic Valley Pkwy,-71.129295,42.416547,Somerville, , ,"80, 94",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2414,Unprogrammed,Medium
+-7916690.41562671,5221209.96943501,6907,Other,2088,3286,5021,College Ave @ Broadway - Powder House Sq,-71.11684,42.400815,Somerville, , ,"94, 96",Local Bus,0,1,0,0,0,0,0,0,0,No,0, , ,5021,Unprogrammed,Medium
+-7911535.21000807,5228520.47250821,4802,Other,6625,6009,19573,Pleasant St opp Frances St,-71.07053,42.449291,Melrose, , ,132,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,19573,Unprogrammed,Medium
+-7924076.01856288,5224742.51259079,1021,Other,5586,5975,17922,Massachusetts Ave @ Park Ave,-71.183186,42.424244,Arlington, , ,"77, 627",Key Bus,1,0,2,0,0,1,0,0,0,No,0, , ,17922,Unprogrammed,Medium
+-7911513.83666583,5226637.26177535,4435,Other,5941,5540,9328,Oak Grove Busway,-71.070338,42.436807,Malden, , ,"131, 137",Local Bus,1,3,0,0,0,0,7,0,0,No,0, , ,9328,Unprogrammed,Medium
+-7908027.08757521,5212706.45824394,512,Other,942,141,210,Summer St @ Drydock Ave,-71.039016,42.344381,Boston, , ,"4, 7",Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,210,Unprogrammed,Medium
+-7922378.28500879,5203076.94344637,2595,Other,5057,5050,8392,Baker St @ Cutter Rd,-71.167935,42.280413,Boston, , ,52,Local Bus,0,0,0,1,0,0,0,0,0,Yes,0, , ,8392,Unprogrammed,Medium
+-7923158.85727823,5218185.5362245,1091,Other,564,1363,2127,Trapelo Rd opp Williston Rd - Cushing Square,-71.174947,42.380749,Belmont, , ,73,Key Bus,0,0,0,0,0,0,0,1,0,No,0, , ,2127,Unprogrammed,Low
+-7911532.09306233,5213709.2925441,504,Other,933,132,177,Saint James Ave @ Arlington St,-71.070502,42.351039,Boston, , ,"39, 57, 501, 504",Key Bus,0,0,1,0,0,0,0,0,0,No,0, , ,177,Unprogrammed,Medium
+-7915771.5845497,5215639.19645459,3693,Other,1472,671,1058,River St @ Pleasant St,-71.108586,42.36385,Cambridge, , ,"64, 70",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1058,Unprogrammed,Low
+-7908955.38080894,5223507.50284123,3313,Other,2401,3599,5519,Broadway @ Coburn Terr,-71.047355,42.416054,Everett, , ,109,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,5519,Unprogrammed,Medium
+-7914744.43960815,5201570.80821456,2828,Other,6725,6109,26459,Cummins Hwy @ Brockton St,-71.099359,42.270402,Boston, , ,"24, 30",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,26459,Unprogrammed,Low
+-7896715.02355978,5230379.01006046,4425,Other,4603,4187,6603,Nahant St @ W Baltimore St,-70.937398,42.461609,Lynn, , ,439,Commuter Bus,0,0,1,0,0,1,0,0,0,No,0, , ,6603,Unprogrammed,Medium
+-7908262.41697875,5182525.01754763,5062,Compliant,3629,2828,4239,S Main St @ Woodlawn Rd,-71.04113,42.143671,Randolph, ,Compliant,"238, 240",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4239,Unprogrammed,Medium
+-7913291.60893381,5218259.68100457,6887,Other,1845,1844,2776,Washington St @ New Washington St,-71.086308,42.381241,Somerville, , ,"86, 91",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,2776,Unprogrammed,Medium
+-7910963.25046438,5223625.11586779,5534,Other,2297,3495,5395,Main St @ Converse Ave,-71.065392,42.416834,Malden, , ,"97, 99, 105, 106",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,5395,Unprogrammed,Medium
+-7909287.44684997,5213260.88084073,2699,Other,5230,5619,11219,A St @ Necco St,-71.050338,42.348062,Boston, , ,11,Local Bus,0,0,1,1,0,1,0,0,0,No,0, , ,11219,Unprogrammed,Medium
+-7909826.01054643,5203785.93738639,1380,In progress,5612,5211,8686,Adams St @ Westmoreland St,-71.055176,42.285125,Boston,PATI Future,In progress,202,Local Bus,0,0,0,0,0,0,0,1,0,No,0, , ,8686,PATI Phase 2,High
+-7914504.434786,5211807.49206173,2116,Compliant,403,1202,1800,Louis Prang St @ Evans Way,-71.097203,42.338412,Boston, ,Compliant,"9, 19",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1800,Unprogrammed,Compliant
+-7909738.84738514,5203446.48036103,2307,Other,2818,2017,3078,Gallivan Blvd @ Ross Rd,-71.054393,42.282869,Boston, , ,201,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3078,Unprogrammed,Medium
+-7890694.08626124,5234243.91092238,4530,Other,3999,3198,4853,Humphrey St @ Palmer Rd,-70.883311,42.487217,Marblehead, , ,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4853,Unprogrammed,Medium
+-7924527.30777855,5233452.02679626,3647,Other,5542,5931,16881,26 Cambridge St @ Cafe Escadrille,-71.18724,42.481971,Burlington, , ,"350, 354",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,16881,Unprogrammed,Medium
+-7935904.15973762,5229758.2498454,3533,Other,6587,6769,86178,Hanscom Field Dr @ Old Bedford Rd,-71.28944,42.457495,Lincoln, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,86178,Unprogrammed,Medium
+-7901471.70540138,5198108.85286766,5842,Other,3140,2338,3527,Washington St @ Broadway,-70.980128,42.247385,Quincy, , ,"220, 222",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3527,Unprogrammed,Medium
+-7909332.64256323,5204969.76850098,2610,Other,5620,5219,8807,Neponset Ave @ Popes Hill St,-71.050744,42.292992,Boston, , ,"202, 210",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8807,Unprogrammed,Medium
+-7912016.1102083,5225879.94998436,5389,Other,2115,3313,5068,Summer St @ Clifton St,-71.07485,42.431786,Malden, , ,"99, 132",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5068,Unprogrammed,Medium
+-7915530.68917162,5206044.93023587,2719,Other,5257,5646,11521,Morton St @ Arborway,-71.106422,42.300136,Boston, , ,"21, 31",Local Bus,0,0,0,0,1,1,0,0,0,No,0, , ,11521,Unprogrammed,Medium
+-7908979.9824164,5211217.61540826,430,Other,816,15,19,Dorchester St @ Old Harbor St,-71.047576,42.334495,Boston, , ,10,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,19,Unprogrammed,Medium
+-7895095.7702467,5231535.38656653,6979,Other,2024,3222,4885,New Ocean St opp Rock Ave,-70.922852,42.469272,Swampscott, , ,441,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4885,Unprogrammed,Medium
+-7895739.53086196,5232329.52481648,4422,Other,3580,3977,6146,Essex St @ Eastern Ave,-70.928635,42.474534,Lynn, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6146,Unprogrammed,Medium
+-7916816.87456824,5198875.82789492,1372,In progress,4509,4093,6392,Beacon St @ Fairmount Ave,-71.117976,42.252485,Boston,PATI Future,In progress,24,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6392,Unprogrammed,High
+-7934700.12812521,5234363.01628131,1058,Other,5081,5074,8464,South Rd @ Hartford St,-71.278624,42.488006,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8464,Unprogrammed,Medium
+-7912715.08529099,5211889.26749737,1903,Other,4,803,1252,Tremont St @ Northampton St,-71.081129,42.338955,Boston, , ,43,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,1252,Unprogrammed,Medium
+-7919895.30376665,5214596.68915339,2690,Compliant,5217,5610,11070,Guest St @ Life St,-71.14563,42.35693,Boston, ,Compliant,64,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,11070,Unprogrammed,Compliant
+-7913345.04228938,5212263.96765868,2860,Other,6795,6179,31391,Huntington Ave @ Gainsborough St,-71.086788,42.341443,Boston, , ,"9, 39",Key Bus,1,0,0,1,0,0,0,0,0,No,0, , ,31391,Unprogrammed,Low
+-7905250.89079432,5179309.97849568,3425,Other,2646,2645,3990,S Franklin St opp Hamilton Way,-71.014077,42.122253,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3990,Unprogrammed,Medium
+-7925100.93711461,5224916.99522723,3485,Other,4873,4867,7918,Massachusetts Ave @ Hibbert St - Arlington Line,-71.192393,42.425401,Lexington, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7918,Unprogrammed,Medium
+-7931056.52987205,5213868.9605554,4317,Other,6472,6655,78204,Lexington St @ Orris St,-71.245893,42.352099,Newton, , ,"505, 558",Commuter Bus,0,0,1,1,0,0,0,0,0,No,0, , ,78204,Unprogrammed,Medium
+-7928720.26771877,5186980.70543389,4355,Other,6748,6132,26636,Walpole St opp Garden Pkwy,-71.224906,42.173342,Norwood, , ,34E,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,26636,Unprogrammed,Medium
+-7904634.96005176,5184027.53318638,3409,Other,2627,2626,3967,S Franklin St opp Norfolk Rd,-71.008544,42.153678,Holbrook, , ,230,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,3967,Unprogrammed,Medium
+-7924549.12639874,5215714.37591366,6591,Other,4929,4923,8177,Watertown St @ Aldrich Rd,-71.187436,42.364349,Watertown, , ,59,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,8177,Unprogrammed,Medium
+-7907315.53339006,5225765.92860856,5657,Other,2368,3566,5476,1332 Eastern Ave opp Prentiss St,-71.032624,42.43103,Malden, , ,109,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5476,Unprogrammed,Medium
+-7907400.13620306,5187472.93999187,4910,Compliant,2710,2709,4069,455 North St opp Dyer Ave,-71.033384,42.176619,Randolph, ,Compliant,238,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4069,Unprogrammed,Medium
+-7908145.64283291,5220673.4712118,3986,Other,3329,3727,5684,Everett Ave @ Maple St,-71.040081,42.397256,Chelsea, , ,112,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5684,Unprogrammed,Medium
+-7907372.75160833,5223451.71255813,3318,Other,3222,3620,5547,Elm St opp Haskell Ave,-71.033138,42.415684,Everett, , ,"110, 111",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5547,Unprogrammed,Medium
+-7918899.77356048,5214056.95049573,1729,Other,1400,599,926,Brighton Ave @ Cambridge St,-71.136687,42.353347,Boston, , ,"51, 57, 66",Key Bus,1,0,0,0,1,1,0,2,0,No,0,Metal Bench,Good,926,Unprogrammed,Medium
+-7912761.17156017,5201701.08675652,764,Other,1217,416,586,River St @ Meadowbank Ave,-71.081543,42.271268,Boston, , ,"15, 24",Key Bus,0,0,0,0,0,1,0,0,0,No,0, , ,586,Unprogrammed,Medium
+-7910171.76888483,5230322.27384075,4740,Other,5755,5354,9078,Porter St @ Bellevue Ave,-71.058282,42.461233,Melrose, , ,131,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9078,Unprogrammed,Medium
+-7905246.88329265,5201072.426572,5292,Other,2902,2101,3201,Elm Ave @ Briggs St,-71.014041,42.267089,Quincy, , ,217,Commuter Bus,0,0,0,0,0,1,0,2,0,No,0, , ,3201,Unprogrammed,Medium
+-7921178.59485651,5204756.07507129,2155,Other,450,1249,1885,Weld St @ Maple St,-71.157158,42.291572,Boston, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1885,Unprogrammed,Medium
+-7907793.53928353,5226646.76438003,5725,Other,4262,4659,7542,Broadway @ Ridge Hill Ave,-71.036918,42.43687,Malden, , ,"411, 430",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7542,Unprogrammed,Medium
+-7917372.91542476,5220624.33015907,6644,Other,1701,1700,2581,Holland St @ Dover St,-71.122971,42.39693,Somerville, , ,"87, 88",Local Bus,1,0,0,1,0,1,0,0,0,No,0, , ,2581,Unprogrammed,Low
+-7895059.4800927,5225099.32322046,4089,Other,4631,4215,6640,Nahant Rd opp Tallwood Rd,-70.922526,42.42661,Nahant, , ,439,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6640,Unprogrammed,Medium
+-7907650.04845989,5211392.75238212,1216,Other,831,30,41,E Broadway @ L St,-71.035629,42.335658,Boston, , ,"9, 10",Local Bus,0,0,1,0,0,2,0,1,0,No,0, , ,41,Unprogrammed,Low
+-7897026.38417553,5197648.0961186,6699,Other,3156,2354,3544,Bridge St @ Green St,-70.940195,42.244321,Weymouth, , ,220,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3544,Unprogrammed,Medium
+-7913649.50109671,5213690.46394667,458,Other,866,65,77,Massachusetts Ave @ Marlborough St,-71.089523,42.350914,Boston, , ,1,Key Bus,1,1,2,1,0,0,0,0,0,No,0, , ,77,Unprogrammed,Low
+-7905570.2664134,5223600.53764005,62,Other,3430,3828,5832,Cooledge St @ Adams St,-71.016946,42.416671,Revere, , ,119,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,5832,PATI Phase 2,Medium
+-7930039.62632365,5216844.85168207,6385,Other,6445,6628,76597,Moody St @ Pine St,-71.236758,42.371852,Waltham, , ,"505, 553, 554, 556, 558",Local Bus,0,0,1,0,0,1,1,0,0,No,0, , ,76597,Unprogrammed,Low
+-7916996.98950435,5218753.09013122,3821,Other,682,1481,2304,Massachusetts Ave @ Linnaean St,-71.119594,42.384515,Cambridge, , ,"77, 96",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2304,Unprogrammed,Medium
+-7918500.13658853,5226987.95946806,6049,Other,5780,5379,9104,Main St @ Highland Ave,-71.133097,42.439132,Winchester, , ,134,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9104,Unprogrammed,Medium
+-7894226.36502361,5206536.64968845,3465,Other,6200,6997,111907,Main St from Spring St to Pemberton Pnt (FLAG),-70.915042,42.303403,Hull, , ,714,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,111907,Unprogrammed,Medium
+-7925082.9033571,5212277.67280899,4281,Other,5134,5127,8523,Centre St @ Cotton St,-71.192231,42.341534,Newton, , ,52,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,8523,Unprogrammed,Medium
+-7904226.75147902,5191717.85039472,3017,Other,2558,2557,3869,Washington St @ Taylor St,-71.004877,42.204872,Braintree, , ,230,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,3869,Unprogrammed,Medium
+-7911435.35642483,5236546.88083233,6231,Other,5911,5510,9251,Main St @ Water St,-71.069633,42.502471,Wakefield, , ,137,Local Bus,3,0,1,0,0,0,0,0,2,No,0, , ,9251,Unprogrammed,Medium
+-7919831.07242046,5209976.238585,1407,Other,225,1024,1544,Opp 763 Boylston St,-71.145053,42.326251,Brookline, , ,60,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,1544,PATI Phase 2,Low
+-7914511.78187239,5224921.21783742,4642,Other,5023,5017,8313,Fellsway W @ Fern Rd,-71.097269,42.425429,Medford, , ,100,Local Bus,0,0,0,0,0,0,0,0,1,No,0, , ,8313,Unprogrammed,Medium
+-7905669.4520797,5201327.85705449,5079,Other,2803,2002,3052,Hancock St @ Willet St,-71.017837,42.268787,Quincy, , ,210,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,3052,Unprogrammed,Medium
+-7905083.46628017,5222507.54963407,5533,Other,3425,3823,5827,Winthrop Ave @ Broadway,-71.012573,42.409422,Revere, , ,119,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5827,Unprogrammed,Medium
+-7916687.63263944,5198633.69770767,2499,Other,4517,4101,6401,Highland St @ Fairmount Ave,-71.116815,42.250875,Boston, , ,24,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6401,Unprogrammed,Medium
+-7925447.14073098,5215310.46282788,6587,Other,4925,4919,8173,Watertown St @ Washburn St,-71.195503,42.361668,Watertown, , ,59,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,8173,Unprogrammed,Medium
+-7929885.44882891,5217265.25496434,1321,Compliant,6010,6809,88333,Carter St opp Commuter Rail Station,-71.235373,42.374642,Waltham,PATI Complete,Compliant,"70, 505, 553, 554, 556, 558",Local Bus,2,0,0,0,0,3,0,0,0,No,0,Wood Bench,Worn,88333,PATI Phase 1,Compliant
+-7900294.83574471,5199453.20549972,20,In progress,3003,2202,3315,Palmer St @ Roach St,-70.969556,42.256324,Quincy,PATI Future,In progress,"216, 214216",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3315,PATI Phase 2,High
+-7901293.92817458,5200146.13510529,5496,Other,2974,2173,3280,Sea St @ Gannett Rd,-70.978531,42.260931,Quincy, , ,216,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3280,Unprogrammed,Medium
+-7910199.48743804,5221670.06464127,3327,Other,3233,3631,5560,Broadway @ Gladstone St,-71.058531,42.403867,Everett, , ,"97, 104, 109, 110, 112",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5560,Unprogrammed,Medium
+-7900102.03038665,5227170.62909765,1303,Compliant,3893,3092,4709,Point of Pines,-70.967824,42.440343,Revere,PATI Complete,Compliant,"439, 441, 442, 441442",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,4709,PATI Phase 1,Compliant
+-7922031.30215599,5215610.42050703,6554,Other,154,953,1447,Arsenal St opp Talcott Ave,-71.164818,42.363659,Watertown, , ,70,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,1447,Unprogrammed,Medium
+-7910475.00317775,5205588.15219517,593,Other,1029,228,343,Dorchester Ave @ Gibson St,-71.061006,42.297101,Boston, , ,"15, 18, 215",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,343,Unprogrammed,Medium
+-7887837.73944698,5236327.64120068,4510,Other,3957,3156,4800,Pleasant St opp Anderson St,-70.857652,42.501019,Marblehead, , ,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4800,Unprogrammed,Medium
+-7897946.55108642,5197448.70245252,6793,Other,2470,2469,3708,Sea St @ Bridge St,-70.948461,42.242995,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3708,Unprogrammed,Medium
+-7911444.59594257,5212838.09490018,2878,Other,6856,6240,36539,E Berkeley @ Tremont St,-71.069716,42.345255,Boston, , ,9,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,36539,Unprogrammed,Low
+-7908828.25395045,5222367.33545669,1421,In progress,3229,3627,5556,Ferry St @ Arlington St,-71.046213,42.408492,Everett,PATI Future,In progress,110,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5556,PATI Phase 2,High
+-7901032.4386907,5229891.93467139,5242,Other,4146,4543,7377,Summer St opp Margin St,-70.976182,42.458381,Lynn, , ,426,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7377,Unprogrammed,Medium
+-7915383.4134853,5217642.72973767,6613,Other,798,1597,2436,Beacon St @ Smith Ave,-71.105099,42.377147,Somerville, , ,83,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2436,Unprogrammed,Low
+-7908875.00813659,5221552.62667991,3341,Other,3304,3702,5642,221 Chelsea St,-71.046633,42.403088,Everett, , ,112,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5642,Unprogrammed,Medium
+-7926313.42900833,5218262.39362949,6285,Other,4287,4684,7579,Beaver St @ Warren St,-71.203285,42.381259,Waltham, , ,554,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7579,Unprogrammed,Medium
+-7921606.06170115,5219434.16961722,1109,Other,617,1416,2190,Bright Rd @ Glenn Rd,-71.160998,42.389034,Belmont, , ,75,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2190,Unprogrammed,Medium
+-7890757.98364896,5242628.28032427,1176,Other,4802,4386,7135,46 Cabot St,-70.883885,42.542734,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7135,Unprogrammed,Medium
+-7906625.12990816,5225855.51671663,5648,Other,2365,3563,5473,Eastern Ave @ Lynn St,-71.026422,42.431624,Malden, , ,109,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5473,Unprogrammed,Medium
+-7898612.57559984,5231904.52728526,5042,Other,4057,4456,7247,Western Ave @ Bellair St,-70.954444,42.471718,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7247,Unprogrammed,Medium
+-7919652.07067926,5197104.51012471,2579,Other,5036,5030,8328,1 W Milton St opp Ernest Ave,-71.143445,42.240706,Boston, , ,33,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8328,Unprogrammed,Medium
+-7918442.25045332,5222061.13301235,6914,Other,5306,5695,12636,Broadway opp Clarendon Hill Busway,-71.132577,42.406461,Somerville, , ,87,Local Bus,1,1,3,0,0,0,0,0,0,No,0, , ,12636,Unprogrammed,Medium
+-7895327.53742653,5193013.80281899,6807,Other,5358,5747,13685,Pleasant St opp Shawmut St,-70.924934,42.213495,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,13685,Unprogrammed,Medium
+-7902225.33835404,5231658.23064984,5333,Other,6997,6381,46734,O'Callaghan Way @ Osborne St,-70.986898,42.470086,Lynn, , ,429,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,46734,Unprogrammed,Medium
+-7916421.57905644,5218955.04264355,6610,Other,795,1594,2432,Somerville Ave opp Elm St,-71.114425,42.385855,Somerville, , ,83,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,2432,Unprogrammed,Medium
+-7910508.39902499,5215870.61249101,469,Other,889,88,113,Portland St @ Causeway St,-71.061306,42.365386,Boston, , ,4,Commuter Bus,2,0,2,0,0,2,0,0,0,No,0, , ,113,Unprogrammed,Low
+-7898443.70393231,5233979.58994705,248,In progress,4741,4325,6858,Euclid Ave opp Lakeview Ave,-70.952927,42.485466,Lynn,PATI Future,In progress,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6858,PATI Phase 2,Medium
+-7910572.74169067,5230244.41298747,4739,Other,5754,5353,9077,Porter St @ Rowe St,-71.061884,42.460717,Melrose, , ,131,Commuter Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9077,Unprogrammed,Medium
+-7920616.87670597,5206418.94776004,3185,Other,459,1258,1895,Grove St @ South St,-71.152112,42.302621,Brookline, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1895,Unprogrammed,Medium
+-7905729.23064625,5202557.56981926,5360,Other,2924,2123,3225,Billings Rd @ Calumet St,-71.018374,42.276961,Quincy, , ,217,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3225,Unprogrammed,Medium
+-7927215.45084222,5186264.70515026,4370,Other,6871,6255,37618,Washington St @ Rockhill St,-71.211388,42.168575,Norwood, , ,34E,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,37618,Unprogrammed,Medium
+-7919910.55453688,5217401.02359804,3753,Other,528,1327,2077,Aberdeen Ave @ Mt Auburn St,-71.145767,42.375543,Cambridge, , ,"71, 75",Key Bus,1,0,1,1,0,0,0,0,0,No,0, , ,2077,Unprogrammed,Medium
+-7922480.03102337,5198800.48113078,3257,Other,6069,6868,99832,245 Washington St,-71.168849,42.251984,Dedham, , ,"34E, 34",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,99832,Unprogrammed,Medium
+-7908433.06975813,5199616.39361056,4032,Other,3691,2890,4331,Edge Hill Rd opp Grafton Ave,-71.042663,42.257409,Milton, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4331,Unprogrammed,Medium
+-7910459.52976853,5215925.15277137,470,Other,890,89,114,Causeway St @ North Station,-71.060867,42.365748,Boston, , ,4,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,114,Unprogrammed,Low
+-7917435.03170062,5199701.97448868,2523,Other,4545,4129,6466,Hyde Park Ave @ Clay Street,-71.123529,42.257978,Boston, , ,"32, 33, 39",Key Bus,1,0,0,0,0,0,0,0,0,No,0,Wood Bench,Good,6466,Unprogrammed,Medium
+-7910238.00398185,5217719.58273399,2252,Other,1906,1905,2851,Bunker Hill St @ Ferrin St,-71.058877,42.377657,Boston, , ,"93, 8993",Local Bus,1,0,0,0,0,1,0,0,0,No,0, , ,2851,Unprogrammed,Low
+-7910780.90913845,5220828.73449765,3300,Other,2383,3581,5498,Broadway opp Beacham St,-71.063754,42.398286,Everett, , ,"104, 105, 109",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5498,Unprogrammed,Medium
+-7891166.86013864,5248124.4412721,1200,Other,4023,4422,7193,Dodge St opp Raymond Ave,-70.887558,42.5791,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,7193,Unprogrammed,Medium
+-7929881.10736876,5205098.58883966,4120,Other,6554,6736,82140,Highland Ave @ Avery Sq,-71.235334,42.293848,Needham, , ,59,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,82140,Unprogrammed,Medium
+-7907563.66453503,5217883.98996503,2465,Other,3485,3883,5900,Lexington St @ Brooks St,-71.034853,42.378748,Boston, , ,121,Commuter Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5900,Unprogrammed,Medium
+-7912873.82688486,5207164.01659898,684,Other,1126,325,470,Washington St @ Blue Hill Ave,-71.082555,42.307571,Boston, , ,23,Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,470,Unprogrammed,Low
+-7901033.32924663,5231093.97598614,229,In progress,4658,4242,6692,Myrtle St @ Woodbine St,-70.97619,42.466347,Lynn,PATI Future,In progress,429,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6692,Unprogrammed,Medium
+-7911225.07390672,5210237.17923214,474,Other,897,96,128,1010 Massachusetts Ave opp Magazine St,-71.067744,42.327984,Boston, , ,"8, 10, 708",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,128,Unprogrammed,Medium
+-7910920.05850195,5224740.85373934,1452,In progress,2278,3476,5375,Eastern Ave @ Ferry St,-71.065004,42.424233,Malden,PATI Future,In progress,105,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5375,Unprogrammed,High
+-7887206.00133673,5237118.70953238,4535,Other,5431,5820,14836,Elm St @ Mugford St,-70.851977,42.506258,Marblehead, , ,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,14836,Unprogrammed,Medium
+-7914842.84603801,5232971.88692434,6929,Other,5494,5883,15986,Main St opp Maple St,-71.100243,42.47879,Stoneham, , ,132,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,15986,Unprogrammed,Medium
+-7899198.00480192,5233879.66012922,5081,Other,4070,4469,7260,Broadway opp Richardson Rd,-70.959703,42.484804,Lynn, , ,436,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,7260,Unprogrammed,Medium
+-7906462.93741007,5211179.06462622,1264,Compliant,6774,6158,30271,Farragut Rd opp E Fifth St,-71.024965,42.334239,Boston,PATI Complete,Compliant,11,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,30271,Unprogrammed,Compliant
+-7890960.47380271,5195248.28217798,3371,Other,3177,2375,3575,Central St @ Main St,-70.885704,42.22836,Hingham, , ,220,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3575,Unprogrammed,Medium
+-7896916.73447709,5231336.03243067,5026,Other,4051,4450,7233,Union St @ Union Ct,-70.93921,42.467951,Lynn, , ,"436, 455, 456",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7233,Unprogrammed,Medium
+-7911461.51650517,5212821.52725696,1892,Compliant,1593,792,1237,Tremont St @ E Berkeley St,-71.069868,42.345145,Boston, ,Compliant,43,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,1237,Unprogrammed,Compliant
+-7919816.60088665,5184795.62408386,3913,Other,6172,6969,111660,Washington St - Canton Ctr Sta to Pequit St (FLAG),-71.144923,42.158793,Canton, , ,716,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,111660,Unprogrammed,Low
+-7905996.73138263,5201577.42740447,5009,Other,1979,1978,3023,Hancock St @ Linden St,-71.020777,42.270446,Quincy, , ,210,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3023,Unprogrammed,Medium
+-7907180.72548671,5199350.02994935,5971,Other,3690,2889,4329,Adams St @ Greenview St,-71.031413,42.255638,Quincy, , ,245,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,4329,Unprogrammed,Medium
+-7911403.29641148,5235851.43160717,6246,Other,6619,6003,19182,Main St @ North St,-71.069345,42.497865,Wakefield, , ,137,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,19182,Unprogrammed,Medium
+-7902866.31598203,5197624.18670222,5927,Other,2528,2527,3826,Scammell St @ Mary St,-70.992656,42.244162,Quincy, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3826,Unprogrammed,Medium
+-7919937.38253416,5204182.13642409,2772,Other,5458,5847,15216,Centre @ Colbert St,-71.146008,42.287758,Boston, , ,"35, 38",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,15216,Unprogrammed,Low
+-7912857.79687819,5201713.42269275,757,Other,1210,409,577,River St opp Leahaven Rd,-71.082411,42.27135,Boston, , ,"15, 24",Key Bus,0,0,0,1,0,1,0,0,0,No,0, , ,577,Unprogrammed,Medium
+-7928686.53791306,5207938.49873183,4336,Other,6546,6728,82132,Chestnut St @ Elliot St,-71.224603,42.312716,Newton, , ,59,Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,82132,Unprogrammed,Medium
+-7909505.63305192,5225251.64293297,1453,In progress,2283,3481,5380,Willow St @ Daniels St,-71.052298,42.42762,Malden,PATI Future,In progress,105,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,5380,PATI Phase 2,High
+-7891899.78766603,5232246.96875694,6964,Other,3977,3176,4824,Humphrey St @ Palmer Ave,-70.894142,42.473987,Swampscott, , ,442,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4824,Unprogrammed,Medium
+-7914577.34905247,5208477.88879834,1863,Other,1561,760,1187,Washington St @ Columbus Ave,-71.097858,42.316299,Boston, , ,42,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,1187,Unprogrammed,Medium
+-7901728.51946663,5218306.85064873,6099,Other,6120,6918,109870,Main St @ Winthrop St,-70.982435,42.381554,Winthrop, , ,712,Local Bus,0,0,1,0,0,0,0,1,0,No,0, , ,109870,Unprogrammed,Medium
+-7926731.87897422,5211450.42932578,4205,Other,4912,4906,8160,Walnut St @ Homer St,-71.207044,42.336041,Newton, , ,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8160,Unprogrammed,Medium
+-7898217.39140752,5232406.34636828,5051,Other,4060,4459,7250,Western Ave @ Linden Terr,-70.950894,42.475043,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7250,Unprogrammed,Medium
+-7903079.4928069,5197521.03104311,32,In progress,2527,2526,3825,Scammell St @ Martensen St,-70.994571,42.243476,Quincy,PATI Future,In progress,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3825,Unprogrammed,High
+-7901170.02958132,5231412.39316956,4885,Other,4695,4279,6751,Holyoke St @ Gardiner St,-70.977418,42.468457,Lynn, , ,429,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6751,Unprogrammed,Medium
+-7904605.79434517,5183809.05532729,3440,Other,2662,2661,4009,S Franklin St @ Holbrook Park,-71.008282,42.152223,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,4009,Unprogrammed,Medium
+-7917429.2430871,5199850.72762412,2544,Other,4566,4150,6508,Hyde Park Ave opp Webster St,-71.123477,42.258967,Boston, , ,"32, 3233",Key Bus,1,0,2,0,0,1,0,0,0,No,0, , ,6508,Unprogrammed,Low
+-7915476.69921859,5211775.2639993,2733,Other,5276,5665,11803,Longwood Ave @ Binney St,-71.105937,42.338198,Boston, , ,"8, 9, 19, 47, 708, 747",Local Bus,1,0,1,0,0,0,0,0,0,No,0, , ,11803,Unprogrammed,Medium
+-7911259.36030988,5227616.9853494,4776,Other,5884,5483,9221,Main St @ Banks Pl,-71.068052,42.443302,Melrose, , ,"131, 137",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9221,Unprogrammed,Medium
+-7906904.76446903,5196062.98712139,4988,Compliant,296,1095,1645,Opp 710 Willard St,-71.028934,42.233779,Quincy,PATI Future,In progress,238,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1645,Unprogrammed,Stop Eliminated
+-7896648.67714326,5231727.35001327,3600,Other,3576,3973,6142,Essex St @ Fayette St,-70.936802,42.470544,Lynn, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6142,Unprogrammed,Medium
+-7922438.73149229,5203829.12272882,1703,Other,1358,557,852,Vermont St @ Temple St,-71.168478,42.285412,Boston, , ,37,Local Bus,0,0,0,0,1,0,0,0,1,Yes,0, , ,852,Unprogrammed,Medium
+-7924170.41749107,5223535.39810622,966,Other,1639,1638,2484,Wachusett Ave @ Prospect Ave,-71.184034,42.416239,Arlington, , ,78,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2484,Unprogrammed,Medium
+-7927595.4955838,5207420.96604444,1587,Other,6540,6722,82047,Needham St @ Charlemont St,-71.214802,42.309278,Newton, , ,59,Local Bus,0,1,0,0,0,0,0,0,0,No,0, , ,82047,PATI Phase 2,High
+-7906770.06788517,5218278.97079869,2390,Other,2348,3546,5450,Eagle St @ Lexington St,-71.027724,42.381369,Boston, , ,121,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5450,Unprogrammed,Medium
+-7915757.78093284,5200378.6772018,2478,Other,4493,4077,6362,River St opp Wood Ave,-71.108462,42.262477,Boston, , ,"24, 33",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,6362,Unprogrammed,Medium
+-7934522.90749586,5234119.8255683,1056,Other,5079,5072,8462,Loomis St @ Hartford St,-71.277032,42.486395,Bedford, , ,627,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,8462,Unprogrammed,Medium
+-7899688.14451989,5198754.31085448,18,In progress,2998,2197,3310,Bicknell St @ Binnacle Lane,-70.964106,42.251677,Quincy,PATI Future,In progress,"216, 214216",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3310,Unprogrammed,High
+-7896177.79569721,5193566.0227791,97,In progress,2441,2440,3677,617 Broad St,-70.932572,42.217169,Weymouth,PATI Future,In progress,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3677,Unprogrammed,High
+-7910887.77584962,5225258.42951192,5618,Other,2353,3551,5457,Salem St opp Sprague St,-71.064714,42.427665,Malden, , ,"106, 108, 411, 430",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5457,Unprogrammed,Low
+-7924878.40945251,5212682.05897323,4280,Other,5133,5126,8522,785 Centre St,-71.190394,42.344219,Newton, , ,52,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8522,Unprogrammed,Medium
+-7934443.42537943,5235296.58864632,1062,Other,5085,5078,8468,Springs Rd @ Hillside Ave,-71.276318,42.49419,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8468,Unprogrammed,Medium
+-7930636.52143328,5237000.02240644,157,Compliant,6299,6482,49948,9 Crosby Dr,-71.24212,42.505472,Bedford,PATI Complete,Compliant,351,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,49948,PATI Phase 1,Compliant
+-7917067.00946406,5209978.79826791,3160,Other,213,1012,1529,High St @ Oakland Rd,-71.120223,42.326268,Brookline, , ,60,Local Bus,0,0,0,1,0,0,0,0,0,Yes,0, , ,1529,Unprogrammed,Medium
+-7929885.44882891,5217265.25496434,1322,Compliant,6009,6808,88333,Carter St opp Commuter Rail Station,-71.235373,42.374642,Waltham,PATI Complete,Compliant,"70, 505, 553, 554, 556, 558",Local Bus,2,0,0,0,0,3,0,0,0,No,0,Wood Bench,Good,88333,PATI Phase 1,Compliant
+-7919569.3602976,5209976.6902937,1408,Other,226,1025,1545,Boylston St @ Heath St,-71.142702,42.326254,Brookline, , ,60,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1545,PATI Phase 2,Medium
+-7924533.31903105,5216167.57456076,6657,Other,5628,5227,8816,Main St @ Thaxter St,-71.187294,42.367357,Watertown, , ,70,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8816,Unprogrammed,Medium
+-7891274.61740573,5246413.4053046,1193,Other,4015,4414,7185,Cabot St opp Columbia Rd,-70.888526,42.567781,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7185,Unprogrammed,Medium
+-7909755.32266978,5210647.80264311,426,Other,812,11,15,Dorchester St @ Vinton St,-71.054541,42.330711,Boston, , ,10,Local Bus,0,0,0,1,0,0,0,1,0,No,0, , ,15,Unprogrammed,Medium
+-7910583.31704229,5216906.32884571,2836,Other,6756,6140,28281,Main St @ Park St,-71.061979,42.37226,Boston, , ,"92, 8993",Local Bus,0,0,0,0,0,2,0,0,0,No,0, , ,28281,Unprogrammed,Medium
+-7921509.10242468,5213375.5047209,1721,Other,1391,590,916,Washington St @ Lake St,-71.160127,42.348823,Boston, , ,"57, 501",Key Bus,1,0,1,0,0,1,0,0,0,No,0, , ,916,Unprogrammed,Medium
+-7912279.26948453,5211498.61920863,448,Other,843,42,55,Washington St @ Massachusetts Ave,-71.077214,42.336361,Boston, , ,"15, 749, 751",Key Bus,1,0,0,0,0,0,1,0,0,No,0, , ,55,Unprogrammed,Low
+-7920818.25366481,5213205.30156134,1766,Other,1445,644,1026,Chestnut Hill Ave @ Veronica Smith Ctr,-71.153921,42.347693,Boston, , ,"51, 65, 86",Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,1026,Unprogrammed,Medium
+-7933910.20501853,5234507.18257208,1043,Other,4859,4853,7889,Loomis St @ Great Rd,-71.271528,42.488961,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7889,Unprogrammed,Medium
+-7922689.97958301,5217813.31409588,1080,Other,548,1347,2108,Trapelo Rd @ Belmont St - Benton Square,-71.170735,42.378279,Belmont, , ,73,Key Bus,1,1,2,0,0,0,0,0,1,No,1, , ,2108,Unprogrammed,Medium
+-7925297.19337688,5215342.55227119,6588,Other,4926,4920,8174,Watertown St @ Pond St,-71.194156,42.361881,Watertown, , ,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8174,Unprogrammed,Medium
+-7907681.55187578,5219850.61833921,3946,Other,3274,3672,5606,Broadway @ Fourth St,-71.035912,42.391797,Chelsea, , ,"111, 112, 114, 116, 117, 116117",Key Bus,2,0,0,0,0,2,0,0,0,No,0, , ,5606,Unprogrammed,Medium
+-7906883.61376578,5225791.56821606,5680,Other,3211,3609,5531,Eastern Ave @ Cleveland St,-71.028744,42.4312,Malden, , ,109,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5531,Unprogrammed,Medium
+-7917621.15788923,5219981.75148208,3818,Other,679,1478,2298,Massachusetts Ave @ Rindge Ave,-71.125201,42.392667,Cambridge, , ,77,Key Bus,2,0,3,0,1,0,0,0,0,No,0, , ,2298,Unprogrammed,Medium
+-7928152.42699623,5184561.66137632,6272,Other,6038,6837,89619,Washington St opp Washington Green,-71.219805,42.157235,Walpole, , ,34E,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,89619,Unprogrammed,Medium
+-7913118.61844511,5206874.71220569,643,Other,1082,281,414,Blue Hill Ave @ Seaver St,-71.084754,42.305649,Boston, , ,"10, 14, 22, 23, 28, 45",Key Bus,0,0,0,1,0,1,0,0,0,No,0, , ,414,Unprogrammed,Medium
+-7909703.89306503,5214365.45489745,2756,Other,5341,5730,12891,Pearl St @ High St,-71.054079,42.355395,Boston, , ,4,Commuter Bus,0,0,0,1,0,0,0,0,0,No,0, , ,12891,Unprogrammed,Medium
+-7906723.20237955,5211398.77606738,1211,Other,825,24,29,E Broadway @ P St,-71.027303,42.335698,Boston, , ,"7, 9, 10",Local Bus,0,0,0,0,1,1,0,1,1,No,0, , ,29,Unprogrammed,Low
+-7901559.42516012,5216897.28806132,6112,Other,6133,6931,109886,Washington Ave @ Winthrop St,-70.980916,42.3722,Winthrop, , ,713,Local Bus,0,0,1,1,0,0,0,0,0,Yes,0, , ,109886,Unprogrammed,Medium
+-7921578.12050897,5204763.44891925,2127,Other,421,1220,1841,Corey St @ Weld St,-71.160747,42.291621,Boston, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1841,Unprogrammed,Medium
+-7908405.5738439,5223091.64697274,3333,Other,3243,3641,5571,Elm St @ Woodlawn St,-71.042416,42.413296,Everett, , ,110,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,5571,Unprogrammed,Medium
+-7909001.57839761,5200035.58183919,4840,Other,3120,2318,3486,Adams St @ Rowe St,-71.04777,42.260196,Milton, , ,217,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3486,Unprogrammed,Medium
+-7904479.6693621,5191266.42016838,2993,Other,2493,2492,3782, Franklin St @ Washington St,-71.007149,42.201868,Braintree, , ,236,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,3782,Unprogrammed,Medium
+-7911717.99661195,5227680.4936464,4732,Other,3531,3928,5987,Pleasant St @ Washington St,-71.072172,42.443723,Melrose, , ,132,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5987,Unprogrammed,Medium
+-7896991.54117491,5194732.79454765,94,In progress,2435,2434,3671,Middle St @ Commercial St,-70.939882,42.224931,Weymouth,PATI Future,In progress,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3671,Unprogrammed,High
+-7904710.54598601,5191690.4994839,3077,Other,2680,2679,4030,Franklin St @ Safford St,-71.009223,42.20469,Braintree, , ,236,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4030,Unprogrammed,Medium
+-7930640.64025445,5226284.31465422,3505,Other,5178,5171,8605,Marrett Rd opp Spring St,-71.242157,42.434467,Lexington, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8605,Unprogrammed,Medium
+-7907021.42729538,5227571.73029127,5734,Other,4265,4662,7547,665 Broadway,-71.029982,42.443002,Malden, , ,430,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7547,Unprogrammed,Medium
+-7921765.24857299,5214387.14699149,1806,Other,1498,697,1100,Brooks St @ Hobart St,-71.162428,42.355539,Boston, , ,64,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,1100,Unprogrammed,Low
+-7911947.87136044,5231463.85401566,1488,In progress,5749,5348,9071,Warren St @ Melrose St,-71.074237,42.468798,Melrose,PATI Future,In progress,131,Commuter Bus,2,0,0,0,0,0,0,0,0,No,0, , ,9071,Unprogrammed,High
+-7897597.00788534,5243196.54908233,4393,Other,3835,3034,4561,10 Sylvan St,-70.945321,42.546495,Peabody, , ,"435, 436",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4561,Unprogrammed,Medium
+-7915516.66291578,5217791.01137254,6612,Other,797,1596,2435,Beacon St @ Washington St,-71.106296,42.378131,Somerville, , ,83,Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,2435,Unprogrammed,Medium
+-7910542.46278918,5209112.76149687,477,Other,900,99,134,Massachusetts Ave @ Columbia Rd,-71.061612,42.320516,Boston, , ,"8, 16",Local Bus,1,0,0,1,0,0,0,0,0,No,0, , ,134,Unprogrammed,Medium
+-7905161.6125627,5224059.24122987,5548,Other,4440,4024,6252,Malden St @ Conant St,-71.013275,42.419713,Revere, , ,411,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6252,Unprogrammed,Medium
+-7905728.56272931,5218482.87235533,2418,Other,3437,3835,5843,Bennington St @ Moore St,-71.018368,42.382722,Boston, , ,120,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,5843,Unprogrammed,Medium
+-7916770.67697957,5224270.05330166,4630,Other,4486,4070,6322,High St @ Winthrop St - Winthrop Circle,-71.117561,42.421111,Medford, , ,"94, 95, 134",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6322,Unprogrammed,Medium
+-7921267.31649067,5216744.50011117,6581,In progress,514,1313,2060,Mt Auburn St @ Bigelow Ave,-71.157955,42.371186,Watertown,PATI Future,In progress,71,Key Bus,0,1,1,0,0,1,0,0,0,No,0, , ,2060,Unprogrammed,High
+-7906067.97585674,5197278.78506388,5956,Other,2736,2735,4099,West St @ Centre St,-71.021417,42.241865,Quincy, , ,238,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4099,Unprogrammed,Medium
+-7916427.92426741,5221178.76457451,6823,Other,1780,1779,2696,Broadway @ Bay State Ave,-71.114482,42.400608,Somerville, , ,"80, 89, 8993",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2696,Unprogrammed,Medium
+-7924299.99337835,5205601.09519079,4252,Other,5097,5090,8484,Wiswall Rd @ Indian Ridge Rd,-71.185198,42.297187,Newton, , ,52,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,8484,Unprogrammed,Medium
+-7915649.4670683,5201921.78208922,2928,Other,6387,6570,66459,Cummins Hwy @ Hebron St,-71.107489,42.272735,Boston, , ,"24, 30",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,66459,Unprogrammed,Medium
+-7887407.60093455,5200966.52572761,3451,Other,6158,6955,111220,Rockland Cir from Park to Rockland House Rd (FLAG),-70.853788,42.266385,Hull, , ,714,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,111220,Unprogrammed,Medium
+-7901499.98055204,5218450.92296671,6082,Other,6097,6896,109831,Revere St @ Governors Dr,-70.980382,42.38251,Winthrop, , ,712,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,109831,Unprogrammed,Medium
+-7899586.06454683,5230832.76118265,3545,Other,3779,2978,4485,Western Ave @ Mall St,-70.963189,42.464616,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4485,Unprogrammed,Medium
+-7909729.05126995,5205399.12627336,2578,Other,5035,5029,8327,Neponset Ave @ Victory Rd,-71.054305,42.295845,Boston, , ,"202, 210",Local Bus,0,0,0,0,0,0,0,1,0,No,0, , ,8327,Unprogrammed,Low
+-7914291.48060011,5208870.67080143,1861,Other,1559,758,1185,Washington St @ Dimock St,-71.09529,42.318908,Boston, , ,42,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1185,Unprogrammed,Low
+-7910036.29306454,5212446.05198875,488,Other,914,113,150,Broadway Station - Red Line,-71.057065,42.342652,Boston, , ,"9, 11, 47",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,150,Unprogrammed,Medium
+-7930071.46369802,5218534.86569478,834,Other,4388,4785,7794,Dale St @ Lexington St,-71.237044,42.383067,Waltham, , ,61,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7794,PATI Phase 2,High
+-7913427.86399054,5216856.30328033,3878,Other,5249,5638,11410,Cambridge St @ Max Ave,-71.087532,42.371928,Cambridge, , ,69,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,11410,Unprogrammed,Medium
+-7928924.09370641,5215694.33804356,6443,Other,6461,6644,77379,High St @ Hamblin Rd,-71.226737,42.364216,Waltham, , ,556,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,77379,Unprogrammed,Medium
+-7910673.9311078,5222802.76004219,3287,Other,2312,3510,5410,Main St @ Dyer Ave,-71.062793,42.41138,Everett, , ,"99, 105, 106",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5410,Unprogrammed,Medium
+-7909833.35763282,5211622.1069027,562,Other,995,194,292,W 7th St @ C St,-71.055242,42.337181,Boston, , ,11,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,292,Unprogrammed,Medium
+-7925760.17113909,5223758.26161072,1202,Compliant,1625,1624,2466,Appleton St @ Lublin St,-71.198315,42.417717,Arlington,PATI Complete,Compliant,78,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2466,PATI Phase 1,Compliant
+-7913318.54825058,5224462.32162849,1447,In progress,2191,3389,5265,1250 Fellsway,-71.08655,42.422386,Malden,PATI Future,In progress,100,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5265,Unprogrammed,High
+-7905931.72080001,5192903.03202466,3067,Other,2670,2669,4017,Granite St @ West St,-71.020193,42.212758,Braintree, , ,"236, 238",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4017,Unprogrammed,Medium
+-7901760.02288253,5238048.47698616,335,Compliant,5422,5811,14594,Lynnfield St @ Ralph Rd,-70.982718,42.512415,Peabody,PATI Future,In progress,436,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,14594,PATI Phase 2,Stop Eliminated
+-7917679.93458037,5200496.30415953,2226,Other,1878,1877,2814,West St @ Austin St,-71.125729,42.263259,Boston, , ,50,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,2814,Unprogrammed,Medium
+-7904749.2851688,5198347.9619587,5963,Other,3682,2881,4316,Whitwell St @ Maywood Ave,-71.009571,42.248975,Quincy, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4316,Unprogrammed,Medium
+-7907804.11463515,5217763.28373575,2466,Other,3487,3884,5901,Lexington St @ Marion St,-71.037013,42.377947,Boston, , ,121,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5901,Unprogrammed,Medium
+-7907109.59233209,5199936.91225738,24,In progress,3124,2322,3490,Beale St @ Summit Ave,-71.030774,42.25954,Quincy,PATI Future,In progress,"217, 245",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3490,PATI Phase 2,High
+-7898413.6476698,5239865.38945894,4396,Other,3846,3045,4578,Centennial Dr opp Rt128 Ramp,-70.952657,42.524445,Peabody, , ,436,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4578,Unprogrammed,Medium
+-7904602.56607994,5180805.53142088,3419,Other,2639,2638,3980,716 S Franklin St,-71.008253,42.132217,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3980,Unprogrammed,Medium
+-7911305.44657907,5223825.36295045,4448,Other,6956,6340,44330,Medford St @ Brackenbury St,-71.068466,42.418162,Malden, , ,97,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,44330,Unprogrammed,Medium
+-7903281.76032167,5195986.91095502,4479,Other,6907,6291,39675,Franklin St @ Penns Hill Rd,-70.996388,42.233273,Quincy, , ,236,Local Bus,0,0,1,1,0,0,0,0,0,No,0, , ,39675,Unprogrammed,Medium
+-7914949.71274917,5221861.07404214,4563,Other,1933,1932,2894,Mystic Ave @ Bonner Ave,-71.101203,42.405134,Medford, , ,95,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2894,Unprogrammed,Medium
+-7904618.93004508,5183532.62421648,3411,Other,2629,2628,3969,S Franklin St @ Adams St,-71.0084,42.150382,Holbrook, , ,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3969,Unprogrammed,Medium
+-7909614.72615291,5214243.8897069,2183,Other,554,1353,2116,Purchase St @ Pearl St,-71.053278,42.354588,Boston, , ,4,Commuter Bus,1,0,2,1,0,0,0,0,0,No,0, , ,2116,Unprogrammed,Low
+-7890382.94828447,5244905.79236713,1164,Other,4790,4374,7123,Cabot St opp Colon St,-70.880516,42.557806,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7123,Unprogrammed,Medium
+-7898700.62931706,5231804.77033745,5039,Other,4056,4455,7246,Western Ave @ Lawton Ave,-70.955235,42.471057,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7246,Unprogrammed,Medium
+-7895593.03441207,5240292.55815738,4920,Other,2060,3258,4935,Central St @ Walnut St,-70.927319,42.527273,Peabody, , ,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4935,Unprogrammed,Medium
+-7908093.7679502,5216436.06883585,2408,Other,3367,3765,5740,Maverick,-71.039615,42.369139,Boston, , ,"114, 116, 117, 120, 121, 116117",Key Bus,0,0,0,0,0,0,0,0,0,No,0, , ,5740,Unprogrammed,Medium
+-7932596.96898565,5233769.61779187,1048,Other,4864,4858,7894,Great Road @ Pine St,-71.259731,42.484075,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7894,Unprogrammed,Medium
+-7899094.58899497,5234824.20519396,4982,Other,4027,4426,7201,Broadway opp Mayfair St,-70.958774,42.491061,Lynn, , ,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7201,Unprogrammed,Low
+-7923209.9529245,5230920.13378788,6127,Other,320,1119,1681,Cambridge Rd @ Crawford Dr,-71.175406,42.465195,Woburn, , ,350,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,1681,Unprogrammed,Medium
+-7917299.11060236,5203284.58049354,2520,Other,4540,4124,6461,Cummins Hwy @ Brown Ave,-71.122308,42.281793,Boston, , ,"14, 24, 30, 39",Key Bus,1,0,0,0,0,2,0,0,0,No,0, , ,6461,Unprogrammed,Low
+-7920989.46304165,5228467.82077783,866,In progress,4989,4983,8260,Cambridge St @ Blossom Hill Rd,-71.155459,42.448942,Winchester,PATI Future,In progress,350,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8260,PATI Phase 2,Medium
+-7906710.17799913,5210915.23692338,1224,In progress,979,178,270,Columbia Rd @ P St,-71.027186,42.332487,Boston,PATI Future,In progress,11,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,270,Unprogrammed,Critical
+-7891994.63187218,5235563.66408583,5881,Other,3599,3996,6165,Loring Ave @ Grant Rd,-70.894994,42.495959,Salem, , ,455,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6165,Unprogrammed,Medium
+-7902054.68557466,5232086.5373812,5353,Other,6447,6630,76734,O'Callaghan Way @ Walnut St,-70.985365,42.472924,Lynn, , ,"426, 429",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,76734,Unprogrammed,Medium
+-7916776.46559309,5205460.83018051,1619,Other,1272,471,642,Washington St @ Tollgate Way,-71.117613,42.296255,Boston, , ,"30, 36, 39, 4050, 34E, 34, 37, 40, 51, 35, 50",Key Bus,0,0,2,0,0,0,0,0,0,No,0, , ,642,Unprogrammed,Medium
+-7919045.15681545,5229345.73996919,6036,Other,4760,4344,6952,Main St @ Vine St,-71.137993,42.454761,Winchester, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6952,Unprogrammed,Medium
+-7934428.95384563,5235323.46192135,1035,Other,4851,4845,7881,Springs Rd opp Hillside Ave,-71.276188,42.494368,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7881,Unprogrammed,Medium
+-7916180.46103938,5217613.79700667,3871,Other,1690,1689,2568,Kirkland St @ Sumner Rd,-71.112259,42.376955,Cambridge, , ,86,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2568,Unprogrammed,Medium
+-7928512.10027099,5233778.22187903,3661,Other,6271,6454,49849,Opp 32 Second Ave,-71.223036,42.484132,Burlington, , ,350,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,49849,Unprogrammed,Medium
+-7911618.69962616,5211296.22334846,2651,Other,5965,5564,10005,Albany St opp E Concord St,-71.07128,42.335017,Boston, , ,"8, 10, 47",Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,10005,Unprogrammed,Medium
+-7909701.66667521,5202841.77741314,2319,Other,3047,2246,3368,Granite Ave @ Hilltop St,-71.054059,42.27885,Boston, , ,215,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3368,Unprogrammed,Medium
+-7918475.42366157,5214388.95466823,1868,Other,1566,765,1193,Cambridge St @ Franklin St,-71.132875,42.355551,Boston, , ,"64, 66, 501",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1193,Unprogrammed,Medium
+-7904655.55415755,5182949.45752256,1437,In progress,2631,2630,3971,261 S Franklin St,-71.008729,42.146498,Holbrook,PATI Future,In progress,230,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3971,PATI Phase 2,High
+-7911148.37477756,5225197.19966479,4421,Other,5877,5476,9214,Main St @ Salem St,-71.067055,42.427259,Malden, , ,"131, 137",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,9214,Unprogrammed,Medium
+-7910885.66077929,5213019.13594515,2900,Other,7015,6399,49003,Washington St @ Herald St,-71.064695,42.346457,Boston, , ,"15, 749, 751",Key Bus,1,1,0,0,0,1,0,0,0,No,0, , ,49003,Unprogrammed,Medium
+-7925122.19913735,5212116.67619649,4270,Other,5120,5113,8509,Centre St @ Alderwood Rd,-71.192584,42.340465,Newton, , ,52,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8509,Unprogrammed,Medium
+-7919345.05152365,5233487.19675612,6131,Other,2075,3273,4982,Bow St @ Montvale Ave,-71.140687,42.482204,Woburn, , ,354,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4982,Unprogrammed,Medium
+-7905779.10177813,5230532.77296459,379,In progress,4268,4665,7555,Vine St @ Talbot St,-71.018822,42.462628,Saugus,PATI Future,In progress,430,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7555,PATI Phase 2,High
+-7897653.55818665,5191090.00153874,6875,Other,5378,5767,13838,Middle St opp Winter St,-70.945829,42.200694,Weymouth, , ,226,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,13838,Unprogrammed,Medium
+-7898521.96153434,5232005.79449289,5045,Other,4058,4457,7248,Western Ave @ Nichols Ave,-70.95363,42.472389,Lynn, , ,"424, 450",Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,7248,Unprogrammed,Medium
+-7925504.58158823,5225009.13904239,200,Compliant,5064,5057,8432,Massachusetts Ave opp Charles St,-71.196019,42.426012,Lexington,PATI Future,In progress,627,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,8432,PATI Phase 2,Compliant
+-7898984.60533807,5235208.87360109,5088,Other,4073,4472,7266,Broadway @ Broadway Circle,-70.957786,42.493609,Lynn, , ,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7266,Unprogrammed,Medium
+-7891896.55940079,5239108.07353379,5811,Other,3540,3937,6103,New Derby St opp Klop Alley,-70.894113,42.519431,Salem, , ,"451, 455",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6103,Unprogrammed,Low
+-7925327.69491735,5235671.6136233,3640,Other,4972,4966,8239,99 Cambridge St,-71.19443,42.496674,Burlington, , ,"350, 354",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8239,Unprogrammed,Medium
+-7917525.64576613,5199378.30535297,2198,Other,1849,1848,2783,River St @ Hyde Park Ave,-71.124343,42.255826,Boston, , ,"33, 50, 4050",Local Bus,1,0,0,1,1,1,0,0,0,No,0, , ,2783,Unprogrammed,Medium
+-7924382.92639899,5214627.42038524,4126,Other,1380,579,903,Washington St @ Bacon St,-71.185943,42.357134,Newton, , ,"52, 57, 501, 504, 553, 554, 556, 558",Key Bus,0,1,4,0,0,1,6,0,4,No,0,Wood Bench,Good,903,Unprogrammed,Medium
+-7890869.52577873,5242523.42405008,1177,Other,4803,4387,7136,Cabot St @ Rantoul St,-70.884887,42.54204,Beverly, , ,451,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7136,Unprogrammed,Low
+-7922201.84361588,5217659.60720495,1088,Other,561,1360,2124,Belmont St @ Payson Rd,-71.16635,42.377259,Belmont, , ,73,Key Bus,0,0,0,0,1,0,0,0,0,No,0, , ,2124,Unprogrammed,Medium
+-7911153.49547414,5213816.08905722,1895,Other,1596,795,1241,Charles St S @ Park Plaza,-71.067101,42.351748,Boston, , ,43,Local Bus,0,0,1,0,0,0,2,2,0,No,0, , ,1241,Unprogrammed,Medium
+-7898573.72509755,5230231.73802557,5358,Other,6054,6853,94320,Neptune Blvd @ Blossom St,-70.954095,42.460633,Lynn, , ,"429, 435, 436",Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,94320,Unprogrammed,Medium
+-7902784.38483681,5229557.27350827,6424,Other,4216,4613,7464,Winter St @ Chestnut St,-70.99192,42.456163,Saugus, , ,428,Commuter Bus,0,0,0,0,1,0,0,0,0,No,0, , ,7464,Unprogrammed,Medium
+-7919325.45929327,5213908.72734686,1727,Other,1397,596,924,Cambridge St @ Gordon St,-71.140511,42.352363,Boston, , ,"51, 57, 66, 501",Key Bus,1,0,2,0,0,1,0,0,0,No,0, , ,924,Unprogrammed,Low
+-7917815.74435914,5198298.78620052,2819,Other,6659,6043,22819,Hyde Park Ave @ Glenwood Ave,-71.126949,42.248648,Boston, , ,32,Key Bus,1,0,0,0,0,1,0,0,0,No,0, , ,22819,Unprogrammed,Medium
+-7934604.17072414,5234106.84349651,1057,Other,5080,5073,8463,South Rd @ Railroad Ave,-71.277762,42.486309,Bedford, , ,627,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,8463,Unprogrammed,Medium
+-7920408.04134124,5214189.50974904,1776,Other,1455,654,1038,Market St @ Gardena St,-71.150236,42.354227,Boston, , ,86,Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,1038,Unprogrammed,Medium
+-7916147.73310908,5210822.32674815,2573,Other,4600,4184,6575,S Huntington Ave @ Huntington Ave,-71.111965,42.33187,Boston, , ,"35, 39",Key Bus,0,0,0,1,1,1,0,0,0,No,0, , ,6575,Unprogrammed,Medium
+-7908450.4355987,5224570.29520324,3317,Other,3205,3603,5523,Broadway @ Estes St,-71.042819,42.423102,Everett, , ,109,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,5523,Unprogrammed,Medium
+-7898412.86843336,5232934.00204449,5109,Other,4088,4486,7298,Chestnut St opp Pond St,-70.95265,42.478539,Lynn, , ,"435, 436",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7298,Unprogrammed,Medium
+-7918262.80343416,5225833.04419897,4656,Other,5815,5414,9145,Winthrop St @ Playstead Rd,-71.130965,42.431475,Medford, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9145,Unprogrammed,Medium
+-7921399.34140675,5238999.63159261,6145,Other,5654,5253,8853,1076 Main St,-71.159141,42.518713,Woburn, , ,134,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8853,Unprogrammed,Medium
+-7910209.06091425,5207095.67855217,2318,Other,2885,2084,3176,Dorchester Ave @ Hecla St,-71.058617,42.307117,Boston, , ,18,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,3176,Unprogrammed,Medium
+-7923462.20289064,5209336.94179338,4307,Other,6627,6011,19661,Mall at Chestnut Hill @ Bloomingdales,-71.177672,42.322005,Newton, , ,60,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,19661,Unprogrammed,Medium
+-7921759.90523743,5214371.02855576,1872,Other,1573,772,1206,Brooks St @ Gerrish St,-71.16238,42.355432,Boston, , ,64,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1206,Unprogrammed,Medium
+-7912401.38696593,5201757.80210825,765,Other,1218,417,587,168 River St opp Standard St,-71.078311,42.271645,Boston, , ,"15, 24",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,587,Unprogrammed,Medium
+-7919926.91850203,5210548.8719427,3617,Other,6048,6847,91916,Chestnut Hill Ave opp Ackers Ave,-71.145914,42.330054,Brookline, , ,51,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,91916,Unprogrammed,Medium
+-7912900.87752112,5225647.23321407,1444,In progress,2125,3323,5081,Savin St @ Fellsway E,-71.082798,42.430243,Malden,PATI Future,In progress,99,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,5081,Unprogrammed,High
+-7917225.97369692,5222822.20987683,4547,Other,773,1572,2410,Boston Ave @ Winthrop St,-71.121651,42.411509,Medford, , ,"80, 94, 96",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2410,Unprogrammed,Medium
+-7910113.99406911,5207524.68106335,2759,Other,5345,5734,13121,Dewar St @ Dorchester Ave,-71.057763,42.309967,Boston, , ,18,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,13121,Unprogrammed,Medium
+-7916821.77262584,5222416.18403091,1282,Other,771,1570,2408,Boston Ave @ Tufts Garage,-71.11802,42.408816,Medford, , ,"80, 94, 96",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2408,Unprogrammed,Critical
+-7907369.74598208,5210772.18273729,548,Other,981,180,277,E 8th St @ M St,-71.033111,42.331537,Boston, , ,11,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,277,Unprogrammed,Medium
+-7896572.53461156,5224959.52303032,4077,Other,4613,4197,6615,Castle Rd opp Wendell Rd,-70.936118,42.425683,Nahant, , ,439,Commuter Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6615,Unprogrammed,Medium
+-7891725.79530192,5232579.6122013,1316,Compliant,3938,3137,4777,Salem St @ Humphrey St,-70.892579,42.476191,Swampscott,PATI Complete,Compliant,441,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4777,PATI Phase 1,Compliant
+-7917679.48930241,5202383.19785773,2211,Other,1862,1861,2796,Poplar St @ Metropolitan Ave,-71.125725,42.275802,Boston, , ,"50, 4050",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,2796,Unprogrammed,Medium
+-7920176.60811988,5202842.52969442,2389,Other,2189,3387,5263,Woodard Rd @ Wren St,-71.148157,42.278855,Boston, , ,38,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5263,Unprogrammed,Medium
+-7918775.76364774,5202930.09564246,1609,Other,1262,461,632,Washington St @ Cornell St,-71.135573,42.279437,Boston, , ,"40, 34E, 34",Local Bus,1,0,0,0,0,1,0,0,0,No,0, , ,632,Unprogrammed,Medium
+-7911199.02514587,5198127.50015242,4039,Other,3701,2900,4343,Pleasant St @ Reedsdale Rd,-71.06751,42.247509,Milton, , ,245,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,4343,Unprogrammed,Medium
+-7932899.7580006,5227921.40667199,3510,Other,5183,5176,8611,Marrett Rd opp Forbes Rd,-71.262451,42.44532,Lexington, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8611,Unprogrammed,Medium
+-7914429.62808819,5222990.62600924,4664,Other,5824,5423,9155,Riverside Ave @ Foster Ct,-71.096531,42.412626,Medford, , ,134,Local Bus,0,0,0,0,0,0,0,0,0,No,0, , ,9155,Unprogrammed,Medium
+-7896985.19596394,5234118.76888737,3572,Other,3818,3017,4539,Western Ave @ Victory Rd,-70.939825,42.486388,Lynn, , ,"450, 456",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4539,Unprogrammed,Medium
+-7902027.96889687,5198302.54580606,5836,Other,3137,2335,3524,Washington St @ Arnold St,-70.985125,42.248673,Quincy, , ,"220, 222",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3524,Unprogrammed,Medium
+-7920654.39137436,5212978.61980332,2178,Other,479,1278,1994,Winship St @ Union St,-71.152449,42.346188,Boston, , ,"65, 66, 501",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1994,Unprogrammed,Medium
+-7891622.49081446,5237644.51446983,5822,Other,3546,3943,6110,Lafayette St @ Laurel St,-70.891651,42.50974,Salem, , ,455,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6110,Unprogrammed,Medium
+-7920582.03370535,5200906.50574569,1601,Other,1254,453,624,Washington St @ Woodley Ave,-71.151799,42.265986,Boston, , ,"34E, 34",Local Bus,0,0,2,0,0,0,0,0,0,No,0, , ,624,Unprogrammed,Medium
+-7895314.73568509,5192348.44599065,6007,Other,5388,5777,13849,Pleasant St opp Lambert Ave,-70.924819,42.209068,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,13849,Unprogrammed,Medium
+-7905368.3328571,5196690.11251257,5959,Other,2739,2738,4102,Centre St @ Albertina St,-71.015132,42.23795,Quincy, , ,238,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4102,Unprogrammed,Medium
+-7906145.45422233,5225137.32751302,5584,Other,4452,4036,6271,Malden St @ Lucia Ave,-71.022113,42.426862,Revere, , ,"119, 411",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,6271,Unprogrammed,Medium
+-7924382.92639899,5214627.42038524,4123,Other,1382,581,903,Washington St @ Bacon St,-71.185943,42.357134,Newton, , ,"52, 57, 501, 504, 553, 554, 556, 558",Key Bus,0,1,4,0,0,1,6,0,4,No,0,Wood Bench,Excellent,903,Unprogrammed,Medium
+-7909365.704452,5215382.17459777,519,Other,949,148,225,Atlantic Ave @ Atlantic Ave,-71.051041,42.362144,Boston, , ,4,Commuter Bus,0,0,0,0,0,0,0,3,0,No,0, , ,225,Unprogrammed,Medium
+-7912064.75682577,5204704.45829625,612,Other,1050,249,373,Talbot Ave @ Spencer St,-71.075287,42.291229,Boston, , ,"22, 45",Key Bus,1,0,0,0,0,0,0,0,0,No,0, , ,373,Unprogrammed,Medium
+-7907179.27833333,5222775.77157823,3932,Other,3259,3657,5589,Washington Ave @ Prospect Ave,-71.0314,42.411201,Chelsea, , ,111,Key Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5589,Unprogrammed,Medium
+-7908060.03814448,5218130.68151724,2403,Other,3361,3759,5732,Meridian St @ White St,-71.039312,42.380385,Boston, , ,"114, 116, 117, 116117",Key Bus,1,0,0,0,0,0,0,0,0,No,1, , ,5732,Unprogrammed,Low
+-7918061.53779481,5211807.49206173,3128,Other,25,824,1279,Washington St @ Gardner Rd,-71.129157,42.338412,Brookline, , ,65,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,1279,Unprogrammed,Medium
+-7896692.64834213,5193954.27939898,6783,Other,2455,2454,3693,Middle St @ Maple St,-70.937197,42.219752,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3693,Unprogrammed,Medium
+-7909358.3573656,5211866.3763282,492,Other,918,117,154,W Broadway @ D St,-71.050975,42.338803,Boston, , ,9,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,154,Unprogrammed,Medium
+-7897581.64579561,5233338.21589255,3539,Other,3773,2972,4479,Western Ave @ Chatham St,-70.945183,42.481217,Lynn, , ,"424, 450",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4479,Unprogrammed,Medium
+-7889843.27139311,5234843.67978773,4503,Other,3949,3148,4791,Humphrey St @ Sheldon Rd,-70.875668,42.49119,Marblehead, , ,"441, 442",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4791,Unprogrammed,Medium
+-7897302.56783218,5238934.98991404,324,In progress,2049,3247,4924,Washington St @ Granite St,-70.942676,42.518285,Peabody,PATI Future,In progress,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4924,PATI Phase 2,High
+-7917121.33337557,5219566.65348728,3820,Other,681,1480,2300,Massachusetts Ave opp Beech St,-71.120711,42.389913,Cambridge, , ,"77, 83, 96",Key Bus,2,0,2,0,2,1,0,0,0,No,0, , ,2300,Unprogrammed,Low
+-7917399.40946357,5211252.85336973,3134,Other,31,830,1287,Washington St @ School St,-71.123209,42.334729,Brookline, , ,65,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,1287,Unprogrammed,Low
+-7908056.36460129,5199697.76310931,4809,Other,3039,2238,3359,Adams St @ Church St,-71.039279,42.25795,Milton, , ,"215, 217, 245",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3359,Unprogrammed,Medium
+-7904586.31343428,5182202.38377923,3414,Other,2634,2633,3975,S Franklin St @ Dresser Ave,-71.008107,42.141522,Holbrook, , ,230,Local Bus,0,0,0,1,0,0,0,0,0,No,0, , ,3975,Unprogrammed,Medium
+-7920217.79633147,5217918.64996585,3880,Other,5291,5680,12144,Huron Ave opp Park Ave,-71.148527,42.378978,Cambridge, , ,75,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,12144,Unprogrammed,Medium
+-7909351.90083514,5222884.02744631,3309,Other,2397,3595,5514,Broadway @ Lexington St,-71.050917,42.411919,Everett, , ,"104, 109",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,5514,Unprogrammed,Low
+-7893808.80561364,5233602.36797053,7007,Other,3589,3986,6155,Essex St @ Ryan Pl,-70.911291,42.482967,Swampscott, , ,455,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6155,Unprogrammed,Medium
+-7895992.78270352,5239227.69338779,325,In progress,2051,3249,4926,Washington St @ Bresnahan St,-70.93091,42.520223,Peabody,PATI Future,In progress,435,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4926,PATI Phase 2,High
+-7900928.68892528,5195867.83644076,2996,Other,2505,2504,3798,Quincy Ave @ Dewey Rd,-70.97525,42.232481,Braintree, , ,225,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3798,Unprogrammed,Medium
+-7910763.76593687,5204218.55205456,587,Other,1023,222,337,Dorchester Ave @ Msgr Lydon Way,-71.0636,42.288,Boston, , ,"15, 18, 215",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,337,Unprogrammed,Medium
+-7906842.75951266,5199184.74084559,5975,Other,3731,2930,4382,Adams St @ Alrick Rd,-71.028377,42.254539,Quincy, , ,245,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4382,Unprogrammed,Medium
+-7917106.75052227,5199439.9700894,2474,Other,4489,4073,6357,River St @ Way St,-71.12058,42.256236,Boston, , ,"24, 33",Local Bus,1,0,0,0,0,0,0,0,0,No,0, , ,6357,Unprogrammed,Medium
+-7922689.97958301,5217813.31409588,1079,Other,549,1348,2108,Trapelo Rd @ Belmont St - Benton Square,-71.170735,42.378279,Belmont, , ,73,Key Bus,1,1,2,0,0,0,0,0,1,No,0,Metal Bench,Excellent,2108,Unprogrammed,Medium
+-7929072.14862917,5213410.60008916,4160,Other,4332,4729,7651,Washington St @ Cherry St,-71.228067,42.349056,Newton, , ,"553, 554",Local Bus,2,0,0,0,0,0,0,0,0,No,0,Wood Bench,Worn,7651,Unprogrammed,Medium
+-7905373.2309147,5224177.01191514,5554,Other,4442,4026,6254,Malden St @ Steeple St,-71.015176,42.420494,Revere, , ,411,Local Bus,0,0,0,0,1,0,0,0,0,No,0, , ,6254,Unprogrammed,Medium
+-7911416.65475038,5237911.35431339,812,In progress,5915,5514,9279,Pleasant St @ Wave Ave,-71.069465,42.511507,Wakefield,PATI Future,In progress,137,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,9279,PATI Phase 2,High
+-7921347.46652404,5200037.08595661,1684,Other,1339,538,832,Stimson St @ Washington St,-71.158675,42.260206,Boston, , ,35,Local Bus,0,0,1,0,0,0,0,0,0,Yes,0, , ,832,Unprogrammed,Medium
+-7905510.04256888,5201199.53923241,5076,Other,2802,2001,3051,Hancock St @ Beach St,-71.016405,42.267934,Quincy, , ,210,Local Bus,0,0,1,0,0,1,0,0,0,No,0, , ,3051,Unprogrammed,Medium
+-7911640.85220483,5203492.22208847,697,Other,1140,339,491,Washington St @ Stockton St,-71.071479,42.283173,Boston, , ,26,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,491,Unprogrammed,Medium
+-7916880.10403902,5215155.59136329,1353,Compliant,1509,708,1116,Cambridge St @ Mass Pike Exit,-71.118544,42.36064,Boston,PATI Complete,Compliant,64,Local Bus,0,0,0,0,0,0,0,0,0,Yes,0, , ,1116,PATI Phase 2,Compliant
+-7911840.7820103,5201525.07575591,4843,Other,2741,2740,4134,Central Ave @ Central Ave Station,-71.073275,42.270098,Milton, , ,240,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4134,Unprogrammed,Low
+-7926259.43905529,5189119.71532888,4379,Other,6342,6525,56618,Washington St @ East Hoyle St,-71.2028,42.187581,Norwood, , ,34E,Local Bus,1,0,0,0,1,0,0,0,0,No,0, , ,56618,Unprogrammed,Medium
+-7908052.46841911,5217624.64677043,2405,Compliant,3364,3762,5734,Meridian St @ Lexington St,-71.039244,42.377027,Boston, ,Compliant,"114, 116, 117, 116117",Key Bus,1,0,0,0,0,0,0,0,0,No,0, , ,5734,Unprogrammed,Compliant
+-7929946.0066319,5183126.02532982,89,Compliant,6050,6849,92618,High Plain St @ Peach St,-71.235917,42.147674,Walpole,PATI Future,In progress,34E,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,92618,PATI Phase 2,Compliant
+-7934714.15438104,5234359.84615724,1039,Other,4855,4849,7885,South Rd opp Hartford St,-71.27875,42.487985,Bedford, , ,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7885,Unprogrammed,Medium
+-7909920.52079411,5204503.2608971,2311,Other,2823,2022,3083,Adams St opp Msgr. Lydon Way,-71.056025,42.289892,Boston, , ,201,Local Bus,0,0,1,1,0,0,0,0,0,No,0, , ,3083,Unprogrammed,Medium
+-7891562.48960892,5237201.91221142,5829,Other,3548,3945,6112,Lafayette St @ Forest Ave,-70.891112,42.506809,Salem, , ,455,Local Bus,0,0,1,0,0,0,0,0,0,No,0, , ,6112,Unprogrammed,Medium
+-7897548.36126786,5196035.32299032,6773,Other,2431,2430,3667,North St opp Colasanti Rd,-70.944884,42.233595,Weymouth, , ,222,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,3667,Unprogrammed,Medium
+-7922235.23946312,5213637.5934453,2645,Other,5956,5555,9780,Washington St @ Oak Sq,-71.16665,42.350563,Boston, , ,"57, 501",Key Bus,1,0,2,0,0,1,0,0,0,No,0, , ,9780,Unprogrammed,Medium
+-7923764.10134967,5223388.08188028,938,Other,695,1494,2323,Park Circle @ Park Ave,-71.180384,42.415262,Arlington, , ,78,Local Bus,0,0,0,0,0,0,2,0,0,No,0,Wood Bench,Good,2323,Unprogrammed,Medium
+-7911213.05140171,5221513.58151897,1422,In progress,3234,3632,5561,Santilli Circle,-71.067636,42.402829,Everett,PATI Future,In progress,"97, 99, 106, 110, 112",Local Bus,0,0,0,0,0,1,0,0,0,No,0, , ,5561,Unprogrammed,High
+-7903908.37773535,5223582.89563866,5661,Other,6842,6226,35704,Revere St @ Stowers St,-71.002017,42.416554,Revere, , ,"116, 424, 455",Key Bus,0,0,0,0,0,0,0,0,0, ,0, , ,35704,Unprogrammed,Low
+-7909111.11677656,5209061.42209496,1386,Compliant,6312,6495,51111,Mt Vernon St @ Bayside Expo Center,-71.048754,42.320175,Boston,PATI Future,In progress,"8, 16",Local Bus,0,0,3,0,0,0,0,0,0,Yes,0, , ,51111,PATI Phase 2,Compliant
+-7925534.74917023,5225005.51962845,199,Compliant,4871,4865,7916,Massachusetts Ave @ Charles St,-71.19629,42.425988,Lexington,PATI Future,In progress,627,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,7916,PATI Phase 2,Compliant
+-7906330.46721603,5219231.15185976,3979,Other,3318,3716,5659,245 Central Ave,-71.023775,42.387687,Chelsea, , ,112,Local Bus,0,0,1,0,1,0,0,0,1,No,0, , ,5659,Unprogrammed,Medium
+-7926699.70764139,5213274.58743404,4223,Other,4940,4934,8192,Walnut St @ Otis St,-71.206755,42.348153,Newton, , ,59,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,8192,Unprogrammed,Medium
+-7918820.18012456,5197731.10286205,2967,Other,6028,6827,89413,Neponset Valley Pkwy @ River St,-71.135972,42.244873,Boston, , ,"33, 3233",Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,89413,Unprogrammed,Low
+-7894032.55779013,5232555.16160367,74,In progress,3930,3129,4764,Paradise Rd opp Franklin Ave,-70.913301,42.476029,Swampscott,PATI Future,In progress,441,Local Bus,0,0,0,0,0,0,0,0,0, ,0, , ,4764,Unprogrammed,High

@@ -1,0 +1,1338 @@
+aggregation_level,service_mode,reporting_group,measure_group,measure,category,weighted_percent,ObjectId
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Fares,Reduced Fares,Transportation Access Pass (TAP),0.00712906,2020
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.159443092,4731
+Service Mode,Bus,All Bus,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.008475238,12977
+Service Mode,Commuter Rail,All Commuter Rail,Alternative Modes,Alternative Mode,Other,0.008654103,12831
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Fares,Fare Product,7-day Pass,0.180680091,6120
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.373992467,10687
+Reporting Group,Bus,15,Fares,Fare Product,7-day Pass,0.273454239,773
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Race and Ethnicity,Race,Black or African American,0.201999497,6370
+Reporting Group,Bus,Malden/Everett - North,Race and Ethnicity,Race,Prefer not to say,0.069900715,2930
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Other Demographics,Age,26 to 34,0.332976514,7603
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Race and Ethnicity,Race,White,0.550135672,5494
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Vehicles,Cars per Capita,0,0.479529617,2421
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Fares,Fare Product,Pay-as-you-go,0.269155966,3412
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Income,Household Income,100% to 140% of Area Median Income,0.075876126,8890
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Gilman Square and East Somerville,Alternative Modes,Alternative Mode,Walk,0.472062143,6724
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Race and Ethnicity,Race,Middle Eastern or North African,0.029882416,13315
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Race and Ethnicity,Title VI Minority,No,0.41873957,10356
+Reporting Group,Bus,66,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.01437906,1800
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,9728
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Other Demographics,Gender,Non-Binary,0.037615687,6988
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Race and Ethnicity,Race,White,0.559554779,3791
+Reporting Group,Bus,111,Fares,Reduced Fares,Transportation Access Pass (TAP),0.003095811,312
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Other Demographics,Gender,Woman,0.397775067,7160
+Reporting Group,Bus,9,Other Demographics,Gender,Woman,0.631652928,2058
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Income,Household Income,140% to 200% of Area Median Income,0.030384739,8216
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Alternative Modes,Alternative Mode,Drive Alone,0.400041439,10762
+Reporting Group,Bus,47,Income,Household Income,60% to 80% of Area Median Income,0.193507811,1434
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Fares,Reduced Fares,Full Fare,0.775422019,6444
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.282036521,7792
+Reporting Group,Bus,Malden/Everett - South,Fares,Reduced Fares,Full Fare,0.863104228,2859
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.191785563,7586
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Fares,Reduced Fares,Senior CharlieCard,0.025497331,6642
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Race and Ethnicity,Race,American Indian or Alaska Native,0.039204538,7067
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Other Demographics,Gender,Man,0.368252989,6180
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.029794972,7880
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.006778983,6479
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Fares,Fare Product,Monthly Pass,0.361526489,5400
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Income,Title VI Low-Income,Yes,0.84243642,6014
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Fares,Reduced Fares,Transportation Access Pass (TAP),0.00543476,5763
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Race and Ethnicity,Race,Other,0.015806059,2406
+Reporting Group,Commuter Rail,Kingston Line,Fares,Reduced Fares,Senior CharlieCard,0.006182335,4105
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.298825193,9369
+Reporting Group,Commuter Rail,Fitchburg Line,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.286603535,3729
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL3,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.272915467,12336
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.207096252,3448
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Fares,Reduced Fares,Student (S-Card or M7),0.020373779,10815
+Reporting Group,Commuter Rail,Kingston Line,Access Mode,Access to First MBTA Service,Walked,0.563421306,4078
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Income,Household Income,140% to 200% of Area Median Income,0.06396448,7448
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Alternative Modes,Used Alternative Mode,No,0.912056189,10257
+Reporting Group,Bus,Malden/Everett - North,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.565131094,2958
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Orange Line,All Orange Line,Other Demographics,Gender,Man,0.395930299,12518
+Reporting Group,Bus,47,Fares,Reduced Fares,Transportation Access Pass (TAP),0.005335576,1431
+Reporting Group,Commuter Rail,Kingston Line,Vehicles,Usable Cars,2,0.346506649,4171
+Reporting Group,Bus,71,Race and Ethnicity,Race,Other,0.046461643,1787
+Reporting Group,Bus,32,Vehicles,Usable Cars,1,0.3979324,1040
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Trip Purpose and Frequency,Frequency,Less than once per month,0.075421556,6193
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.066003507,6221
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Race and Ethnicity,Race,American Indian or Alaska Native,0.029521524,5652
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Alternative Modes,Alternative Mode,Other,0.0,9846
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Alternative Modes,Alternative Mode,Other,0.0,11615
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Other Demographics,Ability to Understand English,Sometimes,0.042117698,9364
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Fares,Fare Product,Student Pass (M7),0.075136909,8962
+Reporting Group,Bus,47,Alternative Modes,Alternative Mode,Drive Alone,0.100086217,1369
+Reporting Group,Bus,28 & 29,Other Demographics,Ability to Understand English,Prefer not to say,0.003055656,1115
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.061468199,8056
+Reporting Group,Bus,"114, 116, & 117",Income,Household Income,30% to 60% of Area Median Income,0.389081201,451
+Reporting Group,Bus,73,Other Demographics,Ability to Understand English,Always,0.898228844,1881
+Reporting Group,Bus,39,Other Demographics,Age,45 to 64,0.083301868,1386
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Income,Household Income,80% to 100% of Area Median Income,0.118467941,5272
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Alternative Modes,Alternative Mode,Drive Alone,0.601775433,4585
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Other Demographics,Age,Under 18,0.034820762,6272
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,4025
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Other Demographics,Gender,Prefer not to say,0.005946071,11508
+Reporting Group,Commuter Rail,Needham Line,Race and Ethnicity,Race,Black or African American,0.275104211,4697
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Other Demographics,Age,18 to 25,0.298170781,4792
+Systemwide,All Modes,Systemwide,Other Demographics,Age,Under 18,0.042918412,13215
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Access Mode,Access to First MBTA Service,Walked,0.91226599,8926
+Reporting Group,Commuter Rail,Lowell Line,Alternative Modes,Alternative Mode,Different MBTA Service,0.198262565,4216
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Other Demographics,Ability to Understand English,Always,0.934836043,6730
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Race and Ethnicity,Race,American Indian or Alaska Native,0.019193444,10621
+Reporting Group,Bus,SL4,Alternative Modes,Alternative Mode,Different MBTA Service,0.212287215,3352
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Income,Household Income,140% to 200% of Area Median Income,0.046572627,9923
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Alternative Modes,Used Alternative Mode,Yes,0.121640158,6958
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Other Demographics,Gender,Woman,0.581123985,3703
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Income,Title VI Low-Income,No,0.429526004,8779
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.025114496,9225
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Race and Ethnicity,Race,Prefer not to say,0.074848411,9758
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.112492037,6126
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Other Demographics,Gender,Prefer not to say,0.00880757,7504
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Race and Ethnicity,Race,Middle Eastern or North African,0.031183313,9654
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Income,Household Income,140% to 200% of Area Median Income,0.037290523,10752
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Fares,Reduced Fares,Other Reduced or Free Fare,0.011854661,6131
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Income,Household Income,140% to 200% of Area Median Income,0.020838229,4964
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Alternative Modes,Alternative Mode,Other,0.03404258,4557
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Alternative Modes,Alternative Mode,Drive Alone,0.205859038,13059
+Reporting Group,Bus,1,Race and Ethnicity,Race,White,0.437256419,64
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Fares,Reduced Fares,Transportation Access Pass (TAP),0.016247248,10564
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.037356946,4016
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Other Demographics,Ability to Understand English,Never,0.010605461,9576
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Fares,Reduced Fares,Youth Pass,0.053981311,3616
+Service Mode,Commuter Rail,All Commuter Rail,Alternative Modes,Used Alternative Mode,No,0.827866907,12832
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.118332846,12177
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.101112762,2418
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Alternative Modes,Alternative Mode,Different MBTA Service,0.166616207,10733
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Fares,Fare Product,Monthly Pass,0.425502018,5598
+Reporting Group,Bus,111,Fares,Fare Product,Semester Pass,0.005228267,305
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Access Mode,Access to First MBTA Service,The RIDE,0.004551442,8331
+Reporting Group,Bus,Malden/Everett - North,Fares,Fare Product,Pay-as-you-go,0.290139878,3046
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Race and Ethnicity,Title VI Minority,Yes,0.58126043,10350
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Income,Household Income,80% to 100% of Area Median Income,0.110385213,9117
+Reporting Group,Commuter Rail,Needham Line,Vehicles,Usable Cars,2,0.23471818,4468
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Race and Ethnicity,Title VI Minority,No,0.388337539,8645
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Income,Household Income,Prefer not to say,0.039697616,8031
+Reporting Group,Commuter Rail,Greenbush Line,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.22058919,4227
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Other Demographics,Age,Under 18,0.057839669,4719
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Income,Household Income,60% to 80% of Area Median Income,0.184794615,12218
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Race and Ethnicity,Race,Prefer not to say,0.01737997,9567
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Andrew,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.083383169,10127
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Income,Household Income,Prefer not to say,0.089150714,3527
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.112060614,7014
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Fields Corner,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.087386947,11096
+Reporting Group,Bus,Malden/Everett - South,Income,Household Income,200% or more of Area Median Income,0.010602819,3022
+Reporting Group,Bus,4 & 7,Race and Ethnicity,Race,Middle Eastern or North African,0.040300051,1494
+Reporting Group,Bus,22,Alternative Modes,Alternative Mode,Different MBTA Service,0.288593541,721
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Race and Ethnicity,Title VI Minority,Yes,0.711305649,9317
+Reporting Group,Bus,4 & 7,Access Mode,Access to First MBTA Service,Walked,0.958428241,1238
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Fares,Fare Product,Monthly Pass,0.377235887,8396
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Other Demographics,Age,65 or older,0.034556964,12786
+Reporting Group,Bus,47,Vehicles,Usable Cars,3 or more,0.041249988,1237
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Race and Ethnicity,Hispanic or Latino/Latina,No,0.66226804,3435
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Fares,Fare Product,Semester Pass,0.036116751,8202
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Other Demographics,Gender,Woman,0.576182216,9000
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.338911395,11610
+Reporting Group,Commuter Rail,Lowell Line,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.267582418,4606
+Reporting Group,Bus,34 & 34E,Fares,Fare Product,Student Pass (M7),0.068554015,812
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Race and Ethnicity,Race,Other,0.073512518,6621
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Other Demographics,Ability to Understand English,Sometimes,0.059876975,3563
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Other Demographics,Age,26 to 34,0.330271141,12030
+Reporting Group,Bus,73,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.039249442,1946
+Reporting Group,Bus,86,Fares,Reduced Fares,Student (S-Card or M7),0.014953076,2120
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Alternative Modes,Used Alternative Mode,Yes,0.113386331,11617
+Reporting Group,Bus,16,Fares,Reduced Fares,Senior CharlieCard,0.012082211,488
+Reporting Group,Bus,61 & 70,Vehicles,Usable Cars,1,0.366116242,1796
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Race and Ethnicity,Race,Other,0.091065544,11709
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Income,Household Income,Less than 30% of Area Median Income,0.126719787,11944
+Reporting Group,Bus,Malden/Everett - North,Vehicles,Usable Cars,0,0.369790072,2967
+Reporting Group,Bus,10,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.088819431,361
+Reporting Group,Bus,73,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.087084929,2311
+Reporting Group,Bus,"114, 116, & 117",Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.221788422,587
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Other Demographics,Gender,Man,0.408306067,10312
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Fares,Fare Product,Other,0.003853037,6443
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Vehicles,Usable Cars,0,0.436365088,9402
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Other Demographics,Age,Under 18,0.022613937,9583
+Reporting Group,Bus,10,Income,Household Income,80% to 100% of Area Median Income,0.147786506,169
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.072686849,8489
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.033551831,8929
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.233775269,9188
+Reporting Group,Bus,43 & SL5,Other Demographics,Ability to Understand English,Prefer not to say,0.003547735,1262
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Race and Ethnicity,Title VI Minority,No,0.485804558,9535
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Race and Ethnicity,Hispanic or Latino/Latina,No,0.707674316,9005
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Fares,Fare Product,Other,0.003571246,2693
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.268956453,11182
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Fares,Reduced Fares,Senior CharlieCard,0.062666682,4990
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Trip Purpose and Frequency,Frequency,Less than once per month,0.12528546,11747
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Park Street,Income,Title VI Low-Income,Yes,0.746443363,7848
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Vehicles,Usable Cars,0,0.3789383,8501
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Race and Ethnicity,Hispanic or Latino/Latina,No,0.825077456,6031
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Other Demographics,Gender,Woman,0.613665582,6756
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Other Demographics,Age,65 or older,0.026448114,9296
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Income,Household Income,60% to 80% of Area Median Income,0.13989572,7252
+Service Mode,Bus,All Bus,Income,Household Income,140% to 200% of Area Median Income,0.015966886,12954
+Reporting Group,Bus,104,Other Demographics,Ability to Understand English,Sometimes,0.133457382,9
+Reporting Group,Bus,57,Fares,Fare Product,Other,0.010220273,1347
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Income,Household Income,60% to 80% of Area Median Income,0.250251561,2478
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Other Demographics,Age,45 to 64,0.094410135,3423
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Income,Title VI Low-Income,Yes,0.621592228,10991
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Fares,Reduced Fares,Senior CharlieCard,0.010994459,9046
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Income,Household Income,Prefer not to say,0.150824333,12573
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Vehicles,Usable Cars,0,0.450234635,10915
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Other Demographics,Gender,Prefer not to say,0.00109665,10613
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Bowdoin,Vehicles,Usable Cars,3 or more,0.019727854,4829
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Alternative Modes,Alternative Mode,Other,0.0,3493
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Other Demographics,Ability to Understand English,Sometimes,0.047107104,2488
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.0,12251
+Reporting Group,Bus,4 & 7,Other Demographics,Age,45 to 64,0.105442062,1483
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Trip Purpose and Frequency,Frequency,5 days per week,0.358889748,7624
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Income,Household Income,30% to 60% of Area Median Income,0.220441255,7664
+Reporting Group,Bus,Quincy - West,Race and Ethnicity,Race,White,0.409794596,3313
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Other Demographics,Ability to Understand English,Never,0.005056164,8458
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Income,Title VI Low-Income,No,0.291744482,4715
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Fares,Reduced Fares,Senior CharlieCard,0.010703708,12910
+Reporting Group,Bus,21,Fares,Reduced Fares,Senior CharlieCard,0.009396628,458
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Income,Household Income,200% or more of Area Median Income,0.029296637,9723
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.078539865,6625
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Fares,Reduced Fares,Transportation Access Pass (TAP),0.016462143,9911
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Vehicles,Usable Cars,3 or more,0.053473884,6419
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Other Demographics,Age,26 to 34,0.369634456,10792
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,North Quincy,Fares,Fare Product,7-day Pass,0.134253261,11440
+Reporting Group,Bus,22,Race and Ethnicity,Hispanic or Latino/Latina,No,0.78770345,869
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Trip Purpose and Frequency,Frequency,Less than once per month,0.105780562,5688
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.232617078,7636
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Vehicles,Cars per Capita,0,0.509653296,8062
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Race and Ethnicity,Race,White,0.604600124,8279
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Other Demographics,Ability to Understand English,Always,0.934528946,2486
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.124695065,2471
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Income,Household Income,30% to 60% of Area Median Income,0.23671276,11946
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.120708303,11011
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,6955
+Reporting Group,Bus,Quincy - West,Income,Household Income,140% to 200% of Area Median Income,0.006607051,3129
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Income,Household Income,60% to 80% of Area Median Income,0.179683087,5271
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Other Demographics,Gender,Non-Binary,0.010465155,12266
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.06430051,6500
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Income,Household Income,200% or more of Area Median Income,0.01754593,11219
+Reporting Group,Bus,32,Fares,Reduced Fares,Blind Access CharlieCard,0.002310027,1086
+Reporting Group,Bus,10,Other Demographics,Age,35 to 44,0.177924576,182
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.170695929,10158
+Reporting Group,Ferry,Ferry,Alternative Modes,Alternative Mode,Drive Alone,0.405305579,4783
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.25138894,9206
+Reporting Group,Bus,67 & 77,Vehicles,Cars per Capita,0,0.351611562,1955
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Fares,Fare Product,Semester Pass,0.066571064,7045
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Other Demographics,Age,Under 18,0.020886579,2037
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.011294165,2665
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Vehicles,Cars per Capita,0,0.619147168,8332
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.218663093,10221
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Race and Ethnicity,Title VI Minority,No,0.420919438,13030
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.002191827,10241
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.029451164,10759
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Other Demographics,Age,35 to 44,0.127269188,7489
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - North Shore,Fares,Fare Product,Monthly Pass,0.371381756,2770
+Reporting Group,Commuter Rail,Fairmount Line,Other Demographics,Age,Under 18,0.050187553,3998
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Alternative Modes,Used Alternative Mode,No,0.807511754,4485
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Other Demographics,Gender,Non-Binary,0.027135065,4640
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Fares,Reduced Fares,Transportation Access Pass (TAP),0.02278985,10412
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.064591262,3593
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Fares,Fare Product,Pay-as-you-go,0.330789987,8680
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.219174728,11065
+Reporting Group,Bus,67 & 77,Vehicles,Cars per Capita,1 or more,0.072413074,1958
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Fares,Fare Product,7-day Pass,0.14838378,12669
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.015328421,6065
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Income,Title VI Low-Income,Yes,0.670433253,8817
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.011054109,11573
+Reporting Group,Bus,Quincy - West,Fares,Reduced Fares,Youth Pass,0.02423537,3091
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Vehicles,Usable Cars,2,0.171379552,6826
+Reporting Group,Bus,86,Income,Household Income,30% to 60% of Area Median Income,0.373577063,2129
+Reporting Group,Bus,"8, 55 & CT3",Fares,Fare Product,7-day Pass,0.199326691,2349
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Other Demographics,Gender,Man,0.47557797,8830
+Reporting Group,Bus,28 & 29,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.079834781,1143
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Trip Purpose and Frequency,Frequency,5 days per week,0.319630736,12098
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Fares,Reduced Fares,Youth Pass,0.010549296,5265
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Income,Title VI Low-Income,No,0.179369715,9800
+Reporting Group,Bus,32,Income,Household Income,Less than 30% of Area Median Income,0.210828322,1087
+Reporting Group,Bus,67 & 77,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.032299448,1951
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.031502558,5413
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Fares,Reduced Fares,Senior CharlieCard,0.014284267,10032
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Fares,Fare Product,1-day Pass,0.018408421,6699
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.006283059,6715
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.010797485,4902
+Reporting Group,Bus,SL4,Vehicles,Cars per Capita,0,0.494933849,3223
+Reporting Group,Commuter Rail,Haverhill Line,Race and Ethnicity,Race,American Indian or Alaska Native,0.038898123,4383
+Reporting Group,Bus,43 & SL5,Fares,Fare Product,Other,0.003522992,1587
+Reporting Group,Commuter Rail,Fitchburg Line,Other Demographics,Gender,Non-Binary,0.045107613,3932
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Other Demographics,Gender,Prefer not to say,0.002049169,5823
+Reporting Group,Bus,Brighton/Allston/Watertown - Other Suburb,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.054235086,2656
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Race and Ethnicity,Race,Asian,0.02692139,12705
+Reporting Group,Bus,21,Trip Purpose and Frequency,Frequency,5 days per week,0.501578467,539
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.218667446,5982
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.080207851,7018
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.151100591,9396
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.078906225,7049
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.038311414,11111
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Income,Household Income,200% or more of Area Median Income,0.028324281,11678
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Vehicles,Usable Cars,0,0.365125118,8658
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Alternative Modes,Alternative Mode,Walk,0.24229086,8775
+Systemwide,All Modes,Systemwide,Other Demographics,Ability to Understand English,Often,0.047783357,13211
+Reporting Group,Bus,16,Other Demographics,Age,65 or older,0.008562315,534
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Other Demographics,Gender,Woman,0.62245035,3647
+Reporting Group,Bus,1,Other Demographics,Age,35 to 44,0.207565332,249
+Reporting Group,Bus,86,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.044889227,2304
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Income,Title VI Low-Income,Yes,0.738636256,6464
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Trip Purpose and Frequency,Frequency,5 days per week,0.382272547,7090
+Reporting Group,Bus,10,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.188986801,354
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Vehicles,Usable Cars,1,0.355040087,10693
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Race and Ethnicity,Race,Asian,0.069489261,4880
+Reporting Group,Commuter Rail,Framingham/Worcester Line,Trip Purpose and Frequency,Frequency,5 days per week,0.289168998,3839
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Other Demographics,Ability to Understand English,Always,0.944878648,7473
+Service Mode,Ferry,All Ferry,Other Demographics,Age,26 to 34,0.216788674,12912
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Vehicles,Usable Cars,0,0.28865435,6667
+Reporting Group,Bus,73,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.038730054,2324
+Reporting Group,Bus,111,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.175318625,411
+Reporting Group,Commuter Rail,Haverhill Line,Fares,Fare Product,7-day Pass,0.043692728,4166
+Reporting Group,Bus,66,Race and Ethnicity,Title VI Minority,Yes,0.683689903,1698
+Reporting Group,Bus,1,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.24005842,71
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.088786905,7132
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Fares,Fare Product,7-day Pass,0.197105325,9607
+Reporting Group,Commuter Rail,Greenbush Line,Race and Ethnicity,Race,Asian,0.140598271,4185
+Reporting Group,Bus,61 & 70,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.277282199,1792
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Alternative Modes,Used Alternative Mode,Yes,0.090265815,7739
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Race and Ethnicity,Race,White,0.569468733,10898
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Race and Ethnicity,Title VI Minority,No,0.426211265,10608
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Fares,Fare Product,1-day Pass,0.006923579,2453
+Reporting Group,Bus,34 & 34E,Race and Ethnicity,Title VI Minority,Yes,0.725580642,1158
+Reporting Group,Commuter Rail,Framingham/Worcester Line,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.086040221,3692
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Other Demographics,Ability to Understand English,Prefer not to say,0.001784495,9290
+Reporting Group,Commuter Rail,Needham Line,Access Mode,Access to First MBTA Service,The RIDE,0.005093946,4437
+Reporting Group,Commuter Rail,Needham Line,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.017076092,4694
+Reporting Group,Bus,39,Income,Household Income,200% or more of Area Median Income,0.01315086,1373
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Alternative Modes,Alternative Mode,Different MBTA Service,0.260895742,8861
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Other Demographics,Age,35 to 44,0.215782497,8132
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.109143624,10638
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Other Demographics,Ability to Understand English,Always,0.929006317,11318
+Reporting Group,Bus,67 & 77,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.081561108,1954
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.019921084,6836
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Fares,Reduced Fares,Full Fare,0.627895458,10461
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Other Demographics,Age,65 or older,0.028806665,11287
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Trip Purpose and Frequency,Frequency,5 days per week,0.241451007,4756
+Reporting Group,Bus,22,Other Demographics,Age,35 to 44,0.225650222,863
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Other Demographics,Age,Under 18,0.01497644,11282
+Reporting Group,Bus,SL4,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.329202258,3354
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Race and Ethnicity,Race,American Indian or Alaska Native,0.004185307,8422
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.057412378,5693
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Income,Household Income,Less than 30% of Area Median Income,0.119625842,13125
+Reporting Group,Bus,104,Fares,Fare Product,Monthly Pass,0.321228964,386
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Other Demographics,Age,35 to 44,0.235352874,2040
+Service Mode,Bus,All Bus,Race and Ethnicity,Title VI Minority,Yes,0.698094402,12986
+Reporting Group,Commuter Rail,Lowell Line,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.256036756,4234
+Reporting Group,Bus,86,Fares,Reduced Fares,Full Fare,0.76241781,2118
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,2443
+Reporting Group,Bus,21,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.088034427,543
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.079244908,10363
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.091847173,13330
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Other Demographics,Age,65 or older,0.025136107,5805
+Reporting Group,Bus,61 & 70,Other Demographics,Age,45 to 64,0.133415382,1660
+Reporting Group,Bus,15,Other Demographics,Ability to Understand English,Often,0.081701031,796
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Income,Household Income,30% to 60% of Area Median Income,0.175856869,4044
+Reporting Group,Ferry,Ferry,Income,Title VI Low-Income,No,0.640096161,5129
+Reporting Group,Bus,104,Income,Household Income,30% to 60% of Area Median Income,0.422434801,400
+Reporting Group,Bus,SL4,Other Demographics,Ability to Understand English,Often,0.025367319,3387
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Income,Household Income,100% to 140% of Area Median Income,0.077007953,10960
+Reporting Group,Bus,10,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,100
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Alternative Modes,Used Alternative Mode,No,0.867825427,6840
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.060920329,7776
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Fares,Fare Product,Pay-as-you-go,0.286255904,10401
+Reporting Group,Commuter Rail,Framingham/Worcester Line,Other Demographics,Gender,Man,0.47341647,3822
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Fares,Reduced Fares,Full Fare,0.849384293,12907
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Other Demographics,Gender,Non-Binary,0.029715012,8831
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.135591222,6837
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Fares,Fare Product,1-day Pass,0.030752621,11918
+Reporting Group,Bus,39,Income,Household Income,Prefer not to say,0.106356991,1374
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Race and Ethnicity,Race,Middle Eastern or North African,0.028024632,8920
+Reporting Group,Bus,73,Vehicles,Usable Cars,0,0.37066224,2326
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Fares,Fare Product,Pay-as-you-go,0.258139181,2448
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.158384639,6818
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Fares,Fare Product,Other,0.007303218,8558
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,North Quincy,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.103962326,11392
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Fares,Fare Product,7-day Pass,0.181371219,7793
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Race and Ethnicity,Race,Prefer not to say,0.028148641,2535
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Fares,Fare Product,1-day Pass,0.016830983,2827
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.01427408,9750
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Income,Household Income,80% to 100% of Area Median Income,0.116995082,7073
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Other Demographics,Gender,Man,0.372766656,2993
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Fares,Reduced Fares,Transportation Access Pass (TAP),0.020379599,11266
+Reporting Group,Commuter Rail,Lowell Line,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.055313286,4206
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.144349192,10087
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.012533132,7195
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.229732666,11348
+Reporting Group,Commuter Rail,Kingston Line,Race and Ethnicity,Race,Prefer not to say,0.0,4360
+Reporting Group,Commuter Rail,Needham Line,Income,Household Income,200% or more of Area Median Income,0.038174856,4641
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Fares,Reduced Fares,Blind Access CharlieCard,0.001304402,2021
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.299234396,8487
+Reporting Group,Bus,1,Fares,Fare Product,Pay-as-you-go,0.311926555,219
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.473372573,4677
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Race and Ethnicity,Title VI Minority,No,0.381793645,12405
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.017831579,6877
+Systemwide,All Modes,Systemwide,Fares,Fare Product,Pay-as-you-go,0.341956889,13360
+Reporting Group,Bus,Malden/Everett - South,Vehicles,Cars per Capita,0,0.40150053,3001
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Race and Ethnicity,Race,American Indian or Alaska Native,0.028366541,4402
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.040975652,4412
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.027716415,4925
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Andrew,Fares,Reduced Fares,Youth Pass,0.001377104,10131
+Reporting Group,Bus,66,Fares,Fare Product,7-day Pass,0.314972301,1612
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Fares,Fare Product,Monthly Pass,0.381345597,8571
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Other Demographics,Age,26 to 34,0.346402187,13300
+Reporting Group,Bus,67 & 77,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.005933015,1741
+Reporting Group,Commuter Rail,Needham Line,Income,Household Income,100% to 140% of Area Median Income,0.097530557,4631
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Other Demographics,Age,18 to 25,0.211543563,5533
+Service Mode,Bus,All Bus,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.549139999,12803
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.104225105,2460
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Race and Ethnicity,Title VI Minority,No,0.514237078,2358
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Fares,Reduced Fares,Student (S-Card or M7),0.096140254,11668
+Reporting Group,Bus,23,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.012114249,903
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.042896925,12381
+Reporting Group,Bus,16,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.10254283,609
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Other Demographics,Age,Under 18,0.017837011,5532
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Other Demographics,Age,45 to 64,0.1182139,3575
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Other Demographics,Ability to Understand English,Never,0.003698424,12354
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Income,Household Income,Prefer not to say,0.118243091,7568
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Alternative Modes,Used Alternative Mode,Yes,0.097571105,6880
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Fares,Fare Product,Semester Pass,0.015985135,8016
+Reporting Group,Bus,Quincy - West,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.124589388,3326
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.066195478,5392
+Reporting Group,Bus,Quincy - East,Alternative Modes,Used Alternative Mode,No,0.865762479,3112
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.540107958,11166
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Race and Ethnicity,Race,Middle Eastern or North African,0.049790094,8614
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Alternative Modes,Used Alternative Mode,No,0.907727338,2445
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Other Demographics,Gender,Woman,0.552223552,9444
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.484888638,10727
+Reporting Group,Bus,Malden/Everett - North,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.082591737,3078
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.230475217,8970
+Service Mode,Ferry,All Ferry,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.064356721,12869
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Fares,Fare Product,7-day Pass,0.10060428,10456
+Reporting Group,Bus,Quincy - West,Alternative Modes,Used Alternative Mode,No,0.907226741,2925
+Reporting Group,Commuter Rail,Fairmount Line,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.141206261,3878
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.226701144,4421
+Reporting Group,Bus,21,Fares,Reduced Fares,Student (S-Card or M7),0.098647264,456
+Reporting Group,Bus,47,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.017205207,1227
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Race and Ethnicity,Race,Middle Eastern or North African,0.03817233,7757
+Reporting Group,Bus,57,Access Mode,Access to First MBTA Service,Walked,0.940260854,1324
+Reporting Group,Bus,21,Race and Ethnicity,Race,Asian,0.035454304,519
+Reporting Group,Commuter Rail,Lowell Line,Vehicles,Cars per Capita,0,0.171842377,4605
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.331316925,12753
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.040530844,3155
+Reporting Group,Bus,11,Race and Ethnicity,Title VI Minority,No,0.522858531,114
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Other Demographics,Age,65 or older,0.030810051,11779
+Reporting Group,Bus,Malden/Everett - South,Income,Title VI Low-Income,No,0.143563915,3028
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.110544074,6819
+Reporting Group,Bus,71,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.054363725,1845
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Fares,Reduced Fares,Student (S-Card or M7),0.030458386,10157
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Fares,Fare Product,Monthly Pass,0.414579754,2821
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Income,Household Income,80% to 100% of Area Median Income,0.139650077,4510
+Reporting Group,Bus,104,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.108552478,36
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Vehicles,Cars per Capita,0,0.405001586,7181
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.553240059,12103
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Income,Household Income,Prefer not to say,0.107856795,12471
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Alternative Modes,Used Alternative Mode,Yes,0.094335732,5829
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.006924022,6425
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Other Demographics,Ability to Understand English,Always,0.916700945,10047
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Vehicles,Cars per Capita,1 or more,0.142738801,9595
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Other Demographics,Age,18 to 25,0.31290832,10429
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Access Mode,Access to First MBTA Service,Walked,0.954136128,5613
+Reporting Group,Commuter Rail,Lowell Line,Fares,Fare Product,Student Pass (M7),0.006916369,4302
+Reporting Group,Bus,71,Other Demographics,Gender,Woman,0.491787747,1706
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Vehicles,Cars per Capita,1 or more,0.118993757,11893
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Vehicles,Usable Cars,0,0.436203954,8531
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Vehicles,Usable Cars,1,0.257527224,6825
+Reporting Group,Bus,43 & SL5,Income,Household Income,140% to 200% of Area Median Income,0.016115195,1600
+Reporting Group,Bus,104,Vehicles,Usable Cars,1,0.415886067,48
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.044334273,9183
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.180935167,12750
+Reporting Group,Bus,SL4,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.094554322,3222
+Reporting Group,Commuter Rail,Needham Line,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.011411333,4443
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Fares,Reduced Fares,Senior CharlieCard,0.013337816,7891
+Reporting Group,Bus,61 & 70,Race and Ethnicity,Hispanic or Latino/Latina,No,0.722672055,1666
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.066337694,7114
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Fares,Reduced Fares,Youth Pass,0.008255687,5246
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.152184262,6930
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Alternative Modes,Alternative Mode,Different MBTA Service,0.192628481,5741
+Reporting Group,Commuter Rail,Fairmount Line,Other Demographics,Gender,Man,0.479557216,3704
+Reporting Group,Bus,71,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.115522526,1985
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Fares,Fare Product,Pay-as-you-go,0.386951536,9231
+Reporting Group,Commuter Rail,Fairmount Line,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.062127707,3890
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Other Demographics,Age,18 to 25,0.34014452,4732
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Race and Ethnicity,Race,Prefer not to say,0.010006683,12020
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Race and Ethnicity,Title VI Minority,Yes,0.590234218,9759
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Income,Household Income,Prefer not to say,0.124648624,10827
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL3,Other Demographics,Age,35 to 44,0.216153018,12058
+Reporting Group,Commuter Rail,Fairmount Line,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.107879623,3707
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Fares,Fare Product,Pay-as-you-go,0.313931246,6226
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Other Demographics,Gender,Non-Binary,0.019054665,8911
+Reporting Group,Commuter Rail,Kingston Line,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.076482631,4394
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Fields Corner,Race and Ethnicity,Race,Asian,0.12627645,11053
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Race and Ethnicity,Race,Asian,0.157424459,11257
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Other Demographics,Gender,Prefer not to say,0.006804014,10505
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Other Demographics,Ability to Understand English,Sometimes,0.027329415,2035
+Reporting Group,Commuter Rail,Lowell Line,Fares,Fare Product,Monthly Pass,0.204077272,4296
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.106073195,13332
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Fares,Fare Product,Monthly Pass,0.332371603,6078
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Other Demographics,Ability to Understand English,Often,0.047554555,10899
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Race and Ethnicity,Race,White,0.531512057,6803
+Reporting Group,Bus,16,Vehicles,Usable Cars,1,0.36583866,625
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.103922412,7140
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Access Mode,Access to First MBTA Service,The RIDE,0.008787089,11077
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Vehicles,Usable Cars,3 or more,0.035432877,11052
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.018459829,3234
+Reporting Group,Bus,39,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.014513905,1394
+Reporting Group,Bus,4 & 7,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.719624097,1311
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Alternative Modes,Alternative Mode,Other,0.004000588,12613
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Race and Ethnicity,Title VI Minority,No,0.337686559,8748
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Race and Ethnicity,Race,Prefer not to say,0.027181569,3252
+Reporting Group,Commuter Rail,Fairmount Line,Alternative Modes,Alternative Mode,Other,0.0,3895
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Vehicles,Cars per Capita,1 or more,0.136525656,7956
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Vehicles,Usable Cars,0,0.430662006,4920
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Other Demographics,Ability to Understand English,Always,0.68383277,2617
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.130680234,6670
+Reporting Group,Bus,4 & 7,Fares,Fare Product,Monthly Pass,0.478957152,1454
+Reporting Group,Bus,SL4,Race and Ethnicity,Race,White,0.414557347,3207
+Reporting Group,Commuter Rail,Fitchburg Line,Alternative Modes,Alternative Mode,Walk,0.02722133,3956
+Reporting Group,Bus,86,Other Demographics,Age,65 or older,0.029231406,2146
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.504140462,11802
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Race and Ethnicity,Race,White,0.385130948,8963
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Fares,Fare Product,Semester Pass,0.004264619,9910
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Vehicles,Cars per Capita,1 or more,0.052605193,5859
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Race and Ethnicity,Race,Prefer not to say,0.022431493,6177
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Vehicles,Usable Cars,0,0.374618307,2555
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.016342715,5655
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Vehicles,Usable Cars,0,0.444378862,12423
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Race and Ethnicity,Race,Other,0.084846791,4885
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Other Demographics,Ability to Understand English,Often,0.064900574,8456
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Alternative Modes,Used Alternative Mode,No,0.917391435,5749
+Reporting Group,Commuter Rail,Fitchburg Line,Income,Household Income,30% to 60% of Area Median Income,0.238272966,3694
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Other Demographics,Ability to Understand English,Often,0.063003434,5776
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Race and Ethnicity,Title VI Minority,No,0.381366801,11829
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Race and Ethnicity,Race,Middle Eastern or North African,0.038380628,4405
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.057980481,12924
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Income,Household Income,Prefer not to say,0.102221314,4975
+Service Mode,Commuter Rail,All Commuter Rail,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.03107317,13097
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.0,3032
+Reporting Group,Bus,104,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.277042051,380
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Trip Purpose and Frequency,Frequency,Less than once per month,0.185344859,12102
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.009577734,10197
+Service Mode,Commuter Rail,All Commuter Rail,Access Mode,Access to First MBTA Service,Drove Alone,0.084690651,12819
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Fares,Fare Product,7-day Pass,0.17686213,6573
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Amory Street to Packard's Corner,Fares,Fare Product,Pay-as-you-go,0.299888866,5959
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.16260326,11360
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Other Demographics,Gender,Woman,0.564986555,12236
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.080296817,10639
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Other Demographics,Age,45 to 64,0.082492561,8133
+Reporting Group,Bus,22,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.088264404,885
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Other Demographics,Gender,Prefer not to say,0.010484988,5900
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Race and Ethnicity,Title VI Minority,Yes,0.429573191,6330
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Fares,Fare Product,Semester Pass,0.021350622,4851
+Reporting Group,Bus,34 & 34E,Other Demographics,Ability to Understand English,Sometimes,0.033022669,834
+Service Mode,Commuter Rail,All Commuter Rail,Fares,Fare Product,Pay-as-you-go,0.59294527,12835
+Reporting Group,Bus,SL4,Race and Ethnicity,Title VI Minority,No,0.3398349,3211
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Other Demographics,Gender,Woman,0.584065365,7607
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.04417998,7218
+Reporting Group,Bus,11,Other Demographics,Ability to Understand English,Sometimes,0.034713488,291
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Other Demographics,Ability to Understand English,Sometimes,0.033277293,12476
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Other Demographics,Ability to Understand English,Sometimes,0.021986409,10995
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Income,Household Income,200% or more of Area Median Income,0.001314975,8122
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Access Mode,Access to First MBTA Service,Walked,0.727508497,5734
+Reporting Group,Bus,71,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.291657411,1936
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Income,Household Income,140% to 200% of Area Median Income,0.065550181,10572
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Income,Title VI Low-Income,Yes,0.570473996,8778
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Race and Ethnicity,Race,Other,0.020191647,7214
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Race and Ethnicity,Race,Prefer not to say,0.021850709,3795
+Reporting Group,Bus,47,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.083787925,1226
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Other Demographics,Ability to Understand English,Prefer not to say,0.004524441,11322
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Vehicles,Cars per Capita,0,0.433949416,11843
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Other Demographics,Gender,Man,0.355611395,3648
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Race and Ethnicity,Race,Asian,0.166400209,11302
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.044388714,8992
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.055606758,9524
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Orange Line,All Orange Line,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.015399013,12574
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Vehicles,Usable Cars,0,0.390867629,6680
+Systemwide,All Modes,Systemwide,Income,Household Income,140% to 200% of Area Median Income,0.031175517,13205
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Race and Ethnicity,Title VI Minority,Yes,0.667865617,5961
+Reporting Group,Bus,1,Other Demographics,Age,26 to 34,0.317334053,248
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Vehicles,Cars per Capita,1 or more,0.054909218,8291
+Reporting Group,Bus,67 & 77,Trip Purpose and Frequency,Frequency,5 days per week,0.339828169,1748
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Vehicles,Usable Cars,0,0.370256893,8761
+Reporting Group,Bus,32,Other Demographics,Gender,Woman,0.529612408,1003
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Vehicles,Usable Cars,0,0.422184394,11847
+Reporting Group,Bus,16,Income,Title VI Low-Income,Yes,0.862756949,512
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.016650694,12430
+Reporting Group,Bus,47,Race and Ethnicity,Title VI Minority,No,0.370133892,1218
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Fares,Reduced Fares,Other Reduced or Free Fare,0.00542081,10413
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.006744811,5835
+Reporting Group,Bus,22,Income,Household Income,140% to 200% of Area Median Income,0.005863674,750
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Race and Ethnicity,Race,Other,0.055942094,9465
+Reporting Group,Bus,23,Vehicles,Usable Cars,1,0.375173277,928
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.018143453,2454
+Reporting Group,Commuter Rail,Haverhill Line,Other Demographics,Age,65 or older,0.044289966,4352
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Other Demographics,Age,45 to 64,0.090887995,10592
+Reporting Group,Bus,111,Access Mode,Access to First MBTA Service,Drove Alone,0.001476106,136
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Trip Purpose and Frequency,Frequency,5 days per week,0.398438926,10079
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.062249637,10227
+Reporting Group,Commuter Rail,Needham Line,Fares,Fare Product,Pay-as-you-go,0.594961058,4449
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Trip Purpose and Frequency,Frequency,5 days per week,0.297761236,7765
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Race and Ethnicity,Title VI Minority,Yes,0.552146415,2408
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Vehicles,Usable Cars,3 or more,0.018196711,6493
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Access Mode,Access to First MBTA Service,Drove Alone,0.010107791,10305
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Gilman Square and East Somerville,Race and Ethnicity,Title VI Minority,Yes,0.477823318,6785
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Income,Title VI Low-Income,No,0.18868963,2747
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Trip Purpose and Frequency,Frequency,5 days per week,0.390636051,11831
+Reporting Group,Bus,Malden/Everett - South,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.083072269,2860
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Alternative Modes,Alternative Mode,Other,0.0,11866
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Other Demographics,Ability to Understand English,Sometimes,0.05745891,10291
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Fares,Reduced Fares,Youth Pass,0.026162886,12319
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Orange Line,All Orange Line,Fares,Reduced Fares,Student (S-Card or M7),0.037877931,12643
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Race and Ethnicity,Title VI Minority,No,0.332134383,5964
+Reporting Group,Commuter Rail,Needham Line,Trip Purpose and Frequency,Frequency,5 days per week,0.339072121,4706
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Income,Household Income,80% to 100% of Area Median Income,0.11183792,8698
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.247672212,8172
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.086014795,10154
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.005450562,10708
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Other Demographics,Gender,Non-Binary,0.00990801,5295
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.159557895,9354
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Income,Household Income,60% to 80% of Area Median Income,0.213853526,6139
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.007408951,13195
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Fares,Reduced Fares,Youth Pass,0.011546055,2705
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Trip Purpose and Frequency,Frequency,5 days per week,0.435627146,12407
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Fares,Reduced Fares,Full Fare,0.747267613,3298
+Reporting Group,Bus,Malden/Everett - South,Fares,Fare Product,Semester Pass,0.002087959,2996
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Other Demographics,Age,Under 18,0.063024829,9968
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Alternative Modes,Used Alternative Mode,Yes,0.137853351,3290
+Reporting Group,Bus,28 & 29,Other Demographics,Gender,Woman,0.541575918,1122
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.155903595,6633
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Other Demographics,Gender,Non-Binary,0.019342227,7146
+Reporting Group,Bus,32,Other Demographics,Gender,Non-Binary,0.015554585,1007
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Race and Ethnicity,Race,American Indian or Alaska Native,0.02993503,10848
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Andrew,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.040476548,10101
+Reporting Group,Bus,66,Fares,Reduced Fares,Transportation Access Pass (TAP),0.029298487,1622
+Reporting Group,Bus,28 & 29,Access Mode,Access to First MBTA Service,Walked,0.907365639,931
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Vehicles,Usable Cars,0,0.41442171,6393
+Reporting Group,Bus,9,Alternative Modes,Alternative Mode,Different MBTA Service,0.379084474,2219
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Access Mode,Access to First MBTA Service,Walked,0.963338324,6344
+Reporting Group,Bus,32,Race and Ethnicity,Title VI Minority,No,0.168372216,1023
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Fares,Fare Product,7-day Pass,0.168931669,9484
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.019930404,10380
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Race and Ethnicity,Race,Prefer not to say,0.013879486,8369
+Reporting Group,Bus,21,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.056066849,705
+Service Mode,Bus,All Bus,Income,Household Income,100% to 140% of Area Median Income,0.039749211,12953
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Fares,Reduced Fares,Other Reduced or Free Fare,0.010255414,2022
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Fares,Reduced Fares,Student (S-Card or M7),0.008409908,6087
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Fares,Reduced Fares,Youth Pass,0.003192557,6292
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Race and Ethnicity,Race,Other,0.050233673,3659
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Income,Household Income,140% to 200% of Area Median Income,0.045346357,10543
+Reporting Group,Bus,23,Other Demographics,Age,45 to 64,0.173047213,994
+Reporting Group,Commuter Rail,Greenbush Line,Fares,Fare Product,7-day Pass,0.011038595,4232
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Vehicles,Usable Cars,3 or more,0.1434454,4430
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Access Mode,Access to First MBTA Service,Walked,0.935718436,6062
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Fares,Fare Product,Other,0.002245365,10390
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Income,Household Income,Prefer not to say,0.11239398,6302
+Reporting Group,Bus,10,Income,Title VI Low-Income,No,0.275222466,174
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Alternative Modes,Alternative Mode,Other,0.007737584,6533
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Alternative Modes,Alternative Mode,Other,0.007251495,13065
+Service Mode,Bus,All Bus,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.021539916,13000
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.006251296,6619
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.002758216,8719
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.005011308,4834
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Income,Household Income,200% or more of Area Median Income,0.042723067,8451
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Income,Household Income,Less than 30% of Area Median Income,0.108646057,11267
+Reporting Group,Bus,22,Income,Household Income,80% to 100% of Area Median Income,0.057893468,748
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Race and Ethnicity,Race,Middle Eastern or North African,0.039628405,12798
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Race and Ethnicity,Title VI Minority,No,0.412587834,7086
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.12799863,7407
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.113325482,12136
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.004836646,7647
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Alternative Modes,Used Alternative Mode,Yes,0.100472125,8625
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Medford/Tufts,Other Demographics,Age,18 to 25,0.47167735,7336
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Other Demographics,Age,65 or older,0.009139824,8043
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Fares,Reduced Fares,Other Reduced or Free Fare,0.007918929,3464
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Gilman Square and East Somerville,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.03453631,6685
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.063253924,4948
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Vehicles,Usable Cars,3 or more,0.070261779,7966
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Other Demographics,Gender,Woman,0.569345781,8243
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Fares,Fare Product,Semester Pass,0.015024898,5633
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.147564148,6388
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Fares,Reduced Fares,Youth Pass,0.003907128,2590
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Other Demographics,Ability to Understand English,Often,0.044984507,9965
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Vehicles,Usable Cars,2,0.196485083,2376
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Other Demographics,Gender,Man,0.399900007,2520
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.235381516,5515
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.024207535,9684
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Vehicles,Cars per Capita,0,0.211148348,4726
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Access Mode,Access to First MBTA Service,Walked,0.84107105,5573
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Fares,Reduced Fares,Full Fare,0.859752437,7048
+Reporting Group,Commuter Rail,Kingston Line,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.036120363,4366
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Vehicles,Cars per Capita,0,0.382043639,10646
+Reporting Group,Bus,32,Fares,Fare Product,1-day Pass,0.012507079,1079
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Amory Street to Packard's Corner,Other Demographics,Ability to Understand English,Never,0.011109055,5810
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Other Demographics,Ability to Understand English,Sometimes,0.03054765,9631
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.039473304,12097
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Fares,Reduced Fares,Youth Pass,0.00193534,8114
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Income,Household Income,100% to 140% of Area Median Income,0.10793486,7989
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.02673718,6866
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Alternative Modes,Used Alternative Mode,No,0.902428895,6879
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Income,Household Income,60% to 80% of Area Median Income,0.184684356,10953
+Reporting Group,Bus,11,Trip Purpose and Frequency,Frequency,Less than once per month,0.101610096,120
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Fares,Fare Product,Monthly Pass,0.512027657,11618
+Reporting Group,Commuter Rail,Haverhill Line,Income,Household Income,200% or more of Area Median Income,0.017582973,4339
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Fares,Fare Product,1-day Pass,0.009439921,11533
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.007972958,11785
+Reporting Group,Commuter Rail,Fairmount Line,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.192787998,3885
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Vehicles,Usable Cars,1,0.396548368,8448
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Race and Ethnicity,Race,Middle Eastern or North African,0.038944169,8362
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Fares,Fare Product,Pay-as-you-go,0.395836507,8631
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Income,Household Income,30% to 60% of Area Median Income,0.325450562,8695
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Fares,Fare Product,1-day Pass,0.022289992,6602
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.000762214,10599
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Other Demographics,Age,26 to 34,0.27979754,9808
+Reporting Group,Bus,15,Other Demographics,Gender,Other,0.005436706,658
+Reporting Group,Bus,Quincy - West,Race and Ethnicity,Title VI Minority,Yes,0.652124271,3316
+Service Mode,Bus,All Bus,Other Demographics,Ability to Understand English,Prefer not to say,0.002947075,12963
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.09447936,9308
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Other Demographics,Age,26 to 34,0.497549359,7678
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Alternative Modes,Alternative Mode,Different MBTA Service,0.447254208,6947
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Race and Ethnicity,Title VI Minority,No,0.40963453,2537
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.29263632,10462
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.04803896,3450
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Fares,Fare Product,Semester Pass,0.01434336,9234
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Other Demographics,Gender,Non-Binary,0.010317585,9002
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Trip Purpose and Frequency,Frequency,5 days per week,0.247709931,5910
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Alternative Modes,Used Alternative Mode,Yes,0.150017861,9428
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Vehicles,Cars per Capita,1 or more,0.066124592,9149
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.170720466,9670
+Reporting Group,Bus,10,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.049893092,358
+Reporting Group,Bus,66,Alternative Modes,Alternative Mode,Other,0.0,1607
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Fares,Fare Product,Student Pass (M7),0.023960432,12695
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Fares,Reduced Fares,Senior CharlieCard,0.016571091,11628
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Fares,Reduced Fares,Transportation Access Pass (TAP),0.032377566,3434
+Reporting Group,Bus,10,Alternative Modes,Alternative Mode,Other,0.0,151
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Other Demographics,Gender,Other,0.00075998,11237
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Income,Title VI Low-Income,No,0.257344519,10285
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Alternative Modes,Alternative Mode,Drive Alone,0.335401671,4521
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - North Shore,Income,Household Income,60% to 80% of Area Median Income,0.216522803,2799
+Reporting Group,Bus,61 & 70,Trip Purpose and Frequency,Frequency,5 days per week,0.454094174,1684
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Vehicles,Cars per Capita,0,0.329683264,12179
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Vehicles,Usable Cars,2,0.150663998,10652
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Income,Household Income,100% to 140% of Area Median Income,0.080230922,12338
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Park Street,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.101368317,7799
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Blue Line,All Blue Line,Race and Ethnicity,Race,American Indian or Alaska Native,0.04179892,12795
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Other Demographics,Age,35 to 44,0.172695833,9637
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Income,Household Income,60% to 80% of Area Median Income,0.205937273,6261
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Vehicles,Cars per Capita,0,0.420656353,9071
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Other Demographics,Ability to Understand English,Never,0.011781165,2849
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Access Mode,Access to First MBTA Service,Drove Alone,0.004507003,8537
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Vehicles,Usable Cars,2,0.127767933,8181
+Reporting Group,Bus,Malden/Everett - North,Race and Ethnicity,Race,Other,0.03538169,2928
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.041179401,12142
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.079606101,6714
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Other Demographics,Age,18 to 25,0.254280951,8411
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.167112042,4722
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Orange Line,All Orange Line,Fares,Fare Product,Other,0.008287976,12637
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Income,Household Income,60% to 80% of Area Median Income,0.208611093,8599
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Bowdoin,Fares,Fare Product,7-day Pass,0.326905126,5043
+Reporting Group,Bus,32,Race and Ethnicity,Race,American Indian or Alaska Native,0.023384294,1011
+Reporting Group,Bus,32,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.010044913,1062
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.159857578,9575
+Service Mode,Bus,All Bus,Fares,Fare Product,7-day Pass,0.236152915,13018
+Reporting Group,Bus,23,Income,Household Income,Prefer not to say,0.106381862,979
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Fares,Fare Product,Semester Pass,0.017173172,4721
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Income,Title VI Low-Income,Yes,0.646912034,9553
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Vehicles,Usable Cars,2,0.094852651,8303
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Race and Ethnicity,Race,Asian,0.106195413,3025
+Service Mode,Commuter Rail,All Commuter Rail,Income,Household Income,100% to 140% of Area Median Income,0.108838087,12898
+Reporting Group,Bus,Cambridge/Arlington - Alewife,Income,Household Income,80% to 100% of Area Median Income,0.103630561,2715
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Alternative Modes,Alternative Mode,Drive Alone,0.016113645,6897
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Vehicles,Usable Cars,2,0.212786757,6418
+Reporting Group,Bus,104,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.169326124,34
+Service Mode,Commuter Rail,All Commuter Rail,Other Demographics,Gender,Non-Binary,0.019291286,13082
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.085341314,11255
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Access Mode,Access to First MBTA Service,Drove Alone,0.003585095,3276
+Reporting Group,Bus,16,Fares,Fare Product,Pay-as-you-go,0.267561644,469
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Race and Ethnicity,Race,Asian,0.159556901,7800
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Income,Household Income,Prefer not to say,0.077687818,7111
+Reporting Group,Bus,57,Race and Ethnicity,Race,Middle Eastern or North African,0.021283111,1531
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Access Mode,Access to First MBTA Service,Drove Alone,0.014399629,5350
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.026753184,11869
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Race and Ethnicity,Race,Other,0.110215606,5479
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Other Demographics,Ability to Understand English,Often,0.062942276,12173
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Fares,Fare Product,1-day Pass,0.007066626,9464
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.076065281,9537
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Income,Household Income,Less than 30% of Area Median Income,0.078661621,4502
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.045227632,9707
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Other Demographics,Age,26 to 34,0.385230746,4985
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Fares,Fare Product,Other,0.004847679,10812
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Fares,Fare Product,7-day Pass,0.156747054,10261
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Alternative Modes,Used Alternative Mode,No,0.890269886,6661
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Race and Ethnicity,Title VI Minority,No,0.343274116,5512
+Reporting Group,Bus,61 & 70,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.010288865,1770
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Income,Household Income,200% or more of Area Median Income,0.013607744,6462
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.60813121,10152
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.022351914,9859
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.221195246,8833
+Service Mode,Commuter Rail,All Commuter Rail,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.14623299,13101
+Reporting Group,Bus,10,Other Demographics,Ability to Understand English,Never,0.006670983,178
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Income,Household Income,30% to 60% of Area Median Income,0.289284909,5000
+Reporting Group,Bus,71,Access Mode,Access to First MBTA Service,Drove Alone,0.005940775,1965
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Other Demographics,Age,Under 18,0.037052497,5332
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.081870037,3069
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Other Demographics,Age,Under 18,0.030096679,12230
+Reporting Group,Commuter Rail,Lowell Line,Other Demographics,Age,26 to 34,0.279456296,4520
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Income,Household Income,100% to 140% of Area Median Income,0.130752507,6299
+Reporting Group,Bus,Quincy - West,Fares,Reduced Fares,Other Reduced or Free Fare,0.001793141,3101
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.114900827,7226
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Alternative Modes,Used Alternative Mode,Yes,0.137849561,12622
+Reporting Group,Ferry,Ferry,Race and Ethnicity,Race,Middle Eastern or North African,0.009725585,5200
+Reporting Group,Bus,104,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.132643303,42
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.0,9845
+Reporting Group,Bus,57,Other Demographics,Ability to Understand English,Never,0.005481694,1513
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Gilman Square and East Somerville,Vehicles,Cars per Capita,1 or more,0.128507251,6456
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Other Demographics,Age,18 to 25,0.344568675,12231
+Reporting Group,Bus,4 & 7,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.013232753,1490
+Reporting Group,Bus,86,Income,Household Income,Less than 30% of Area Median Income,0.188361019,2128
+Reporting Group,Bus,1,Other Demographics,Age,65 or older,0.026148751,51
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Alternative Modes,Alternative Mode,Other,0.022262898,8676
+Reporting Group,Bus,39,Other Demographics,Age,26 to 34,0.33033684,1384
+Reporting Group,Bus,23,Vehicles,Cars per Capita,1 or more,0.012862957,926
+Reporting Group,Commuter Rail,Greenbush Line,Race and Ethnicity,Race,Middle Eastern or North African,0.014645659,4192
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Income,Household Income,140% to 200% of Area Median Income,0.05700866,4048
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.074809746,9202
+Reporting Group,Bus,Malden/Everett - North,Fares,Reduced Fares,Full Fare,0.821830502,3077
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Alternative Modes,Used Alternative Mode,No,0.884749324,12163
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Vehicles,Cars per Capita,Other,0.165988633,12994
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Fares,Reduced Fares,Transportation Access Pass (TAP),0.013254784,4994
+Reporting Group,Commuter Rail,Kingston Line,Fares,Fare Product,1-day Pass,0.035541992,4100
+Reporting Group,Commuter Rail,Fairmount Line,Income,Household Income,Less than 30% of Area Median Income,0.130381447,3985
+Reporting Group,Commuter Rail,Needham Line,Vehicles,Cars per Capita,1 or more,0.080483546,4465
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.053090313,12294
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Other Demographics,Ability to Understand English,Never,0.002029134,10996
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Race and Ethnicity,Race,Prefer not to say,0.058793856,8843
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.108782398,11803
+Reporting Group,Bus,4 & 7,Other Demographics,Age,65 or older,0.035973543,1484
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Fares,Reduced Fares,Transportation Access Pass (TAP),0.005442776,6293
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Income,Household Income,60% to 80% of Area Median Income,0.273497222,5007
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Other Demographics,Ability to Understand English,Always,0.968878968,11682
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Fares,Reduced Fares,Senior CharlieCard,0.016597219,9727
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Other Demographics,Age,45 to 64,0.118877671,8998
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Vehicles,Usable Cars,3 or more,0.031818884,12634
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Race and Ethnicity,Title VI Minority,Yes,0.629902624,8927
+Reporting Group,Bus,34 & 34E,Vehicles,Usable Cars,1,0.41612158,1176
+Reporting Group,Bus,71,Race and Ethnicity,Race,Asian,0.149088776,1769
+Reporting Group,Commuter Rail,Greenbush Line,Other Demographics,Gender,Man,0.406988452,4393
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Income,Household Income,200% or more of Area Median Income,0.053392429,8742
+Reporting Group,Bus,9,Fares,Reduced Fares,Senior CharlieCard,0.020196728,2239
+Reporting Group,Bus,39,Access Mode,Access to First MBTA Service,Walked,0.971334208,1179
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.215922138,3017
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.591601951,4901
+Reporting Group,Bus,Quincy - East,Race and Ethnicity,Race,White,0.542215293,2883
+Reporting Group,Bus,9,Fares,Fare Product,Semester Pass,0.002604271,2233
+Reporting Group,Bus,104,Fares,Reduced Fares,Youth Pass,0.017153301,397
+Reporting Group,Bus,10,Income,Household Income,60% to 80% of Area Median Income,0.193273896,168
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Alternative Modes,Alternative Mode,Other,0.0,11948
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.121862264,4915
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Income,Household Income,Less than 30% of Area Median Income,0.151649416,7094
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Trip Purpose and Frequency,Frequency,5 days per week,0.381506242,13032
+Service Mode,Ferry,All Ferry,Access Mode,Access to First MBTA Service,Drove Alone,0.103267869,12862
+Reporting Group,Commuter Rail,Fairmount Line,Income,Title VI Low-Income,Yes,0.729219577,3992
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Other Demographics,Age,65 or older,0.006938188,11233
+Reporting Group,Bus,"8, 55 & CT3",Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.161169677,2086
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Other Demographics,Ability to Understand English,Often,0.029892814,7996
+Reporting Group,Bus,Brighton/Allston/Watertown - Other Suburb,Race and Ethnicity,Race,American Indian or Alaska Native,0.069702641,2630
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.029496908,8073
+Reporting Group,Bus,66,Race and Ethnicity,Race,White,0.452379184,1685
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Access Mode,Access to First MBTA Service,Drove Alone,0.006469458,8342
+Reporting Group,Bus,"114, 116, & 117",Alternative Modes,Used Alternative Mode,No,0.872002869,435
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.202096175,7681
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Alternative Modes,Alternative Mode,Different MBTA Service,0.262849902,9162
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.0,6876
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.283117106,12141
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Medford/Tufts,Other Demographics,Age,45 to 64,0.051634583,7339
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Other Demographics,Age,18 to 25,0.336871017,8460
+Reporting Group,Bus,Malden/Everett - North,Fares,Reduced Fares,Senior CharlieCard,0.03614268,3080
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.129377963,7772
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.03952947,5220
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Income,Household Income,60% to 80% of Area Median Income,0.21335346,3523
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.076212776,7599
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Alternative Modes,Alternative Mode,Different MBTA Service,0.049515667,11925
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Other Demographics,Age,65 or older,0.024285566,12484
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.076814205,7172
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Other Demographics,Gender,Man,0.401822696,11505
+Reporting Group,Bus,11,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.021810031,252
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.301232192,11937
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Access Mode,Access to First MBTA Service,The RIDE,0.008007663,8541
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Harvard,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.073830316,10969
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Fares,Fare Product,Other,0.006431621,8204
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Other Demographics,Gender,Other,0.002785661,12671
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Race and Ethnicity,Race,Prefer not to say,0.041572503,11124
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Fares,Reduced Fares,Youth Pass,0.006893283,5640
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.17982243,4771
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.297133602,8758
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Other Demographics,Age,18 to 25,0.272074019,7602
+Reporting Group,Bus,23,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.01159646,901
+Reporting Group,Commuter Rail,Haverhill Line,Alternative Modes,Used Alternative Mode,Yes,0.155173448,4005
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Income,Title VI Low-Income,Yes,0.584371571,6267
+Reporting Group,Bus,111,Alternative Modes,Used Alternative Mode,Yes,0.121424482,150
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Race and Ethnicity,Title VI Minority,No,0.528773702,4644
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.067437312,8485
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Race and Ethnicity,Race,Asian,0.176547023,2401
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Other Demographics,Age,18 to 25,0.437238621,9807
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,North Station,Race and Ethnicity,Race,Prefer not to say,0.02774084,7832
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.404869697,6965
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Other Demographics,Age,26 to 34,0.298090165,2674
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Income,Household Income,60% to 80% of Area Median Income,0.145413302,8727
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.077605887,9980
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Race and Ethnicity,Race,Asian,0.347642485,6033
+Reporting Group,Bus,1,Access Mode,Access to First MBTA Service,Walked,0.941866137,201
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Other Demographics,Age,18 to 25,0.516798404,7485
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Back Bay,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.140749781,8776
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Vehicles,Usable Cars,2,0.117720022,5217
+Reporting Group,Bus,15,Alternative Modes,Alternative Mode,Walk,0.209021383,764
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Other Demographics,Gender,Prefer not to say,0.007660608,5398
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.060247711,11807
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.092254582,7368
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Fares,Reduced Fares,Blind Access CharlieCard,0.001818555,12254
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Alternative Modes,Alternative Mode,Walk,0.197819063,9416
+Reporting Group,Bus,Quincy - East,Other Demographics,Ability to Understand English,Never,0.01485635,2865
+Reporting Group,Bus,Malden/Everett - North,Vehicles,Usable Cars,2,0.12797172,2969
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.103892541,8526
+Reporting Group,Bus,9,Race and Ethnicity,Race,White,0.659969084,2070
+Reporting Group,Bus,47,Race and Ethnicity,Race,White,0.475118534,1214
+Service Mode,Ferry,All Ferry,Alternative Modes,Alternative Mode,Walk,0.0764098,12870
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Access Mode,Access to First MBTA Service,Walked,0.929791034,3479
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Income,Household Income,140% to 200% of Area Median Income,0.01794394,7934
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Income,Household Income,30% to 60% of Area Median Income,0.275004563,12465
+Reporting Group,Bus,9,Vehicles,Cars per Capita,1 or more,0.129602048,2268
+Reporting Group,Bus,9,Vehicles,Usable Cars,2,0.220234446,2271
+Systemwide,All Modes,Systemwide,Fares,Reduced Fares,Other Reduced or Free Fare,0.00354687,13373
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Fares,Reduced Fares,Full Fare,0.747697428,4036
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.019819916,10453
+Reporting Group,Bus,1,Vehicles,Usable Cars,0,0.476546688,84
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Fares,Reduced Fares,Senior CharlieCard,0.02531323,12672
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.279189164,3488
+Reporting Group,Commuter Rail,Haverhill Line,Income,Household Income,100% to 140% of Area Median Income,0.11992635,4337
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Other Demographics,Gender,Prefer not to say,0.003016663,12076
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.259700325,6187
+Reporting Group,Commuter Rail,Lowell Line,Fares,Reduced Fares,Senior CharlieCard,0.022381937,4316
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.118761112,12100
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Bowdoin,Income,Household Income,Less than 30% of Area Median Income,0.057790277,5051
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Alternative Modes,Alternative Mode,Different MBTA Service,0.421839293,8374
+Reporting Group,Bus,28 & 29,Alternative Modes,Alternative Mode,Different MBTA Service,0.319451602,938
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Trip Purpose and Frequency,Frequency,5 days per week,0.402824638,7600
+Reporting Group,Commuter Rail,Lowell Line,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.177134161,4603
+Reporting Group,Bus,"114, 116, & 117",Alternative Modes,Alternative Mode,Walk,0.169344694,430
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Race and Ethnicity,Race,Asian,0.181331171,6776
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.009772123,9376
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.069618007,9407
+Service Mode,Commuter Rail,All Commuter Rail,Alternative Modes,Alternative Mode,Different MBTA Service,0.287615587,12824
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Fares,Fare Product,1-day Pass,0.003532669,9894
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Vehicles,Usable Cars,2,0.133985456,8533
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.251445336,7204
+Reporting Group,Commuter Rail,Kingston Line,Alternative Modes,Alternative Mode,Other,0.0,4092
+Reporting Group,Bus,Quincy - East,Alternative Modes,Alternative Mode,Drive Alone,0.234900323,3083
+Reporting Group,Commuter Rail,Haverhill Line,Other Demographics,Age,26 to 34,0.299738406,4349
+Reporting Group,Bus,73,Alternative Modes,Alternative Mode,Drive Alone,0.267363501,1784
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Income,Household Income,80% to 100% of Area Median Income,0.098904615,5788
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Income,Household Income,30% to 60% of Area Median Income,0.303878698,5466
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Fares,Fare Product,Pay-as-you-go,0.300517526,10385
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.057624718,2367
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Fares,Fare Product,Pay-as-you-go,0.409141783,10773
+Reporting Group,Bus,32,Fares,Reduced Fares,Youth Pass,0.043758124,1084
+Reporting Group,Bus,11,Other Demographics,Age,26 to 34,0.376595104,294
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.188306949,4794
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Access Mode,Access to First MBTA Service,Drove Alone,0.009432218,5999
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Other Demographics,Ability to Understand English,Prefer not to say,0.008155714,8268
+Reporting Group,Bus,11,Race and Ethnicity,Hispanic or Latino/Latina,No,0.790696741,103
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Race and Ethnicity,Race,Middle Eastern or North African,0.037184845,8014
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Race and Ethnicity,Race,Middle Eastern or North African,0.023520181,6801
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Fares,Reduced Fares,Youth Pass,0.007274218,12172
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.116131473,7551
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.069452383,10366
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Income,Household Income,80% to 100% of Area Median Income,0.129299285,2479
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Access Mode,Access to First MBTA Service,The RIDE,0.003513891,4476
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.53623745,6194
+Reporting Group,Bus,15,Other Demographics,Age,65 or older,0.030388925,654
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Alternative Modes,Used Alternative Mode,No,0.907649865,9603
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.333302752,9521
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Other Demographics,Ability to Understand English,Prefer not to say,0.004546346,9736
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Other Demographics,Ability to Understand English,Always,0.899970121,3617
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Access Mode,Access to First MBTA Service,Walked,0.936996185,6828
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Massachusetts Avenue,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.02416202,9442
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Red Line,All Red Line,Other Demographics,Ability to Understand English,Prefer not to say,0.00282217,12775
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Income,Household Income,80% to 100% of Area Median Income,0.106210284,6693
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Alternative Modes,Alternative Mode,Walk,0.039022178,5744
+Reporting Group,Bus,23,Income,Household Income,200% or more of Area Median Income,0.004500915,978
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Income,Title VI Low-Income,Yes,0.838641634,8219
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.140307783,6352
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.00880145,7206
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Fares,Fare Product,Semester Pass,0.032382443,8652
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Income,Household Income,Less than 30% of Area Median Income,0.103772318,10468
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Fares,Fare Product,7-day Pass,0.129802212,10775
+Reporting Group,Bus,67 & 77,Race and Ethnicity,Title VI Minority,Yes,0.448003483,1745
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Income,Household Income,Prefer not to say,0.055177965,2030
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Race and Ethnicity,Hispanic or Latino/Latina,No,0.796972172,9884
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.149633698,6385
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Vehicles,Usable Cars,3 or more,0.046859912,11104
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.009567756,7101
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Fares,Reduced Fares,Transportation Access Pass (TAP),0.02500453,10034
+Reporting Group,Bus,11,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.006878105,104
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Fares,Reduced Fares,Youth Pass,0.010604579,6725
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.020942394,9681
+Reporting Group,Bus,Malden/Everett - South,Fares,Reduced Fares,Other Reduced or Free Fare,0.004704059,2949
+Reporting Group,Commuter Rail,Kingston Line,Other Demographics,Age,65 or older,0.012473874,4280
+Reporting Group,Bus,43 & SL5,Alternative Modes,Used Alternative Mode,Yes,0.0995887,1580
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Vehicles,Cars per Capita,0,0.355072543,9983
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Medford/Tufts,Other Demographics,Age,26 to 34,0.290253601,7337
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Vehicles,Cars per Capita,0,0.331803337,11758
+Reporting Group,Bus,66,Other Demographics,Ability to Understand English,Never,0.020045621,1635
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Race and Ethnicity,Race,Black or African American,0.138476657,5154
+Reporting Group,Bus,67 & 77,Race and Ethnicity,Race,Middle Eastern or North African,0.018130917,1740
+Reporting Group,Commuter Rail,Needham Line,Fares,Fare Product,Monthly Pass,0.230368301,4448
+Reporting Group,Bus,21,Fares,Fare Product,Student Pass (M7),0.104809033,648
+Reporting Group,Bus,11,Income,Household Income,200% or more of Area Median Income,0.042111718,285
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Fares,Reduced Fares,Student (S-Card or M7),0.030771423,4897
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Income,Household Income,80% to 100% of Area Median Income,0.135127891,6459
+Systemwide,All Modes,Systemwide,Vehicles,Usable Cars,0,0.404478671,13255
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Vehicles,Usable Cars,1,0.382125103,8762
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Vehicles,Usable Cars,0,0.497870082,5971
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Income,Household Income,80% to 100% of Area Median Income,0.135684958,6903
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Fares,Fare Product,1-day Pass,0.009159214,6886
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Access Mode,Access to First MBTA Service,Drove Alone,0.009273428,8072
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.085806352,9397
+Reporting Group,Commuter Rail,Framingham/Worcester Line,Vehicles,Cars per Capita,1 or more,0.103695717,4008
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Other Demographics,Gender,Non-Binary,0.005489835,8711
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Orange Line,All Orange Line,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.073435493,12593
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Other Demographics,Ability to Understand English,Always,0.86600521,3636
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Green Street,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.243253797,9167
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Alternative Modes,Alternative Mode,Drive Alone,0.420086175,10013
+Service Mode,Commuter Rail,All Commuter Rail,Access Mode,Access to First MBTA Service,Walked,0.612344259,12817
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Amory Street to Packard's Corner,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.085297511,5932
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Fares,Reduced Fares,Senior CharlieCard,0.015534929,6088
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Ruggles,Vehicles,Usable Cars,3 or more,0.030275789,9857
+Reporting Group,Bus,39,Fares,Fare Product,Semester Pass,0.021021737,1198
+Reporting Group,Bus,22,Race and Ethnicity,Race,Black or African American,0.689442051,873
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Vehicles,Cars per Capita,1 or more,0.068418023,6486
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL3,Other Demographics,Gender,Man,0.447590116,12062
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Race and Ethnicity,Race,White,0.601300339,5678
+Reporting Group,Bus,Malden/Everett - North,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.065035724,2955
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.339924719,2457
+Reporting Group,Bus,16,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.265963908,544
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.246781265,9417
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.0,8275
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Access Mode,Access to First MBTA Service,Walked,0.871587014,13162
+Reporting Group,Commuter Rail,Haverhill Line,Fares,Reduced Fares,Senior CharlieCard,0.029633954,4210
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Fares,Reduced Fares,Youth Pass,0.014441715,9053
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Vehicles,Cars per Capita,1 or more,0.055954148,7541
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Fares,Fare Product,Monthly Pass,0.406691018,9259
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Income,Household Income,100% to 140% of Area Median Income,0.079592249,11417
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.062473999,3121
+Reporting Group,Bus,22,Fares,Reduced Fares,Youth Pass,0.00718783,742
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.016606882,11119
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Trip Purpose and Frequency,Frequency,Less than once per month,0.22010381,4769
+Systemwide,All Modes,Systemwide,Race and Ethnicity,Hispanic or Latino/Latina,No,0.75296133,13227
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Fares,Fare Product,Pay-as-you-go,0.327181877,6553
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Andrew,Income,Household Income,30% to 60% of Area Median Income,0.282957979,10135
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Other Demographics,Gender,Man,0.304715291,7500
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Income,Household Income,Less than 30% of Area Median Income,0.132487434,9245
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Amory Street to Packard's Corner,Fares,Fare Product,Other,0.007733282,5997
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.076021192,9613
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Amory Street to Packard's Corner,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.041786298,5707
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Park Street,Other Demographics,Age,Under 18,0.02746799,7855
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Income,Household Income,100% to 140% of Area Median Income,0.072261886,8607
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.109902295,10944
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Other Demographics,Ability to Understand English,Sometimes,0.083664734,9943
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Income,Household Income,Less than 30% of Area Median Income,0.122651952,10567
+Reporting Group,Commuter Rail,Greenbush Line,Income,Household Income,30% to 60% of Area Median Income,0.185634728,4309
+Reporting Group,Bus,9,Vehicles,Usable Cars,3 or more,0.023643131,2272
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Income,Household Income,30% to 60% of Area Median Income,0.161034344,6260
+Reporting Group,Ferry,Ferry,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.154620324,5091
+Reporting Group,Bus,34 & 34E,Other Demographics,Age,26 to 34,0.306126818,840
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Race and Ethnicity,Race,Prefer not to say,0.021276584,10502
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Other Demographics,Ability to Understand English,Often,0.041359418,11278
+Service Mode,Commuter Rail,All Commuter Rail,Vehicles,Usable Cars,0,0.210939647,12856
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wonderland,Income,Household Income,60% to 80% of Area Median Income,0.208135059,5767
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Fares,Reduced Fares,Senior CharlieCard,0.015690805,11264
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Other Demographics,Age,45 to 64,0.139183601,9741
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Vehicles,Usable Cars,2,0.211050824,6342
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Alternative Modes,Alternative Mode,Other,0.035199261,3245
+Reporting Group,Bus,22,Income,Household Income,Less than 30% of Area Median Income,0.183724682,745
+Reporting Group,Commuter Rail,Fitchburg Line,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.027135175,3945
+Reporting Group,Bus,9,Vehicles,Cars per Capita,0,0.353661816,2265
+Reporting Group,Bus,28 & 29,Income,Household Income,Prefer not to say,0.114585144,1108
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Alternative Modes,Alternative Mode,Different MBTA Service,0.101502817,11927
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.009084425,2817
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Vehicles,Usable Cars,2,0.135233714,4922
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Income,Household Income,100% to 140% of Area Median Income,0.095383121,9249
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Alternative Modes,Alternative Mode,Drive Alone,0.359826978,9840
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Fares,Reduced Fares,Full Fare,0.75,6253
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Fares,Reduced Fares,Senior CharlieCard,0.010000061,4950
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Fares,Reduced Fares,Youth Pass,0.020822896,3976
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Fares,Reduced Fares,Full Fare,0.896911035,6848
+Reporting Group,Bus,71,Fares,Fare Product,Pay-as-you-go,0.273747503,1979
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Race and Ethnicity,Title VI Minority,No,0.424146804,9016
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Trip Purpose and Frequency,Frequency,5 days per week,0.429490287,4890
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.093898558,6563
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Ball Square,Alternative Modes,Alternative Mode,Walk,0.29087454,6238
+Reporting Group,Bus,57,Fares,Reduced Fares,Youth Pass,0.024839117,1352
+Reporting Group,Bus,71,Fares,Reduced Fares,Full Fare,0.805641414,1984
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.101929487,11745
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Davis,Trip Purpose and Frequency,Frequency,5 days per week,0.373703001,11025
+Reporting Group,Bus,4 & 7,Race and Ethnicity,Race,Asian,0.088350018,1492
+Reporting Group,Bus,86,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.269367851,2151
+Reporting Group,Bus,22,Vehicles,Usable Cars,0,0.4417467,896
+Service Mode,Commuter Rail,All Commuter Rail,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.106929253,13108
+Reporting Group,Bus,34 & 34E,Income,Household Income,Prefer not to say,0.082883863,829
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.174922544,6030
+Reporting Group,Commuter Rail,Haverhill Line,Race and Ethnicity,Race,Other,0.111516671,4399
+Reporting Group,Bus,47,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.012294686,1359
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Income,Title VI Low-Income,No,0.266308093,12473
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.014733624,3275
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.005340854,6211
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Other Demographics,Ability to Understand English,Never,0.037420966,4863
+Reporting Group,Bus,16,Other Demographics,Gender,Woman,0.535818705,536
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Park Street,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.097580861,7812
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Fields Corner,Fares,Fare Product,Semester Pass,0.014208409,10876
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Fares,Fare Product,Other,0.001447232,10147
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Race and Ethnicity,Title VI Minority,No,0.445380066,3799
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.200336649,10195
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.477664879,7224
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Other Demographics,Age,65 or older,0.020199439,9742
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Medford/Tufts,Fares,Reduced Fares,Transportation Access Pass (TAP),0.035039778,7319
+Reporting Group,Bus,Brighton/Allston/Watertown - Boston,Fares,Fare Product,1-day Pass,0.006207121,2013
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Income,Household Income,140% to 200% of Area Median Income,0.053536932,9250
+Reporting Group,Bus,61 & 70,Other Demographics,Age,Under 18,0.016737515,1656
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Income,Household Income,30% to 60% of Area Median Income,0.317433474,7913
+Reporting Group,Bus,34 & 34E,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.026273036,1044
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Tufts Medical Center,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.055758655,10052
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Harvard Avenue,Vehicles,Cars per Capita,0,0.500731848,6854
+Reporting Group,Bus,104,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.018040369,374
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.380080805,4839
+Reporting Group,Commuter Rail,Kingston Line,Trip Purpose and Frequency,Frequency,5 days per week,0.246632975,4368
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Income,Household Income,Prefer not to say,0.121330539,9729
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Race and Ethnicity,Title VI Minority,No,0.388399766,7133
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Access Mode,Access to First MBTA Service,Walked,0.716870889,12120
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Other Demographics,Ability to Understand English,Sometimes,0.056804223,8716
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Vehicles,Usable Cars,3 or more,0.022139618,3466
+Reporting Group,Commuter Rail,Lowell Line,Other Demographics,Age,18 to 25,0.292448438,4514
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Race and Ethnicity,Hispanic or Latino/Latina,Prefer not to say,0.016832477,11295
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Income,Household Income,100% to 140% of Area Median Income,0.02531922,12542
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Other Demographics,Age,Under 18,0.038451125,4983
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Other Demographics,Age,35 to 44,0.227082766,12233
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.181649077,8333
+Reporting Group,Bus,Brighton/Allston/Watertown - Other Suburb,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.036656928,2583
+Reporting Group,Bus,47,Fares,Fare Product,Monthly Pass,0.551554463,1419
+Reporting Group,Bus,43 & SL5,Alternative Modes,Alternative Mode,"Bike, Scooter, or Other Micromobility",0.084005885,1576
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Income,Household Income,30% to 60% of Area Median Income,0.17150688,4755
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Government Center,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.116529507,7128
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Northeastern to Longwood Medical Area,Income,Household Income,80% to 100% of Area Median Income,0.098685714,7310
+Reporting Group,Commuter Rail,Greenbush Line,Access Mode,Access to First MBTA Service,Walked,0.60396683,4163
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.102994714,12132
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Income,Household Income,100% to 140% of Area Median Income,0.050590724,8215
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Andrew,Income,Title VI Low-Income,Yes,0.700425984,10149
+Reporting Group,Bus,9,Other Demographics,Age,35 to 44,0.176630217,2055
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Other Demographics,Gender,Non-Binary,0.028817521,6761
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Race and Ethnicity,Race,White,0.613862765,6537
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Income,Household Income,200% or more of Area Median Income,0.013560271,3609
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Other Demographics,Age,45 to 64,0.143218016,4120
+Reporting Group,Bus,Somerville/Medford/Charlestown - East,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.200561095,3856
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.180501679,8324
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Other Demographics,Age,35 to 44,0.250594182,5958
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Income,Household Income,80% to 100% of Area Median Income,0.114485414,9279
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.239690886,4661
+Reporting Group,Commuter Rail,Fairmount Line,Vehicles,Usable Cars,0,0.298611273,3913
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Race and Ethnicity,Race,Asian,0.161370452,10582
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Fares,Fare Product,Pay-as-you-go,0.364673479,5181
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Suffolk Downs and Orient Heights,Trip Purpose and Frequency,Frequency,5 days per week,0.391679489,5968
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Race and Ethnicity,Race,Black or African American,0.696474594,3560
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Magoun Square,Race and Ethnicity,Race,Middle Eastern or North African,0.034907601,7211
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Fares,Reduced Fares,Transportation Access Pass (TAP),0.020548165,8883
+Reporting Group,Commuter Rail,Fairmount Line,Race and Ethnicity,Race,Other,0.051007776,3774
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Trip Purpose and Frequency,Frequency,Less than once per month,0.096172205,5474
+Reporting Group,Bus,15,Trip Purpose and Frequency,Frequency,Less than once per month,0.071460079,677
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Race and Ethnicity,Title VI Minority,Yes,0.471226298,4639
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Income,Household Income,60% to 80% of Area Median Income,0.355747832,12332
+Reporting Group,Bus,23,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.074981756,922
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Alternative Modes,Used Alternative Mode,Yes,0.114570192,8356
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Race and Ethnicity,Race,Asian,0.179469049,6857
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Other Demographics,Ability to Understand English,Often,0.053547042,9142
+Reporting Group,Bus,1,Fares,Fare Product,Semester Pass,0.024258899,222
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Prudential,Fares,Fare Product,7-day Pass,0.168621055,7900
+Reporting Group,Commuter Rail,Fitchburg Line,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.019129655,3949
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Income,Household Income,30% to 60% of Area Median Income,0.276679704,6671
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Gilman Square and East Somerville,Income,Household Income,Less than 30% of Area Median Income,0.203019475,6513
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Vehicles,Usable Cars,0,0.452112797,11815
+Reporting Group,Commuter Rail,Haverhill Line,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.502186859,4065
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,South Station,Fares,Reduced Fares,Youth Pass,0.013941534,11935
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Vehicles,Usable Cars,2,0.160261901,12492
+Reporting Group,Bus,111,Other Demographics,Age,65 or older,0.012643335,334
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.024443756,5567
+Reporting Group,Bus,71,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.660558944,1924
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Blandford Street to BU Central,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.005869102,6348
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,State,Fares,Fare Product,Other,0.007826634,5260
+Systemwide,All Modes,Systemwide,Trip Purpose and Frequency,Frequency,3 to 4 days per week,0.234391192,13241
+Reporting Group,Bus,4 & 7,Other Demographics,Ability to Understand English,Always,0.954829366,1476
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Race and Ethnicity,Title VI Minority,Yes,0.512788906,8171
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Roxbury Crossing,Other Demographics,Gender,Prefer not to say,0.002017247,9644
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Fares,Fare Product,Monthly Pass,0.424733002,7746
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Griggs Street to Warren Street,Alternative Modes,Used Alternative Mode,Yes,0.119964192,7022
+Reporting Group,Bus,86,Other Demographics,Age,45 to 64,0.086380179,2145
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Income,Household Income,Prefer not to say,0.145380259,10421
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Savin Hill,Other Demographics,Gender,Man,0.411082978,11698
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.250491794,11539
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Other Demographics,Ability to Understand English,Never,0.008873781,11226
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Shawmut,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.008171088,11917
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Green Line,All Green Line,Income,Household Income,80% to 100% of Area Median Income,0.114054735,12467
+Reporting Group,Bus,22,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.344606436,725
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Maverick,Income,Household Income,140% to 200% of Area Median Income,0.020694286,5322
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Community College,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.268214416,8546
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Fields Corner,Trip Purpose and Frequency,Frequency,Less than once per month,0.083579647,11102
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.001788476,8515
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Porter,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.088223269,11863
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Washington Street to Boston College,Alternative Modes,Alternative Mode,Drive Alone,0.137647085,8376
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Race and Ethnicity,Race,Black or African American,0.150098107,9441
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Alternative Modes,Alternative Mode,Walk,0.206866284,7388
+Reporting Group,Bus,"114, 116, & 117",Fares,Reduced Fares,Youth Pass,0.012928213,448
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Park Street,Other Demographics,Ability to Understand English,Prefer not to say,0.003422405,7854
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Revere Beach,Income,Title VI Low-Income,Yes,0.843756933,5525
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Haymarket,Fares,Reduced Fares,Student (S-Card or M7),0.015973885,9104
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Other Demographics,Age,26 to 34,0.270288789,3419
+Reporting Group,Bus,4 & 7,Vehicles,Usable Cars,1,0.378115006,1321
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Wollaston,Vehicles,Usable Cars,2,0.223282562,12146
+Reporting Group,Bus,61 & 70,Other Demographics,Gender,Man,0.454964138,1663
+Reporting Group,Bus,71,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.008442157,1966
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Other Demographics,Age,35 to 44,0.234857655,4119
+Reporting Group,Bus,15,Vehicles,Cars per Capita,Strictly between 0 and 0.5,0.414536106,684
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Other Demographics,Age,26 to 34,0.364903282,13181
+Reporting Group,Bus,22,Race and Ethnicity,Race,White,0.191430944,876
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Orient Heights,Race and Ethnicity,Race,Prefer not to say,0.075123978,5484
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL2,Trip Purpose and Frequency,Frequency,5 days per week,0.492750845,12282
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,State,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.107501083,9771
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Charles/MGH,Income,Household Income,Prefer not to say,0.113920539,10475
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Downtown Crossing,Vehicles,Usable Cars,2,0.15950007,11197
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Vehicles,Cars per Capita,1 or more,0.126438712,12993
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.143891986,6928
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,All Mattapan Trolley,Fares,Fare Product,Monthly Pass,0.303642507,12659
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Malden Center,Fares,Fare Product,1-day Pass,0.018432519,9264
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Stony Brook,Fares,Fare Product,Monthly Pass,0.440488505,9850
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Income,Title VI Low-Income,Yes,0.604959775,12340
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Vehicles,Usable Cars,0,0.244222351,9543
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Alternative Modes,Alternative Mode,Different MBTA Service,0.446649169,8077
+Reporting Group,Bus,71,Income,Household Income,Less than 30% of Area Median Income,0.194866262,1990
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Reservoir to Newton Highlands,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.123965856,7631
+Service Mode,Ferry,All Ferry,Vehicles,Cars per Capita,Strictly between 0.5 and 1,0.063088573,13142
+Reporting Group,Bus,57,Vehicles,Usable Cars,0,0.415162862,1689
+Reporting Group,Bus,Quincy - East,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.017593036,3014
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Income,Household Income,80% to 100% of Area Median Income,0.136879811,4709
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Income,Title VI Low-Income,No,0.395040225,12343
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.157001587,3959
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Income,Household Income,Prefer not to say,0.183510124,10547
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Access Mode,Access to First MBTA Service,Carpooled or Dropped off by Personal Vehicle,0.00474878,5614
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Fares,Reduced Fares,Transportation Access Pass (TAP),0.013547107,9064
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - North Shore,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.261612921,2761
+Reporting Group,Bus,11,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.202425154,102
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Fields Corner,Trip Purpose and Frequency,Trip Purpose,Home-based Other,0.151458974,11117
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Other Demographics,Age,26 to 34,0.388836153,10581
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.109279896,8139
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Income,Household Income,200% or more of Area Median Income,0.037193303,4049
+Reporting Group,Bus,23,Income,Title VI Low-Income,Yes,0.936582141,980
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.107382868,13329
+Reporting Group,Commuter Rail,Kingston Line,Alternative Modes,Used Alternative Mode,No,0.838172284,4093
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Park Street,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.099078499,11378
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Haymarket,Race and Ethnicity,Race,Other,0.049733709,7121
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Other Demographics,Age,Under 18,0.009893203,11719
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Fenway and Longwood,Other Demographics,Ability to Understand English,Often,0.040027526,6735
+Reporting Group,Bus,34 & 34E,Race and Ethnicity,Race,Native Hawaiian or other Pacific Islander,0.006577416,1154
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.083949524,8095
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Race and Ethnicity,Hispanic or Latino/Latina,No,0.882528024,8420
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - East,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.017122034,3342
+Reporting Group,Commuter Rail,Haverhill Line,Other Demographics,Gender,Man,0.447225155,4354
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Alewife,Income,Title VI Low-Income,Yes,0.603912894,10045
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Braintree,Alternative Modes,Alternative Mode,Walk,0.13329688,10764
+Reporting Group,Commuter Rail,Framingham/Worcester Line,Vehicles,Cars per Capita,0,0.29195907,4004
+Reporting Group,Rapid Transit or Bus Rapid Transit - Silver Line BRT,SL1,Trip Purpose and Frequency,Frequency,1 to 2 days per week,0.052546885,12396
+Reporting Group,Bus,Malden/Everett - South,Fares,Reduced Fares,Student (S-Card or M7),0.014222028,2933
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Medford/Tufts,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.100798223,7262
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brigham Circle to Heath Street,Alternative Modes,Alternative Mode,Drive Alone,0.071159329,6109
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Alternative Modes,Alternative Mode,Other,0.019131058,10676
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Chinatown,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.094166096,8518
+Reporting Group,Ferry,Ferry,Other Demographics,Age,26 to 34,0.216788674,5146
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,JFK/UMass,Other Demographics,Gender,Non-Binary,0.017995823,11236
+Reporting Group,Bus,Brighton/Allston/Watertown - Other Suburb,Alternative Modes,Alternative Mode,Other,0.0,2391
+Reporting Group,Bus,104,Race and Ethnicity,Hispanic or Latino/Latina,Yes,0.423603619,20
+Reporting Group,Bus,39,Fares,Reduced Fares,Senior CharlieCard,0.025484228,1356
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Lechmere and Science Park/West End,Race and Ethnicity,Race,Middle Eastern or North African,0.036314047,7518
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Airport,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.030723271,5166
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Access Mode,Access to First MBTA Service,Taxi or Rideshare Company,0.023848926,5712
+Reporting Group,Commuter Rail,Lowell Line,Other Demographics,Age,45 to 64,0.100191772,4534
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Arlington,Other Demographics,Gender,Man,0.310335563,5817
+Reporting Group,Bus,111,Income,Title VI Low-Income,Yes,0.900499933,322
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Forest Hills,Fares,Reduced Fares,Full Fare - Subsidized by Employer,0.111416757,8984
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Symphony,Fares,Reduced Fares,Senior CharlieCard,0.033618316,8208
+Reporting Group,Bus,Malden/Everett - North,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.004513186,3188
+Reporting Group,Ferry,Ferry,Income,Title VI Low-Income,Yes,0.359903839,5126
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Copley,Alternative Modes,Alternative Mode,Drive Alone,0.215620408,6428
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Summit Ave to Cleveland Circle,Other Demographics,Gender,Non-Binary,0.011359366,8137
+Reporting Group,Bus,"8, 55 & CT3",Income,Household Income,140% to 200% of Area Median Income,0.029223225,2178
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Boylston,Vehicles,Usable Cars,3 or more,0.026685663,6396
+Reporting Group,Commuter Rail,Kingston Line,Alternative Modes,Alternative Mode,Different MBTA Service,0.445932534,4085
+Reporting Group,Bus,11,Alternative Modes,Alternative Mode,Other,0.0,264
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,North Station,Race and Ethnicity,Race,White,0.578421465,9523
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Sullivan Square,Fares,Reduced Fares,Student (S-Card or M7),0.018993384,9920
+Reporting Group,Bus,66,Alternative Modes,Alternative Mode,Walk,0.28586366,1603
+Reporting Group,Bus,57,Access Mode,Access to First MBTA Service,"Bike, Scooter or Other Micromobility",0.024454333,1329
+Reporting Group,Bus,86,Race and Ethnicity,Race,Black or African American,0.17942563,2216
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - Core,Alternative Modes,Alternative Mode,Walk,0.24899513,2440
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Alternative Modes,Alternative Mode,Private Shuttle or Other Transit,0.050127517,4550
+Reporting Group,Bus,21,Income,Household Income,100% to 140% of Area Median Income,0.008131836,474
+Reporting Group,Commuter Rail,Middleborough/Lakeville Line,Other Demographics,Age,65 or older,0.029829863,4748
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End & Jamaica Plain/Roslindale/Hyde Park,Income,Title VI Low-Income,Yes,0.911374312,3528
+Reporting Group,Commuter Rail,Newburyport/Rockport Line,Alternative Modes,Alternative Mode,Drive Alone,0.468088662,4478
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Race and Ethnicity,Title VI Minority,No,0.339030413,3066
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Wood Island,Alternative Modes,Alternative Mode,Drive or Ride in a Carpool,0.105313153,5786
+Reporting Group,Bus,43 & SL5,Income,Household Income,30% to 60% of Area Median Income,0.432482756,1596
+Reporting Group,Bus,Cambridge/Arlington - Harvard,Other Demographics,Gender,Woman,0.550587981,2496
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Central,Trip Purpose and Frequency,Trip Purpose,Home-based Work,0.553412196,10622
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Eliot to Riverside,Income,Title VI Low-Income,Yes,0.635876951,6659
+Reporting Group,Rapid Transit or Bus Rapid Transit - Mattapan Trolley,Mattapan Trolley,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.036492904,8442
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Broadway,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.084795939,10645
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Kenmore,Access Mode,Access to First MBTA Service,Walked,0.949504573,6940
+Reporting Group,Bus,4 & 7,Fares,Fare Product,Other,0.0050431,1458
+Reporting Group,Bus,Jamaica Plain/Roslindale/Hyde Park,Access Mode,Access to First MBTA Service,Drove Alone,0.002847318,2806
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Fares,Fare Product,7-day Pass,0.212894044,10386
+Reporting Group,Bus,Chelsea/East Boston/Lynn/Revere - North Shore,Fares,Reduced Fares,Youth Pass,0.009276708,2792
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Oak Grove,Trip Purpose and Frequency,Frequency,1 to 3 days per month,0.095737709,9481
+Reporting Group,Commuter Rail,Providence/Stoughton Line,Access Mode,Access to First MBTA Service,Walked,0.565885717,4527
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Ashmont,Trip Purpose and Frequency,Trip Purpose,Home-based Social Activity,0.103976671,10673
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Fares,Fare Product,Pay-as-you-go,0.373766779,8012
+Reporting Group,Bus,Somerville/Medford/Charlestown - West,Trip Purpose and Frequency,Frequency,6 to 7 days per week,0.075455827,3801
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Saint Mary's Street to Coolidge Corner,Other Demographics,Ability to Understand English,Always,0.958411296,7949
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Aquarium,Other Demographics,Gender,Non-Binary,0.015279187,4873
+Reporting Group,Bus,57,Access Mode,Access to First MBTA Service,Private Shuttle or Other Transit,0.000941935,1327
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Downtown Crossing,Alternative Modes,Used Alternative Mode,No,0.876428679,8869
+Reporting Group,Bus,Malden/Everett - South,Income,Title VI Low-Income,Yes,0.856436085,3026
+Reporting Group,Bus,Quincy - East,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.08490405,2895
+Reporting Group,Bus,34 & 34E,Race and Ethnicity,Race,American Indian or Alaska Native,0.058659364,851
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Fares,Fare Product,Student Pass (M7),0.036960242,4032
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Brookline Village to Beaconsfield,Other Demographics,Age,26 to 34,0.339208869,6311
+Rapid Transit or Bus Rapid Transit Line,Rapid Transit or Bus Rapid Transit - Silver Line BRT,All Silver Line BRT,Vehicles,Usable Cars,0,0.380478876,12995
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Center,Fares,Fare Product,7-day Pass,0.164429485,11620
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Union Square,Other Demographics,Ability to Understand English,Often,0.04475859,8035
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Kendall/MIT,Vehicles,Usable Cars,2,0.120108782,11259
+Reporting Group,Rapid Transit or Bus Rapid Transit - Blue Line,Government Center,Race and Ethnicity,Race,White,0.618835388,5164
+Reporting Group,Rapid Transit or Bus Rapid Transit - Red Line,Quincy Adams,Trip Purpose and Frequency,Trip Purpose,Home-based School,0.091282827,11754
+Reporting Group,Bus,9,Alternative Modes,Used Alternative Mode,Yes,0.129764533,2228
+Reporting Group,Bus,67 & 77,Other Demographics,Gender,Man,0.403033851,1731
+Reporting Group,Rapid Transit or Bus Rapid Transit - Green Line,Hynes Convention Center,Income,Household Income,60% to 80% of Area Median Income,0.195120893,7071
+Reporting Group,Commuter Rail,Franklin/Foxboro Line,Other Demographics,Gender,Man,0.420051077,4123
+Reporting Group,Bus,Roxbury/Dorchester/Mattapan/South End - West,Trip Purpose and Frequency,Trip Purpose,Non-home Based,0.101847702,3456
+Reporting Group,Bus,23,Fares,Reduced Fares,Senior CharlieCard,0.029953497,968
+Reporting Group,Bus,39,Vehicles,Usable Cars,3 or more,0.017489727,1563
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Jackson Square,Alternative Modes,Used Alternative Mode,No,0.858126143,8994
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Wellington,Fares,Reduced Fares,Youth Pass,0.012225652,10395
+Service Mode,Rapid Transit or Bus Rapid Transit,All Rapid Transit or Bus Rapid Transit,Race and Ethnicity,Race,Black or African American,0.226014548,13314
+Reporting Group,Bus,10,Alternative Modes,Alternative Mode,Taxi or Rideshare Company,0.404046376,96
+Reporting Group,Rapid Transit or Bus Rapid Transit - Orange Line,Assembly,Vehicles,Usable Cars,3 or more,0.035798656,8764
+Reporting Group,Bus,Quincy - West,Race and Ethnicity,Race,American Indian or Alaska Native,0.017374348,3308

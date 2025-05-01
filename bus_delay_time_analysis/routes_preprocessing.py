@@ -12,6 +12,9 @@ def preprocess_routes(routes_df: pd.DataFrame) -> pd.DataFrame:
 
   # Done to get rid of extreme outliers
   filtered_df = routes_df[(routes_df['delay_seconds'] >= -3600) & (routes_df['delay_seconds'] <= 3600)]
+
+  # Take positive value as we only want to analyze delays
   positive_delays = filtered_df[filtered_df['delay_seconds'] > 0]
+
   avg_positive_delay_per_route = positive_delays.groupby('route_id')['delay_seconds'].mean().reset_index()
   return avg_positive_delay_per_route

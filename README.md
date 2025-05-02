@@ -41,6 +41,9 @@ We found that ridership has dropped across the MBTA bus system following COVID. 
 
 The data, grouped by routes, will have an additional aggregate feature that contains the time in seconds between the arrival at the first stop and the arrival at the final stop. The intention of this feature is to reflect possible route efficiency changes over time, such as comparing pre and post-pandemic route duration times, along with the relative efficiency within areas of varying socioeconomic demographics. The motivation behind using route duration lies in its ability to contextualize route efficiency; it can be combined with other features like the number of stops to track per-stop efficiency, along with the accessibility and convenience of reaching certain areas of the city from areas of demographical interest.
 
+![Average End to End time for Each Bus Route](assets/end_to_end_graph.png)
+*Average end to end time for each bus route in the MBTA. The graph is colored orange for outbound buses and blue for inbound buses.*
+
 ### Wait Time Data Processing and Modeling:
 *On average, how long does an individual have to wait for a bus (on time vs. delayed)?*
 
@@ -67,6 +70,21 @@ Looking across the MBTA, we found that delays were common. Buses frequently run 
 *Are there differences in the characteristics of the people most impacted*
 
 For route levels service disparities, we compared ridership to headway, a measure of time between buses. This can give insight into the over or undercrowding of specifc bus routes, and shows what routes may need more resources. We also looked at routes with high delays and lowered ridership, to see if there was a correlation between delays and ridership. 
+
+Using the 2024 survey, we have created graph breakdowns of different demographics (income, race, trip purpose, age, gender, and English-speaking).
+Below are the graphs:
+
+![Income](assets/income_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via income.*
+
+![Race](assets/race_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via race.*
+
+![Other Demographics](assets/other_demographics_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via age, gender, and English-speaking ability.*
+
+![Trip Purpose and Frequency](assets/trip_purpose_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via trip purpose and frequency.*
 
 
 ### Changes over time (2018-2024):

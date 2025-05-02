@@ -4,12 +4,11 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 ### Final Report Video Link:
 
-[Youtube Presentation Link](https://youtu.be/62y40h25OEA)
+[Final Presentation and Overview](https://youtu.be/dal5o1wtGpI)
 
+### Local setup and testing (**IMPORTANT FOR REVIEW**):
 
-### Local setup and testing:
-
-We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing. The files we used to generate the visualizations are listed at the end of each respective section.
+ We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing. The files we used to generate the visualizations are listed at the end of each respective section.
 
 ### Datasets:
 

@@ -96,6 +96,25 @@ Below are the graphs:
 
 Through these graphs, we can deduce that lower income minorities use the bus more than people of medium or high income. We can also deduce that younger people (18-34) take the bus much more than their older counterparts, with the 26-34 age group being the most popular amongst the bus rider population. People who are also not as good at English (often or sometimes) prefer to take the bus much more than other modes of transportation (ferry or commuter rail). An overwhelming amount of people take the bus 5 times a week over alternative options, with a majority of the usage coming from home-based work or other activities under that category.
 
+
+### Service Level Disparity Demographics
+
+Using demographic survey data, average delays for routes, and daily ridership for routes we wanted to see how average delay changed by demographic. The 2023 MBTA survey contains a reporting group column that breaks cover a set of routes. We were able to calculate a weighted average delay for each reporting group and total daily ridership. As demographic data provides a percentage of individuals that fall into each reporting group, this could be used to see if there were widespread correlations between different demographics and delays experienced. Results are shown below:
+
+![income_avg](income_average_delay.png)
+*Breakdown of average delay by income*
+
+![ethnicity_avg](ethnicity_average_delay.png)
+*Breakdown of average delay by ethnicity*
+
+![car_avg](cars_average_delay.png)
+*Breakdown of average delay by number of cars owned*
+
+We did not find significantly strong disparities betweeen income or ethnicity and delay. However, this might be because looking at data from this level is too generalized to provide any insightful information. However, we found that there was some relationship between cars per capita and delays. This may correlate more with location than anything, as individuals who live further from Boston may be likely to have more cars. These areas would not be as well supported by public transportation and may face higher delays 
+
+*The Jupyter Notebook used for this was average_delay_demographic_correlation.ipynb*
+
+
 ### Changes over time (2018-2024):
 *Can we chart changes over time?*
 

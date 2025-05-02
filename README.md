@@ -9,7 +9,7 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 ### Local setup and testing:
 
-We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing.   
+We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing. The files we used to generate the visualizations are listed at the end of each respective section.
 
 ### Datasets:
 
@@ -35,6 +35,8 @@ Pre and post covid ridership was calculated using available monthly ridership da
 
 We found that ridership has dropped across the MBTA bus system following COVID. Today, fewer people use the buses than 6 years ago. This is likely heavily influenced by the pandemic, as people may have begun to work from home or invest in alternative forms in transport. Following the end of the pandemic it appears that levels still have not returned to prepandemic levels. 
 
+*The Jupyter Notebook used for this was ridership_routes.ipynb and *
+
 
 ### End to End Data Processing and Modeling:
 *What are the end-to-end travel times for each bus route in the city?*
@@ -44,6 +46,8 @@ The data, grouped by routes, will have an additional aggregate feature that cont
 ![Average End to End time for Each Bus Route](assets/end_to_end_graph.png)
 *Average end to end time for each bus route in the MBTA. The graph is colored orange for outbound buses and blue for inbound buses.*
 
+*The Jupyter Notebook used for this was end_to_end_calc.ipynb*
+
 ### Wait Time Data Processing and Modeling:
 *On average, how long does an individual have to wait for a bus (on time vs. delayed)?*
 
@@ -52,6 +56,7 @@ Wait times between buses can be calculated using headways data. Headways measure
 ![Wait Times for Key Routes](assets/headway_average.png)
 *Average scheduled vs actual headway by route on weekdays for 2024 season. Peak weekday times at 7:00am - 9:30am and 4:00pm - 6:30pm*
 
+*The Jupyter Notebook used for this was bus_wait_time_average.ipynb*
 
 ### Delay Data Processing and Modeling:
 *What is the average delay time of all routes across the entire city?*
@@ -64,6 +69,7 @@ Delays for individual bus trips was calculated by subtracting the actual arrival
 
 Looking across the MBTA, we found that delays were common. Buses frequently run late, are held up in traffic, or are cancelled. Notably, buses highlighted in the Liveable Streets Report face some of the worse average delays. These are bus routes that primarily serve vulnerable communities. 
 
+*The Jupyter Notebook used for this was route_delay_change_over_time.ipynb*
 
 ### Route Level Service Disparities:
 *Are there disparities in the service levels of different routes (which lines are late more often than others)?*
@@ -85,6 +91,8 @@ Below are the graphs:
 
 ![Trip Purpose and Frequency](assets/trip_purpose_breakdown.png)
 *Breakdown of MBTA riders and their most frequent mode of transportation categorized via trip purpose and frequency.*
+
+*The Jupyter Notebook used for this was demographic.ipynb*
 
 Through these graphs, we can deduce that lower income minorities use the bus more than people of medium or high income. We can also deduce that younger people (18-34) take the bus much more than their older counterparts, with the 26-34 age group being the most popular amongst the bus rider population. People who are also not as good at English (often or sometimes) prefer to take the bus much more than other modes of transportation (ferry or commuter rail). An overwhelming amount of people take the bus 5 times a week over alternative options, with a majority of the usage coming from home-based work or other activities under that category.
 

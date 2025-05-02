@@ -86,6 +86,7 @@ Below are the graphs:
 ![Trip Purpose and Frequency](assets/trip_purpose_breakdown.png)
 *Breakdown of MBTA riders and their most frequent mode of transportation categorized via trip purpose and frequency.*
 
+Through these graphs, we can deduce that lower income minorities use the bus more than people of medium or high income. We can also deduce that younger people (18-34) take the bus much more than their older counterparts, with the 26-34 age group being the most popular amongst the bus rider population. People who are also not as good at English (often or sometimes) prefer to take the bus much more than other modes of transportation (ferry or commuter rail). An overwhelming amount of people take the bus 5 times a week over alternative options, with a majority of the usage coming from home-based work or other activities under that category.
 
 ### Changes over time (2018-2024):
 *Can we chart changes over time?*

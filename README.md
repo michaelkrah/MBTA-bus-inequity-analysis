@@ -101,13 +101,13 @@ Through these graphs, we can deduce that lower income minorities use the bus mor
 
 Using demographic survey data, average delays for routes, and daily ridership for routes we wanted to see how average delay changed by demographic. The 2023 MBTA survey contains a reporting group column that breaks cover a set of routes. We were able to calculate a weighted average delay for each reporting group and total daily ridership. As demographic data provides a percentage of individuals that fall into each reporting group, this could be used to see if there were widespread correlations between different demographics and delays experienced. Results are shown below:
 
-![income_avg](income_average_delay.png)
+![income_avg](assets/income_average_delay.png)
 *Breakdown of average delay by income*
 
-![ethnicity_avg](ethnicity_average_delay.png)
+![ethnicity_avg](assets/ethnicity_average_delay.png)
 *Breakdown of average delay by ethnicity*
 
-![car_avg](cars_average_delay.png)
+![car_avg](assets/cars_average_delay.png)
 *Breakdown of average delay by number of cars owned*
 
 We did not find significantly strong disparities betweeen income or ethnicity and delay. However, this might be because looking at data from this level is too generalized to provide any insightful information. However, we found that there was some relationship between cars per capita and delays. This may correlate more with location than anything, as individuals who live further from Boston may be likely to have more cars. These areas would not be as well supported by public transportation and may face higher delays 

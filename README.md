@@ -35,7 +35,7 @@ Pre and post covid ridership was calculated using available monthly ridership da
 
 We found that ridership has dropped across the MBTA bus system following COVID. Today, fewer people use the buses than 6 years ago. This is likely heavily influenced by the pandemic, as people may have begun to work from home or invest in alternative forms in transport. Following the end of the pandemic it appears that levels still have not returned to prepandemic levels. 
 
-*The Jupyter Notebook used for this was ridership_routes.ipynb and *
+*The Jupyter Notebook used for this was ridership_routes.ipynb*
 
 
 ### End to End Data Processing and Modeling:

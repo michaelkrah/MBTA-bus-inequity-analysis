@@ -6,7 +6,7 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 [Final Presentation and Overview](https://youtu.be/dal5o1wtGpI)
 
-### Local setup and testing (**IMPORTANT FOR REVIEW**):
+### Local setup and testing (important to run files locally):
 
  We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing. The files we used to generate the visualizations are listed at the end of each respective section.
 
@@ -50,7 +50,7 @@ The data, grouped by routes, will have an additional aggregate feature that cont
 ### Wait Time Data Processing and Modeling:
 *On average, how long does an individual have to wait for a bus (on time vs. delayed)?*
 
-Wait times between buses can be calculated using headways data. Headways measure the scheduled and actual time between buses at specific stops. [Key routes](https://en.wikipedia.org/wiki/MBTA_key_bus_routes#) are routes with strict headway goals that they are expected to maintain during rush periods. We plotted scheduled and expected headways to understand how delays impacted wait times for bus riders. 
+Wait times between buses can be calculated using headways data. Headways measure the scheduled and actual time between buses at specific stops. [Key routes](https://en.wikipedia.org/wiki/MBTA_key_bus_routes#) are routes with strict headway goals that they are expected to maintain during rush periods. We plotted scheduled and expected headways to understand how delays impacted wait times for bus riders. Headway was calculated for just weekdays, as weekends have different required scheduling goals. 
 
 ![Wait Times for Key Routes](assets/headway_average.png)
 *Average scheduled vs actual headway by route on weekdays for 2024 season. Peak weekday times at 7:00am - 9:30am and 4:00pm - 6:30pm*
@@ -164,5 +164,14 @@ We were able to create geospatial visualizations of where stops were most delaye
 <img src="assets/boston_stops_with_highest_average_delay.png" alt="boston_stops_with_highest_average_delay" width="500">
 
 *10% of Bus Stops with Highest Recorded Absolute Average Delay*
+
+More visualizations that may have been interesting or insightful but did not necessarily fit:
+
+
+![avg_weekday_headway_key_routes](assets/avg_weekday_headway_key_routes.png)
+
+
+
+
 
 

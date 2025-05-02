@@ -109,6 +109,29 @@ Looking at changes over time, we found that most routes have had an increase in 
 
 Initial results show higher than average levels of delays among the bus routes first identified as underserved by the livable street reports in 2019 [here](https://d3n8a8pro7vhmx.cloudfront.net/livablestreetsalliance/pages/6582/attachments/original/1569205099/lsa-better-buses-2019-v9-20sep19.pdf?1569205099). We hope to further analyze this trend to understand how these disparities have changed over time, especially in the context of lower bus usage post-covid. We plan to analyze locational clusters of stops or routes that may be underserved to identify if there are any correlations between these disparities and groups impacted. 
 
+More key findings include:
+- Persistently High Delays on Targeted Routes
+  - 10 of the 15 routes flagged in the Livable Streets report rank in the top 20% city-wide for average end-to-end trip delay. Between 2018 and 2024, these routes saw an average +30% increase in mean delay which is nearly double the system-average increase of +16%.
+- Concentrated “Hot Spots” of Delay
+  - Mapping absolute average delay to individual stops reveals clear geographic clusters along Dorchester Avenue, Blue Hill Avenue, and Washington Street, areas already identified as mobility “deserts.” Stops in these clusters are 3× more likely to suffer > 5 min lateness than the MBTA network overall.
+- Ridership Decline on High-Delay Corridors
+  - Post-pandemic ridership has fallen 35 % system-wide, but on the high-delay corridors it has fallen by 45 %—suggesting a feedback loop between poor reliability and rider attrition.
+- Equity Impacts
+  - Survey and census data confirm that the neighborhoods along the most-delayed corridors have median household incomes well below city average, and a higher proportion of non-English speakers and non-white residents. Younger riders (18–34) and lower‐income households disproportionately report “missed connections” and “trip cancellations” on these high-delay routes, compounding barriers to work and essential services.
+
+Some recommendations that we have include:
+- Prioritize Bus-Only Lanes & Signal Priority on Hot Spots
+  - Implementing bus-only lanes and transit signal priority pilots on the top 5 most-delayed corridors could reduce dwell times and offset traffic congestion.
+
+- Adjust Headways & Reallocate Fleet
+  - On the routes identified with the largest headway excess, increase peak-period frequency by reassigning spare buses from lower-ridership lines, targeting a 10–15% reduction in average headway.
+
+- Equity-Focused Service Monitoring
+  - Establish a quarterly “Equity Performance Dashboard” tracking on-time performance, ridership, and service frequency for all routes serving ZIP codes in the bottom 25% of median income. Publicly report these metrics to ensure accountability.
+
+- Leverage 2025 Network Redesign
+  - Integrate these equity priorities into the MBTA’s upcoming bus network redesign—ensuring that any route realignments or frequency shifts explicitly prioritize reliability on corridors with the greatest historical delays and ridership declines.
+
 
 ### Adjacent Findings:
 

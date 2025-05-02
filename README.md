@@ -110,15 +110,6 @@ Looking at changes over time, we found that most routes have had an increase in 
 
 ### Results and Recommendations:
 
-<img src="assets/boston_all_stations.png" alt="all_boston_stations" width="500">*All Boston Bus Stops*
-
-<img src="assets/boston_stops_with_highest_average_delay.png" alt="boston_stops_with_highest_average_delay" width="500">*10% of Bus Stops with Highest Recorded Absolute Average Delay*
-
-![average_route_delay](assets/average_route_delay.png)
-*Average Absolute Route Delay, Stops Identified By the Livable Streets Report Are Highlighted*
-
-Initial results show higher than average levels of delays among the bus routes first identified as underserved by the livable street reports in 2019 [here](https://d3n8a8pro7vhmx.cloudfront.net/livablestreetsalliance/pages/6582/attachments/original/1569205099/lsa-better-buses-2019-v9-20sep19.pdf?1569205099). We hope to further analyze this trend to understand how these disparities have changed over time, especially in the context of lower bus usage post-covid. We plan to analyze locational clusters of stops or routes that may be underserved to identify if there are any correlations between these disparities and groups impacted. 
-
 More key findings include:
 - Persistently High Delays on Targeted Routes
   - 10 of the 15 routes flagged in the Livable Streets report rank in the top 20% city-wide for average end-to-end trip delay. Between 2018 and 2024, these routes saw an average +30% increase in mean delay which is nearly double the system-average increase of +16%.
@@ -145,8 +136,15 @@ Some recommendations that we have include:
 
 ### Adjacent Findings:
 
+We were able to create geospatial visualizations of where stops were most delayed using ArcGIS. Unfortunately, we did not have time to understand or look into this further. 
+
+<img src="assets/boston_all_stations.png" alt="all_boston_stations" width="500">
 
 
+*All Boston Bus Stops*
 
-### Future Work:
+<img src="assets/boston_stops_with_highest_average_delay.png" alt="boston_stops_with_highest_average_delay" width="500">
+
+*10% of Bus Stops with Highest Recorded Absolute Average Delay*
+
 

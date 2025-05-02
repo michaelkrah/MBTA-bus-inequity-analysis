@@ -69,7 +69,7 @@ Delays for individual bus trips was calculated by subtracting the actual arrival
 
 Looking across the MBTA, we found that delays were common. Buses frequently run late, are held up in traffic, or are cancelled. Notably, buses highlighted in the Liveable Streets Report face some of the worse average delays. These are bus routes that primarily serve vulnerable communities. 
 
-*The Jupyter Notebook used for this was route_delay_change_over_time.ipynb*
+*The Jupyter Notebook used for this was average_delay_times_across_routes.ipynb*
 
 ### Route Level Service Disparities:
 *Are there disparities in the service levels of different routes (which lines are late more often than others)?*
@@ -105,6 +105,8 @@ To understand how the bus system has changed over time, we first examined levels
 *Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red. Key routes are highlighted in green.*
 
 Looking at changes over time, we found that most routes have had an increase in average delay since 2018. We also found that the percentage of buses more than 5 minutes late has increased for most routes, shown in our notebooks. Notably, routes highlighted by the Liveable Streets Report have seen significant increases in average delay since 2018. These routes primarily run through underserved communities and have previously been highlighted as needing improvements. However, this data only goes until 2024. The MBTA has released policy plans, available [here](https://www.mbta.com/projects/bus-network-redesign), that suggest changes for bus modernization beginning in 2025.  
+
+*The Jupyter Notebook used for this was route_delay_change_over_time.ipynb*
 
 ### Results and Recommendations:
 

@@ -74,8 +74,8 @@ For route levels service disparities, we compared ridership to headway, a measur
 
 To understand how the bus system has changed over time, we first examined levels of ridership between 2018 and 2024. This gave a broad picture into how the MBTA has changed. We also plotted the change in delays between 2018 and 2024. This let us understand what routes may have improved and what routes may need attention.
 
-![Change in average delay](assets/percent_change_in_average_delay_2018_to_2024.png)
-*Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red.*
+![Change in average delay](assets/percent_change_in_avg_delay_2018_to_2024.png)
+*Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red. Key routes are highlighted in green.*
 
 Looking at changes over time, we found that most routes have had an increase in average delay since 2018. We also found that the percentage of buses more than 5 minutes late has increased for most routes, shown in our notebooks. Notably, routes highlighted by the Liveable Streets Report have seen significant increases in average delay since 2018. These routes primarily run through underserved communities and have previously been highlighted as needing improvements. However, this data only goes until 2024. The MBTA has released policy plans, available [here](https://www.mbta.com/projects/bus-network-redesign), that suggest changes for bus modernization beginning in 2025.  
 

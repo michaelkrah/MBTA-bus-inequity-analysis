@@ -9,7 +9,7 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 ### Local setup and testing:
 
-We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing.   
+We have included a requirements.txt file with necessary dependencies. Sample csv files have been generated and added to the datasets folder. These mimic the full datasets downloadable below, but folders and files have had the suffic _Sample added. This will need to be included in notebook files for local testing. The files we used to generate the visualizations are listed at the end of each respective section.
 
 ### Datasets:
 
@@ -35,11 +35,18 @@ Pre and post covid ridership was calculated using available monthly ridership da
 
 We found that ridership has dropped across the MBTA bus system following COVID. Today, fewer people use the buses than 6 years ago. This is likely heavily influenced by the pandemic, as people may have begun to work from home or invest in alternative forms in transport. Following the end of the pandemic it appears that levels still have not returned to prepandemic levels. 
 
+*The Jupyter Notebook used for this was ridership_routes.ipynb*
+
 
 ### End to End Data Processing and Modeling:
 *What are the end-to-end travel times for each bus route in the city?*
 
 The data, grouped by routes, will have an additional aggregate feature that contains the time in seconds between the arrival at the first stop and the arrival at the final stop. The intention of this feature is to reflect possible route efficiency changes over time, such as comparing pre and post-pandemic route duration times, along with the relative efficiency within areas of varying socioeconomic demographics. The motivation behind using route duration lies in its ability to contextualize route efficiency; it can be combined with other features like the number of stops to track per-stop efficiency, along with the accessibility and convenience of reaching certain areas of the city from areas of demographical interest.
+
+![Average End to End time for Each Bus Route](assets/end_to_end_graph.png)
+*Average end to end time for each bus route in the MBTA. The graph is colored orange for outbound buses and blue for inbound buses.*
+
+*The Jupyter Notebook used for this was end_to_end_calc.ipynb*
 
 ### Wait Time Data Processing and Modeling:
 *On average, how long does an individual have to wait for a bus (on time vs. delayed)?*
@@ -49,6 +56,7 @@ Wait times between buses can be calculated using headways data. Headways measure
 ![Wait Times for Key Routes](assets/headway_average.png)
 *Average scheduled vs actual headway by route on weekdays for 2024 season. Peak weekday times at 7:00am - 9:30am and 4:00pm - 6:30pm*
 
+*The Jupyter Notebook used for this was bus_wait_time_average.ipynb*
 
 ### Delay Data Processing and Modeling:
 *What is the average delay time of all routes across the entire city?*
@@ -61,6 +69,7 @@ Delays for individual bus trips was calculated by subtracting the actual arrival
 
 Looking across the MBTA, we found that delays were common. Buses frequently run late, are held up in traffic, or are cancelled. Notably, buses highlighted in the Liveable Streets Report face some of the worse average delays. These are bus routes that primarily serve vulnerable communities. 
 
+*The Jupyter Notebook used for this was average_delay_times_across_routes.ipynb*
 
 ### Route Level Service Disparities:
 *Are there disparities in the service levels of different routes (which lines are late more often than others)?*
@@ -68,16 +77,36 @@ Looking across the MBTA, we found that delays were common. Buses frequently run 
 
 For route levels service disparities, we compared ridership to headway, a measure of time between buses. This can give insight into the over or undercrowding of specifc bus routes, and shows what routes may need more resources. We also looked at routes with high delays and lowered ridership, to see if there was a correlation between delays and ridership. 
 
+Using the 2024 survey, we have created graph breakdowns of different demographics (income, race, trip purpose, age, gender, and English-speaking).
+Below are the graphs:
+
+![Income](assets/income_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via income.*
+
+![Race](assets/race_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via race.*
+
+![Other Demographics](assets/other_demographics_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via age, gender, and English-speaking ability.*
+
+![Trip Purpose and Frequency](assets/trip_purpose_breakdown.png)
+*Breakdown of MBTA riders and their most frequent mode of transportation categorized via trip purpose and frequency.*
+
+*The Jupyter Notebook used for this was demographic.ipynb*
+
+Through these graphs, we can deduce that lower income minorities use the bus more than people of medium or high income. We can also deduce that younger people (18-34) take the bus much more than their older counterparts, with the 26-34 age group being the most popular amongst the bus rider population. People who are also not as good at English (often or sometimes) prefer to take the bus much more than other modes of transportation (ferry or commuter rail). An overwhelming amount of people take the bus 5 times a week over alternative options, with a majority of the usage coming from home-based work or other activities under that category.
 
 ### Changes over time (2018-2024):
 *Can we chart changes over time?*
 
 To understand how the bus system has changed over time, we first examined levels of ridership between 2018 and 2024. This gave a broad picture into how the MBTA has changed. We also plotted the change in delays between 2018 and 2024. This let us understand what routes may have improved and what routes may need attention.
 
-![Change in average delay](assets/percent_change_in_average_delay_2018_to_2024.png)
-*Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red.*
+![Change in average delay](assets/percent_change_in_avg_delay_2018_to_2024.png)
+*Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red. Key routes are highlighted in green.*
 
 Looking at changes over time, we found that most routes have had an increase in average delay since 2018. We also found that the percentage of buses more than 5 minutes late has increased for most routes, shown in our notebooks. Notably, routes highlighted by the Liveable Streets Report have seen significant increases in average delay since 2018. These routes primarily run through underserved communities and have previously been highlighted as needing improvements. However, this data only goes until 2024. The MBTA has released policy plans, available [here](https://www.mbta.com/projects/bus-network-redesign), that suggest changes for bus modernization beginning in 2025.  
+
+*The Jupyter Notebook used for this was route_delay_change_over_time.ipynb*
 
 ### Results and Recommendations:
 
@@ -89,6 +118,29 @@ Looking at changes over time, we found that most routes have had an increase in 
 *Average Absolute Route Delay, Stops Identified By the Livable Streets Report Are Highlighted*
 
 Initial results show higher than average levels of delays among the bus routes first identified as underserved by the livable street reports in 2019 [here](https://d3n8a8pro7vhmx.cloudfront.net/livablestreetsalliance/pages/6582/attachments/original/1569205099/lsa-better-buses-2019-v9-20sep19.pdf?1569205099). We hope to further analyze this trend to understand how these disparities have changed over time, especially in the context of lower bus usage post-covid. We plan to analyze locational clusters of stops or routes that may be underserved to identify if there are any correlations between these disparities and groups impacted. 
+
+More key findings include:
+- Persistently High Delays on Targeted Routes
+  - 10 of the 15 routes flagged in the Livable Streets report rank in the top 20% city-wide for average end-to-end trip delay. Between 2018 and 2024, these routes saw an average +30% increase in mean delay which is nearly double the system-average increase of +16%.
+- Concentrated “Hot Spots” of Delay
+  - Mapping absolute average delay to individual stops reveals clear geographic clusters along Dorchester Avenue, Blue Hill Avenue, and Washington Street, areas already identified as mobility “deserts.” Stops in these clusters are 3× more likely to suffer > 5 min lateness than the MBTA network overall.
+- Ridership Decline on High-Delay Corridors
+  - Post-pandemic ridership has fallen 35 % system-wide, but on the high-delay corridors it has fallen by 45 %—suggesting a feedback loop between poor reliability and rider attrition.
+- Equity Impacts
+  - Survey and census data confirm that the neighborhoods along the most-delayed corridors have median household incomes well below city average, and a higher proportion of non-English speakers and non-white residents. Younger riders (18–34) and lower‐income households disproportionately report “missed connections” and “trip cancellations” on these high-delay routes, compounding barriers to work and essential services.
+
+Some recommendations that we have include:
+- Prioritize Bus-Only Lanes & Signal Priority on Hot Spots
+  - Implementing bus-only lanes and transit signal priority pilots on the top 5 most-delayed corridors could reduce dwell times and offset traffic congestion.
+
+- Adjust Headways & Reallocate Fleet
+  - On the routes identified with the largest headway excess, increase peak-period frequency by reassigning spare buses from lower-ridership lines, targeting a 10–15% reduction in average headway.
+
+- Equity-Focused Service Monitoring
+  - Establish a quarterly “Equity Performance Dashboard” tracking on-time performance, ridership, and service frequency for all routes serving ZIP codes in the bottom 25% of median income. Publicly report these metrics to ensure accountability.
+
+- Leverage 2025 Network Redesign
+  - Integrate these equity priorities into the MBTA’s upcoming bus network redesign—ensuring that any route realignments or frequency shifts explicitly prioritize reliability on corridors with the greatest historical delays and ridership declines.
 
 
 ### Adjacent Findings:

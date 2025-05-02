@@ -44,8 +44,10 @@ The data, grouped by routes, will have an additional aggregate feature that cont
 ### Wait Time Data Processing and Modeling:
 *On average, how long does an individual have to wait for a bus (on time vs. delayed)?*
 
-Wait times between buses can be calculated using headways data. Headways measure the scheduled and actual time between buses at specific stops. [Key routes](https://en.wikipedia.org/wiki/MBTA_key_bus_routes#), are routes with strict headway goals that they are expected to maintain during rush periods. We plotted scheduled and expected headways to understand how delays impacted wait times for bus riders. 
+Wait times between buses can be calculated using headways data. Headways measure the scheduled and actual time between buses at specific stops. [Key routes](https://en.wikipedia.org/wiki/MBTA_key_bus_routes#) are routes with strict headway goals that they are expected to maintain during rush periods. We plotted scheduled and expected headways to understand how delays impacted wait times for bus riders. 
 
+![Wait Times for Key Routes](assets/headway_average.png)
+*Average scheduled vs actual headway by route on weekdays for 2024 season. Peak weekday times at 7:00am - 9:30am and 4:00pm - 6:30pm*
 
 
 ### Delay Data Processing and Modeling:
@@ -53,6 +55,11 @@ Wait times between buses can be calculated using headways data. Headways measure
 *What is the average delay time of the target bus routes (22, 29, 15, 45, 28, 44, 42, 17, 23, 31, 26, 111, 24, 33, 14 - from Livable Streets report)?*
 
 Delays for individual bus trips was calculated by subtracting the actual arrival time from the scheduled arrival time in the arrival and departure dataset. This was then grouped by route and stop to find average and maximum delay times for all routes and stops. We were also able to look at other delay factors, such as percentage of buses more than 5 minutes late, as well as analyze the change in delays over time. We associated these results with available geospatial data for bus stop and route locations to cluster stops and visually analyze locational disparities in ArcGIS.
+
+![Average Route Delay](assets/average_route_delay.png)
+*Average delay for each route in the MBTA. Routes highlighted by the Livable Streets Report are highlighted in red.*
+
+Looking across the MBTA, we found that delays were common. Buses frequently run late, are held up in traffic, or are cancelled. Notably, buses highlighted in the Liveable Streets Report face some of the worse average delays. These are bus routes that primarily serve vulnerable communities. 
 
 
 ### Route Level Service Disparities:
@@ -67,6 +74,10 @@ For route levels service disparities, we compared ridership to headway, a measur
 
 To understand how the bus system has changed over time, we first examined levels of ridership between 2018 and 2024. This gave a broad picture into how the MBTA has changed. We also plotted the change in delays between 2018 and 2024. This let us understand what routes may have improved and what routes may need attention.
 
+![Change in average delay](assets/percent_change_in_average_delay_2018_to_2024.png)
+*Percent change in delay for routes over time. Routes highlighted by the Livable Streets Report are highlighted in red.*
+
+Looking at changes over time, we found that most routes have had an increase in average delay since 2018. We also found that the percentage of buses more than 5 minutes late has increased for most routes, shown in our notebooks. Notably, routes highlighted by the Liveable Streets Report have seen significant increases in average delay since 2018. These routes primarily run through underserved communities and have previously been highlighted as needing improvements. However, this data only goes until 2024. The MBTA has released policy plans, available [here](https://www.mbta.com/projects/bus-network-redesign), that suggest changes for bus modernization beginning in 2025.  
 
 ### Results and Recommendations:
 

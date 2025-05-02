@@ -4,7 +4,8 @@ Spark Project - Public transport plays an important role in the quality of life 
 
 ### Final Report Video Link:
 
-[Final Presentation and Overview](https://youtu.be/dal5o1wtGpI)
+[Final Presentation and Overview](https://www.youtube.com/watch?v=dal5o1wtGpI)
+
 
 ### Local setup and testing (important to run files locally):
 
